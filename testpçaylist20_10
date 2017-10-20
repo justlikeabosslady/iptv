@@ -1,0 +1,197 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png" tvg-id="rtp1.pt" group-title="PORTUGAL",RTP 1
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2710.m3u8
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png" tvg-id="rtp1.pt" group-title="PORTUGAL",RTP 1 HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2714.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="PORTUGAL",RTP 2
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2709.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="PORTUGAL",RTP 2 HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2713.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/SIC_2016_logo.png/revision/latest?cb=20161102121725" tvg-id="sic.pt" group-title="PORTUGAL",SIC
+http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-nYJsBleEw7I/T4SHETdUYqI/AAAAAAAACGE/WLmF8WU03Fs/s1600/SIC+HD+logo.png" tvg-id="sic.pt" group-title="PORTUGAL",SIC 2
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2703.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png" tvg-id="TVI.pt" group-title="PORTUGAL",TVI
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3845.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png" tvg-id="TVI.pt" group-title="PORTUGAL",TVI HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3840.m3u8
+#EXTINF:-1 tvg-logo="http://biosurfit.com/wp-content/uploads/2014/11/sic_noticias.png" tvg-id="sicnoticias.pt" group-title="PORTUGAL",SIC NOTICIAS
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP3" tvg-id="rtpn.pt" group-title="PORTUGAL",RTP 3
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2708.m3u8 ~
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/a/a2/TVI24_2017.png/revision/latest/scale-to-width-down/200?cb=20170221142522" tvg-id="TVI24.pt" group-title="PORTUGAL",TVI24
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3844.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/SIC_Caras_logo.png" tvg-id="SicCaras.pt" group-title="PORTUGAL",SIC CARAS
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2705.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/SIC_Caras_logo.png" tvg-id="SicCaras.pt" group-title="PORTUGAL",SIC CARAS HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2697.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6a/Logo_sem_fundo_SIC_Mulher.png" tvg-id="sicmulher.pt" group-title="PORTUGAL",SIC MULHER
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2702.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/trtupx1481664790.png" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV+
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3613.m3u8
+#EXTINF:-1 tvg-logo="http://www.azuloubranco.pt/img/logo.png" tvg-id="PortoCanal.pt" group-title="PORTUGAL",PORTO CANAL
+http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
+#EXTINF:-1 tvg-logo="http://www.azuloubranco.pt/img/logo.png" tvg-id="PortoCanal.pt" group-title="PORTUGAL",PORTO CANAL
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2716.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" tvg-id="CMTV.pt" group-title="PORTUGAL",CM TV
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2758.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" tvg-id="sicradical.pt" group-title="PORTUGAL",SIC RADICAL
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2700.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" tvg-id="sicradical.pt" group-title="PORTUGAL",SIC RADICAL HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2699.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/6e/TVI_Fic%C3%A7%C3%A3o_2017.png/revision/latest/scale-to-width-down/200?cb=20170221142657" tvg-id="TVIFiccao.pt" group-title="PORTUGAL",TVI FICCAO
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3846.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/39/TVI_Reality_2017.png/revision/latest/scale-to-width-down/200?cb=20170221142745" tvg-id="TVIREAL" group-title="PORTUGAL",TVI REALITY
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3842.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png" tvg-id="rtpmemoria.pt" group-title="PORTUGAL",RTP MEMORIA
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2706.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" tvg-id="24Kitchen.pt" group-title="PORTUGAL",24 KITCHEN HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/6237.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" tvg-id="24Kitchen.pt" group-title="PORTUGAL",24 KITCHEN FHD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2781.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="Canal Q" group-title="PORTUGAL",CANAL Q
+http://portal.geniptv.com:8080/live/bmbm/bmbm/5618.m3u8
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2678.m3u8
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/7425.m3u8
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 FHD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3618.m3u8
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" tvg-id="sporttv2pt" group-title="PORTUGAL",SPORT TV 2
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2677.m3u8
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" tvg-id="sporttv2pt" group-title="PORTUGAL",SPORT TV 2 FHD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3617.m3u8
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2676.m3u8
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 FHD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3616.m3u8
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2675.m3u8
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 FHD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3615.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2674.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 FHD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3614.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" tvg-id="BenficaTV.PT" group-title="PORTUGAL",BENFICA TV
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2767.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" tvg-id="BenficaTV.PT" group-title="PORTUGAL",BENFICA TV HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2766.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A BOLA TV
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2780.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV
+http://89.115.152.253:9981/stream/channelid/1126212450?ticket=5198A500CB345535373AB887E7F2DF345D580DA1&profile=pass
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2695.m3u8
+#EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" tvg-id="eurosport.pt" group-title="PORTUGAL",EUROSPORT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2753.m3u8
+#EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" tvg-id="eurosport.pt" group-title="PORTUGAL",EUROSPORT HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2752.m3u8
+#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" tvg-id="eurosport2.pt" group-title="PORTUGAL",EUROSPORT 2
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2751.m3u8
+#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_news.jpg" tvg-id="EURSN" group-title="PORTUGAL",EUROSPORT NEWS
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2750.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="PORTUGAL",PFC
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2717.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959" tvg-id="disneychannel.pt" group-title="PORTUGAL",DISNEY CHANNEL
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3841.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="PORTUGAL",DISNEY JUNIOR
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2755.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="PORTUGAL",CARTOON NETWORK
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2761.m3u8
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/b/bb/Canal_Panda_2015_Stacked.png/revision/latest?cb=20150708105237" tvg-id="canalpanda.pt" group-title="PORTUGAL",PANDA
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2762.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="nick" group-title="PORTUGAL",NICKELODEON
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2719.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tMwl5FD7x8E/TeO_NY9w6mI/AAAAAAAAATg/anq2z80XqXc/s1600/Panda+Biggs+logo.png" tvg-id="PandaBiggs.pt" group-title="PORTUGAL",PANDA BIGGS
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2763.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CO31Je4.png" tvg-id="BABYT" group-title="PORTUGAL",BABY FIRST
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2769.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="BABYT" group-title="PORTUGAL",BABY TV
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2768.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-HHHtUGzrKRo/UYd1-UL3trI/AAAAAAAAEHY/lBjicHajXS8/w1200-h630-p-k-no-nu/SIC+K+logo.png" tvg-id="SICK.pt" group-title="PORTUGAL",SIC K
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2704.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JJAM" group-title="PORTUGAL",JIMJAM
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2732.m3u8
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/a/a7/TVC1_2012.png/revision/latest?cb=20140404133828" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2684.m3u8
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/a/a7/TVC1_2012.png/revision/latest?cb=20140404133828" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1 FHD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2685.m3u8
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/1/13/TVC2_2012.png/revision/latest?cb=20140404133649" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2683.m3u8
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/1/13/TVC2_2012.png/revision/latest?cb=20140404133649" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2 FHD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2686.m3u8
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 3
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2682.m3u8
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 3 FHD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2687.m3u8
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134" tvg-id="TVCine4.pt" group-title="PORTUGAL",TVCINE 4
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2681.m3u8
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134" tvg-id="TVCine4.pt" group-title="PORTUGAL",TVCINE 4 HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2688.m3u8
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/4/4f/TVS%C3%A9ries.png/revision/latest?cb=20140404133444" tvg-id="TVSeries.pt" group-title="PORTUGAL",TVSERIES
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3843.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-plaCHZpDDBk/V3WHl3nq9wI/AAAAAAAADMg/HG3bo7asrl4XugELDbh5Lhkj9RNuvk_DwCLcB/s1600/CANAL%2BHOLLYWOOD.png" tvg-id="hollywood.pt" group-title="PORTUGAL",HOLLYWOOD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2733.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-plaCHZpDDBk/V3WHl3nq9wI/AAAAAAAADMg/HG3bo7asrl4XugELDbh5Lhkj9RNuvk_DwCLcB/s1600/CANAL%2BHOLLYWOOD.png" tvg-id="hollywood.pt" group-title="PORTUGAL",HOLLYWOOD HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2734.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png" tvg-id="AMC" group-title="PORTUGAL",AMC
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2777.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/AMC_HD.png/revision/latest?cb=20110408022156" tvg-id="AMC" group-title="PORTUGAL",AMC HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2776.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo" group-title="PORTUGAL",CINEMUNDO
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2759.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FOXM" group-title="PORTUGAL",FOX MOVIES HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2742.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FOXM" group-title="PORTUGAL",FOX MOVIES
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2746.m3u8
+#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2014/10/FOX-TV-logo.png" tvg-id="fox.pt" group-title="PORTUGAL",FOX HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2743.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="PORTUGAL",AXN
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2771.m3u8
+#EXTINF:-1 tvg-logo="http://savepic.net/8100386.png" tvg-id="foxlife.pt" group-title="PORTUGAL",FOX LIFE
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2741.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="foxcrime.pt" group-title="PORTUGAL",FOX CRIME HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2739.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id="FOXComedy.pt" group-title="PORTUGAL",FOX CRIME
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2745.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id="FOXComedy.pt" group-title="PORTUGAL",FOX COMEDY
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2740.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QDCk6tH.png" tvg-id="AXNWhite.pt" group-title="PORTUGAL",AXN WHITE HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2770.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/1200px-AXN_Black_logo_%282015%29.svg.png" tvg-id="AXNBlack.pt" group-title="PORTUGAL",AXN BLACK
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2772.m3u8
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2017/05/syfy.jpg?w=1020&h=1077" tvg-id="SyFy.pt" group-title="PORTUGAL",SYFY
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2692.m3u8
+#EXTINF:-1 tvg-logo="http://www.schau-hd.tv/attachments/58/2017_08_24_Syfy_HD.jpg" tvg-id="SyFy.pt" group-title="PORTUGAL",SYFY HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2693.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="MTVPortugal" group-title="PORTUGAL",MTV PORTUGAL
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2724.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png" tvg-id="AFRO" group-title="PORTUGAL",AFRO MUSIC
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2778.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" tvg-id="discoverychannel.pt" group-title="PORTUGAL",DISCOVERY
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2757.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H3pCgSC.png" tvg-id="0" group-title="PORTUGAL",DISCOVERY SHOWCASE
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2756.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" tvg-id="nationalgeographic.pt" group-title="PORTUGAL",NATIONAL GEOGRAPHIC HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2720.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_%28Canada%29.png" tvg-id="NGWIL" group-title="PORTUGAL",NATIONAL GEOGRAPHIC WILD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2723.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" tvg-id="NGWIL" group-title="PORTUGAL",NATIONAL GEOGRAPHIC WILD HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2722.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="odisseia.pt" group-title="PORTUGAL",ODISSEIA
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2718.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/2000px-Logo_AE_Germany.svg.png" tvg-id="AE" group-title="PORTUGAL",A&E
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2779.m3u8
+#EXTINF:-1 tvg-logo="http://savepic.net/8122892.png" tvg-id="TLC.pt" group-title="PORTUGAL",TLC
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2691.m3u8
+#EXTINF:-1 tvg-logo="http://www.asiatvforum.com/__novaimages/1861289?v=636160865394130000" tvg-id="FTV" group-title="PORTUGAL",FTV
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2748.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png" tvg-id="GLOBO" group-title="PORTUGAL",GLOBO PREMIUM
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2736.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png" tvg-id="RTPMadeira.pt" group-title="PORTUGAL",RTP MADEIRA
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2707.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2kXKGGs" tvg-id="RTPAfrica.pt" group-title="PORTUGAL",RTP AFRICA
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2712.m3u8
+#EXTINF:-1 tvg-logo="http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg" tvg-id="CacaePesca" group-title="PORTUGAL",CACA & PESCA
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2765.m3u8
