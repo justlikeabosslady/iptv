@@ -1,0 +1,363 @@
+#EXTM3U
+#EXTINF:-1,T2 RTP 1 FHD
+http://black.myvnc.com:8000/live/celso/celso/8449.ts
+#EXTINF:-1,T2 RTP 1 HD
+http://black.myvnc.com:8000/live/celso/celso/8448.ts
+#EXTINF:-1,T2 RTP 1
+http://black.myvnc.com:8000/live/celso/celso/8447.ts
+#EXTINF:-1,T2 RTP 1 (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8473.ts
+#EXTINF:-1,T2 RTP 2 HD
+http://black.myvnc.com:8000/live/celso/celso/4.ts
+#EXTINF:-1,T2 RTP 2
+http://black.myvnc.com:8000/live/celso/celso/5.ts
+#EXTINF:-1,T2 RTP 2 (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8472.ts
+#EXTINF:-1,T2 RTP 3 (RTP internacional)
+http://black.myvnc.com:8000/live/celso/celso/6.ts
+#EXTINF:-1,T2 SIC FHD
+http://black.myvnc.com:8000/live/celso/celso/3713.ts
+#EXTINF:-1,T2 SIC HD
+http://black.myvnc.com:8000/live/celso/celso/7.ts
+#EXTINF:-1,T2 SIC
+http://black.myvnc.com:8000/live/celso/celso/8.ts
+#EXTINF:-1,T2 SIC (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8471.ts
+#EXTINF:-1,T2 TVI FHD
+http://black.myvnc.com:8000/live/celso/celso/8450.ts
+#EXTINF:-1,T2 TVI HD
+http://black.myvnc.com:8000/live/celso/celso/8451.ts
+#EXTINF:-1,T2 TVI
+http://black.myvnc.com:8000/live/celso/celso/4423.ts
+#EXTINF:-1,T2 TVI (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8470.ts
+#EXTINF:-1,T2 TPA INTERNACIONAL
+http://black.myvnc.com:8000/live/celso/celso/3410.ts
+#EXTINF:-1,T2 INFORMAÇÃO
+http://black.myvnc.com:8000/live/celso/celso/11.ts
+#EXTINF:-1,T2 SIC NOTICIAS HD
+http://black.myvnc.com:8000/live/celso/celso/3338.ts
+#EXTINF:-1,T2 SIC NOTICIAS
+http://black.myvnc.com:8000/live/celso/celso/12.ts
+#EXTINF:-1,T2 TVI 24 HD
+http://black.myvnc.com:8000/live/celso/celso/13.ts
+#EXTINF:-1,T2 TVI 24 (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8469.ts
+#EXTINF:-1,T2 CMTV HD
+http://black.myvnc.com:8000/live/celso/celso/2370.ts
+#EXTINF:-1,T2 CMTV
+http://black.myvnc.com:8000/live/celso/celso/14.ts
+#EXTINF:-1,T2 CM TV (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8468.ts
+#EXTINF:-1,T2 CNN
+http://black.myvnc.com:8000/live/celso/celso/16.ts
+#EXTINF:-1,T2 EUROSPORT NEWS
+http://black.myvnc.com:8000/live/celso/celso/18.ts
+#EXTINF:-1,T2 Crime Investigation CI (PT)
+http://black.myvnc.com:8000/live/celso/celso/3715.ts
+#EXTINF:-1,T2ENTRETENIMENTO
+http://black.myvnc.com:8000/live/celso/celso/19.ts
+#EXTINF:-1,T2 SIC RADICAL HD
+http://black.myvnc.com:8000/live/celso/celso/20.ts
+#EXTINF:-1,T2 SIC RADICAL
+http://black.myvnc.com:8000/live/celso/celso/2387.ts
+#EXTINF:-1,T2 SIC MULHER
+http://black.myvnc.com:8000/live/celso/celso/21.ts
+#EXTINF:-1,T2 SIC CARAS HD
+http://black.myvnc.com:8000/live/celso/celso/22.ts
+#EXTINF:-1,T2 TVI FICCAO
+http://black.myvnc.com:8000/live/celso/celso/23.ts
+#EXTINF:-1,T2 TVI REALITY
+http://black.myvnc.com:8000/live/celso/celso/3708.ts
+#EXTINF:-1,T2 TVI REALITY - MOSAICO
+http://black.myvnc.com:8000/live/celso/celso/25.ts
+#EXTINF:-1,T2 TVI Reality - Camara 1
+http://black.myvnc.com:8000/live/celso/celso/2391.ts
+#EXTINF:-1,T2 TVI Reality - Camara 2
+http://black.myvnc.com:8000/live/celso/celso/2390.ts
+#EXTINF:-1,T2 TVI Reality - Camara 3
+http://black.myvnc.com:8000/live/celso/celso/2389.ts
+#EXTINF:-1,T2 TVI Reality - Camara 4
+http://black.myvnc.com:8000/live/celso/celso/2388.ts
+#EXTINF:-1,T2 24 KITCHEN HD
+http://black.myvnc.com:8000/live/celso/celso/26.ts
+#EXTINF:-1,T2 CANAL Q
+http://black.myvnc.com:8000/live/celso/celso/27.ts
+#EXTINF:-1,T2  DESPORTO
+http://black.myvnc.com:8000/live/celso/celso/28.ts
+#EXTINF:-1,T2 SPORT TV + HD
+http://black.myvnc.com:8000/live/celso/celso/29.ts
+#EXTINF:-1,T2 SPORT TV +
+http://black.myvnc.com:8000/live/celso/celso/30.ts
+#EXTINF:-1,T2 SPORT TV 1 FHD
+http://black.myvnc.com:8000/live/celso/celso/8445.ts
+#EXTINF:-1,T2 SPORT TV 1 HD
+http://black.myvnc.com:8000/live/celso/celso/32.ts
+#EXTINF:-1,T2 Sport TV 1 HD (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8459.ts
+#EXTINF:-1,T2 SPORT TV 1
+http://black.myvnc.com:8000/live/celso/celso/8446.ts
+#EXTINF:-1,T2 SPORT TV 2 FHD
+http://black.myvnc.com:8000/live/celso/celso/34.ts
+#EXTINF:-1,T2 SPORT TV 2 HD
+http://black.myvnc.com:8000/live/celso/celso/35.ts
+#EXTINF:-1,T2 Sport TV 2 HD (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8458.ts
+#EXTINF:-1,T2 SPORT TV 2
+http://black.myvnc.com:8000/live/celso/celso/36.ts
+#EXTINF:-1,T2 SPORT TV 3 FHD
+http://black.myvnc.com:8000/live/celso/celso/37.ts
+#EXTINF:-1,T2 SPORT TV 3 HD
+http://black.myvnc.com:8000/live/celso/celso/38.ts
+#EXTINF:-1,T2 Sport TV 3 HD (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8457.ts
+#EXTINF:-1,T2 SPORT TV 3
+http://black.myvnc.com:8000/live/celso/celso/39.ts
+#EXTINF:-1,T2 SPORT TV 4 FHD
+http://black.myvnc.com:8000/live/celso/celso/2362.ts
+#EXTINF:-1,T2 SPORT TV 4 HD
+http://black.myvnc.com:8000/live/celso/celso/40.ts
+#EXTINF:-1,T2 Sport TV 4 HD (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8456.ts
+#EXTINF:-1,T2 SPORT TV 4
+http://black.myvnc.com:8000/live/celso/celso/41.ts
+#EXTINF:-1,T2 SPORT TV 5 FHD
+http://black.myvnc.com:8000/live/celso/celso/2363.ts
+#EXTINF:-1,T2 SPORT TV 5 HD
+http://black.myvnc.com:8000/live/celso/celso/42.ts
+#EXTINF:-1,T2 Sport TV 5 HD (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8455.ts
+#EXTINF:-1,T2 SPORT TV 5
+http://black.myvnc.com:8000/live/celso/celso/43.ts
+#EXTINF:-1,T2 BTV 1 FHD
+http://black.myvnc.com:8000/live/celso/celso/3724.ts
+#EXTINF:-1,T2 BTV 1  HD
+http://black.myvnc.com:8000/live/celso/celso/3725.ts
+#EXTINF:-1,T2 Benfica TV 1 HD (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8454.ts
+#EXTINF:-1,T2 BTV 1
+http://black.myvnc.com:8000/live/celso/celso/46.ts
+#EXTINF:-1,T2 PORTO CANAL HD
+http://black.myvnc.com:8000/live/celso/celso/15.ts
+#EXTINF:-1,T2 Porto Canal
+http://black.myvnc.com:8000/live/celso/celso/6720.ts
+#EXTINF:-1,T2 SPORTING TV HD
+http://black.myvnc.com:8000/live/celso/celso/2364.ts
+#EXTINF:-1,T2 Sporting HD (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8453.ts
+#EXTINF:-1,T2 SPORTING TV
+http://black.myvnc.com:8000/live/celso/celso/47.ts
+#EXTINF:-1,T2 NBA TV
+http://black.myvnc.com:8000/live/celso/celso/3696.ts
+#EXTINF:-1,T2 A BOLA TV
+http://black.myvnc.com:8000/live/celso/celso/48.ts
+#EXTINF:-1,T2 EUROSPORT 1
+http://black.myvnc.com:8000/live/celso/celso/50.ts
+#EXTINF:-1,T2 EUROSPORT 1 HD
+http://black.myvnc.com:8000/live/celso/celso/49.ts
+#EXTINF:-1,T2 EUROSPORT 2
+http://black.myvnc.com:8000/live/celso/celso/51.ts
+#EXTINF:-1,T2 CACAVISION
+http://black.myvnc.com:8000/live/celso/celso/53.ts
+#EXTINF:-1,T2 CACA E PESCA
+http://black.myvnc.com:8000/live/celso/celso/54.ts
+#EXTINF:-1,T2 TOROS TV HD
+http://black.myvnc.com:8000/live/celso/celso/2365.ts
+#EXTINF:-1,T2 REAL MADRID TV
+http://black.myvnc.com:8000/live/celso/celso/56.ts
+#EXTINF:-1,T2 MOTORVISION HD
+http://black.myvnc.com:8000/live/celso/celso/58.ts
+#EXTINF:-1,T2 MOTORS TV
+http://black.myvnc.com:8000/live/celso/celso/59.ts
+#EXTINF:-1,T2 FUEL TV HD
+http://black.myvnc.com:8000/live/celso/celso/60.ts
+#EXTINF:-1,T2 KOMBAT SPORT HD
+http://black.myvnc.com:8000/live/celso/celso/777.ts
+#EXTINF:-1,T2 FIGHT NETWORK HD
+http://black.myvnc.com:8000/live/celso/celso/61.ts
+#EXTINF:-1,T2 PFC
+http://black.myvnc.com:8000/live/celso/celso/62.ts
+#EXTINF:-1,T2 FILMES 
+http://black.myvnc.com:8000/live/celso/celso/63.ts
+#EXTINF:-1,T2 TVCINE 1 HD
+http://black.myvnc.com:8000/live/celso/celso/64.ts
+#EXTINF:-1,T2 TVCine 1 HD (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8467.ts
+#EXTINF:-1,T2 TVCINE 1
+http://black.myvnc.com:8000/live/celso/celso/65.ts
+#EXTINF:-1,T2 TVCINE 2 HD
+http://black.myvnc.com:8000/live/celso/celso/66.ts
+#EXTINF:-1,T2 TVCine 2 HD (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8466.ts
+#EXTINF:-1,T2 TVCINE 2
+http://black.myvnc.com:8000/live/celso/celso/67.ts
+#EXTINF:-1,T2 TVCINE 3 HD
+http://black.myvnc.com:8000/live/celso/celso/68.ts
+#EXTINF:-1,T2 TVCine 3 HD (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8465.ts
+#EXTINF:-1,T2 TVCINE 3
+http://black.myvnc.com:8000/live/celso/celso/69.ts
+#EXTINF:-1,T2 TVCINE 4 HD
+http://black.myvnc.com:8000/live/celso/celso/70.ts
+#EXTINF:-1,T2 TVCine 4 HD (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8464.ts
+#EXTINF:-1,T2 TVCINE 4
+http://black.myvnc.com:8000/live/celso/celso/71.ts
+#EXTINF:-1,T2 HOLLYWOOD HD
+http://black.myvnc.com:8000/live/celso/celso/72.ts
+#EXTINF:-1,T2 HOLLYWOOD
+http://black.myvnc.com:8000/live/celso/celso/73.ts
+#EXTINF:-1,T2 FOX MOVIES FHD
+http://black.myvnc.com:8000/live/celso/celso/2367.ts
+#EXTINF:-1,T2 FOX MOVIES
+http://black.myvnc.com:8000/live/celso/celso/74.ts
+#EXTINF:-1,T2 AMC HD
+http://black.myvnc.com:8000/live/celso/celso/1853.ts
+#EXTINF:-1,T2 AMC
+http://black.myvnc.com:8000/live/celso/celso/76.ts
+#EXTINF:-1,T2 CINEMUNDO HD
+http://black.myvnc.com:8000/live/celso/celso/77.ts
+#EXTINF:-1,T2 SERIES
+http://black.myvnc.com:8000/live/celso/celso/78.ts
+#EXTINF:-1,T2 TV SERIES HD
+http://black.myvnc.com:8000/live/celso/celso/79.ts
+#EXTINF:-1,T2 TV Series HD (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8463.ts
+#EXTINF:-1,T2 TV SERIES
+http://black.myvnc.com:8000/live/celso/celso/80.ts
+#EXTINF:-1,T2 AXN WHITE HD
+http://black.myvnc.com:8000/live/celso/celso/82.ts
+#EXTINF:-1,T2 AXN White HD (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8460.ts
+#EXTINF:-1,T2 AXN BLACK HD
+http://black.myvnc.com:8000/live/celso/celso/83.ts
+#EXTINF:-1,T2 AXN Black HD (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8461.ts
+#EXTINF:-1,T2 AXN HD
+http://black.myvnc.com:8000/live/celso/celso/81.ts
+#EXTINF:-1,T2 AXN HD (LOW)
+http://black.myvnc.com:8000/live/celso/celso/8462.ts
+#EXTINF:-1,T2 AXN
+http://black.myvnc.com:8000/live/celso/celso/8416.ts
+#EXTINF:-1,T2 FOX HD
+http://black.myvnc.com:8000/live/celso/celso/84.ts
+#EXTINF:-1,T2 FOX CRIME HD
+http://black.myvnc.com:8000/live/celso/celso/86.ts
+#EXTINF:-1,T2 FOX LIFE HD
+http://black.myvnc.com:8000/live/celso/celso/85.ts
+#EXTINF:-1,T2 FOX COMEDY HD
+http://black.myvnc.com:8000/live/celso/celso/2373.ts
+#EXTINF:-1,T2 FOX COMEDY
+http://black.myvnc.com:8000/live/celso/celso/88.ts
+#EXTINF:-1,T2 FOX NEWS
+http://black.myvnc.com:8000/live/celso/celso/89.ts
+#EXTINF:-1,T2 SyFy HD
+http://black.myvnc.com:8000/live/celso/celso/2374.ts
+#EXTINF:-1,T2 SYFY
+http://black.myvnc.com:8000/live/celso/celso/90.ts
+#EXTINF:-1,T2 INFANTIL
+http://black.myvnc.com:8000/live/celso/celso/92.ts
+#EXTINF:-1,T2 DISNEY JUNIOR
+http://black.myvnc.com:8000/live/celso/celso/93.ts
+#EXTINF:-1,T2 DISNEY CHANNEL
+http://black.myvnc.com:8000/live/celso/celso/94.ts
+#EXTINF:-1,T2 SIC K
+http://black.myvnc.com:8000/live/celso/celso/95.ts
+#EXTINF:-1,T2 CANAL PANDA
+http://black.myvnc.com:8000/live/celso/celso/96.ts
+#EXTINF:-1,T2 BABY TV
+http://black.myvnc.com:8000/live/celso/celso/97.ts
+#EXTINF:-1,T2 BABY FIRST
+http://black.myvnc.com:8000/live/celso/celso/98.ts
+#EXTINF:-1,T2 BIGGS
+http://black.myvnc.com:8000/live/celso/celso/99.ts
+#EXTINF:-1,T2 CARTOON NETWORK
+http://black.myvnc.com:8000/live/celso/celso/100.ts
+#EXTINF:-1,T2 JIM JAM
+http://black.myvnc.com:8000/live/celso/celso/101.ts
+#EXTINF:-1,T2 NICKELODEON
+http://black.myvnc.com:8000/live/celso/celso/102.ts
+#EXTINF:-1,T2 Musica
+http://black.myvnc.com:8000/live/celso/celso/126.ts
+#EXTINF:-1,T2 VH1
+http://black.myvnc.com:8000/live/celso/celso/127.ts
+#EXTINF:-1,T2 VH1 CLASSIC
+http://black.myvnc.com:8000/live/celso/celso/128.ts
+#EXTINF:-1,T2 TRACE URBAN
+http://black.myvnc.com:8000/live/celso/celso/129.ts
+#EXTINF:-1,T2 MTV PORTUGAL
+http://black.myvnc.com:8000/live/celso/celso/130.ts
+#EXTINF:-1,T2 MTV DANCE
+http://black.myvnc.com:8000/live/celso/celso/131.ts
+#EXTINF:-1,T2 MTV MUSIC
+http://black.myvnc.com:8000/live/celso/celso/4255.ts
+#EXTINF:-1,T2 MTV ROCKS
+http://black.myvnc.com:8000/live/celso/celso/4256.ts
+#EXTINF:-1,T2 MCM TOP
+http://black.myvnc.com:8000/live/celso/celso/132.ts
+#EXTINF:-1,T2 MCM POP
+http://black.myvnc.com:8000/live/celso/celso/133.ts
+#EXTINF:-1,T2 C-MUSIC
+http://black.myvnc.com:8000/live/celso/celso/134.ts
+#EXTINF:-1,T2 AFRO MUSIC
+http://black.myvnc.com:8000/live/celso/celso/135.ts
+#EXTINF:-1,T2 ICONCERTS HD
+http://black.myvnc.com:8000/live/celso/celso/137.ts
+#EXTINF:-1,T2 MEZZO
+http://black.myvnc.com:8000/live/celso/celso/1854.ts
+#EXTINF:-1,T2 DOCUMENTARIOS
+http://black.myvnc.com:8000/live/celso/celso/103.ts
+#EXTINF:-1,T2 FASHION TV HD
+http://black.myvnc.com:8000/live/celso/celso/2383.ts
+#EXTINF:-1,T2 DOG TV HD
+http://black.myvnc.com:8000/live/celso/celso/4707.ts
+#EXTINF:-1,T2 DISCOVERY HD SHOWCASE
+http://black.myvnc.com:8000/live/celso/celso/105.ts
+#EXTINF:-1,T2 DISCOVERY CHANNEL
+http://black.myvnc.com:8000/live/celso/celso/106.ts
+#EXTINF:-1,T2 CNBC EUROPE
+http://black.myvnc.com:8000/live/celso/celso/107.ts
+#EXTINF:-1,T2 MCS EXTREME
+http://black.myvnc.com:8000/live/celso/celso/108.ts
+#EXTINF:-1,T2 TRAVEL CHANNEL HD
+http://black.myvnc.com:8000/live/celso/celso/109.ts
+#EXTINF:-1,T2 NATIONAL GEOGRAPHIC HD
+http://black.myvnc.com:8000/live/celso/celso/110.ts
+#EXTINF:-1,T2 NAT GEO WILD HD
+http://black.myvnc.com:8000/live/celso/celso/111.ts
+#EXTINF:-1,T2 ODISSEIA
+http://black.myvnc.com:8000/live/celso/celso/112.ts
+#EXTINF:-1,T2 Fine Living Network HD
+http://black.myvnc.com:8000/live/celso/celso/6524.ts
+#EXTINF:-1,T2 OUTDOOR CHANNEL HD
+http://black.myvnc.com:8000/live/celso/celso/2381.ts
+#EXTINF:-1,T2 HISTORIA
+http://black.myvnc.com:8000/live/celso/celso/113.ts
+#EXTINF:-1,T2 SKY NEWS
+http://black.myvnc.com:8000/live/celso/celso/114.ts
+#EXTINF:-1,T2 FRANCE 24
+http://black.myvnc.com:8000/live/celso/celso/115.ts
+#EXTINF:-1,T2 EURONEWS
+http://black.myvnc.com:8000/live/celso/celso/116.ts
+#EXTINF:-1,T2 BBC WORLD NEWS HD
+http://black.myvnc.com:8000/live/celso/celso/117.ts
+#EXTINF:-1,T2 BBC ENTERTAINMENT
+http://black.myvnc.com:8000/live/celso/celso/119.ts
+#EXTINF:-1,T2 E! ENTERTAINMENT
+http://black.myvnc.com:8000/live/celso/celso/120.ts
+#EXTINF:-1,T2 CBS REALITY
+http://black.myvnc.com:8000/live/celso/celso/121.ts
+#EXTINF:-1,T2 MCS LIFESTYLE
+http://black.myvnc.com:8000/live/celso/celso/122.ts
+#EXTINF:-1,T2 TLC
+http://black.myvnc.com:8000/live/celso/celso/123.ts
+#EXTINF:-1,T2 RECORD NEWS
+http://black.myvnc.com:8000/live/celso/celso/145.ts
+#EXTINF:-1,T2 RTP MEMORIA
+http://black.myvnc.com:8000/live/celso/celso/146.ts
+#EXTINF:-1,T2 RTP MADEIRA
+http://black.myvnc.com:8000/live/celso/celso/147.ts
+#EXTINF:-1,T2 RTP AFRICA
+http://black.myvnc.com:8000/live/celso/celso/148.ts
+#EXTINF:-1,T2 RTP ACORES
+http://black.myvnc.com:8000/live/celso/celso/149.ts
