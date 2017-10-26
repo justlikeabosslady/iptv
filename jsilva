@@ -1,3171 +1,3119 @@
 #EXTM3U
-#EXTINF:-1,RTP 1
+#EXTINF:0,RTP 1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1.m3u8
-#EXTINF:-1,RTP 2
+#EXTINF:0,RTP 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2.m3u8
-#EXTINF:-1,SIC
+#EXTINF:0,SIC
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/3.m3u8
-#EXTINF:-1,TVI
+#EXTINF:0,TVI
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/4.m3u8
-#EXTINF:-1,SIC NOTICIAS
+#EXTINF:0,SIC NOTICIAS
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/5.m3u8
-#EXTINF:-1,TVI 24
+#EXTINF:0,TVI 24
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/6.m3u8
-#EXTINF:-1,RTP 3
+#EXTINF:0,RTP 3
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/87.m3u8
-#EXTINF:-1,CM TV
+#EXTINF:0,CM TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/10.m3u8
-#EXTINF:-1,PORTO CANAL
+#EXTINF:0,PORTO CANAL
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/12.m3u8
-#EXTINF:-1,SIC RADICAL
+#EXTINF:0,SIC RADICAL
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/9.m3u8
-#EXTINF:-1,SIC MULHER
+#EXTINF:0,SIC MULHER
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/7.m3u8
-#EXTINF:-1,SIC CARAS
+#EXTINF:0,SIC CARAS
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/8.m3u8
-#EXTINF:-1,TVI REALTY
+#EXTINF:0,TVI REALTY
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/397.m3u8
-#EXTINF:-1,TVI FICCAO
+#EXTINF:0,TVI FICCAO
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/88.m3u8
-#EXTINF:-1,RTP AFRICA
+#EXTINF:0,RTP AFRICA
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/220.m3u8
-#EXTINF:-1,RTP MEMORIA
+#EXTINF:0,RTP MEMORIA
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/632.m3u8
-#EXTINF:-1,RTP INTERNACIONAL
+#EXTINF:0,RTP INTERNACIONAL
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1347.m3u8
-#EXTINF:-1,RTP Madeira
+#EXTINF:0,RTP Madeira
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/287.m3u8
-#EXTINF:-1,RTP Açores
+#EXTINF:0,RTP Açores
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/289.m3u8
-#EXTINF:-1,GLOBO
+#EXTINF:0,GLOBO
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/216.m3u8
-#EXTINF:-1,GLOBO PREMIUM
+#EXTINF:0,GLOBO PREMIUM
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/215.m3u8
-#EXTINF:-1,TV RECORD
+#EXTINF:0,TV RECORD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/13.m3u8
-#EXTINF:-1,RECORD NEWS
+#EXTINF:0,RECORD NEWS
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/846.m3u8
-#EXTINF:-1,CANAL Q
+#EXTINF:0,CANAL Q
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/11.m3u8
-#EXTINF:-1,A BOLA TV
+#EXTINF:0,A BOLA TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/22.m3u8
-#EXTINF:-1,SPORTV +
+#EXTINF:0,SPORTV +
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1010.m3u8
-#EXTINF:-1,SPORTV 1 HD
+#EXTINF:0,SPORTV 1 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/14.m3u8
-#EXTINF:-1,SPORTV 1
+#EXTINF:0,SPORTV 1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/390.m3u8
-#EXTINF:-1,SPORTV 2 HD
+#EXTINF:0,SPORTV 2 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/15.m3u8
-#EXTINF:-1,SPORTV 2
+#EXTINF:0,SPORTV 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/392.m3u8
-#EXTINF:-1,SPORTV 3 HD
+#EXTINF:0,SPORTV 3 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/16.m3u8
-#EXTINF:-1,SPORTV 3
+#EXTINF:0,SPORTV 3
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/396.m3u8
-#EXTINF:-1,SPORTV 4 HD
+#EXTINF:0,SPORTV 4 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/17.m3u8
-#EXTINF:-1,SPORTV 4
+#EXTINF:0,SPORTV 4
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/395.m3u8
-#EXTINF:-1,SPORTV 5 HD
+#EXTINF:0,SPORTV 5 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/18.m3u8
-#EXTINF:-1,SPORTV 5
+#EXTINF:0,SPORTV 5
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/394.m3u8
-#EXTINF:-1,BTV 1 HD
+#EXTINF:0,BTV 1 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/19.m3u8
-#EXTINF:-1,BTV 1
+#EXTINF:0,BTV 1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/391.m3u8
-#EXTINF:-1,SPORTING TV HD
+#EXTINF:0,SPORTING TV HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/21.m3u8
-#EXTINF:-1,EUROSPORT HD
+#EXTINF:0,EUROSPORT HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/23.m3u8
-#EXTINF:-1,EUROSPORT 2
+#EXTINF:0,EUROSPORT 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/24.m3u8
-#EXTINF:-1,EUROSPORT NEWS
+#EXTINF:0,EUROSPORT NEWS
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/718.m3u8
-#EXTINF:-1,NBA TV HD
+#EXTINF:0,NBA TV HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1841.m3u8
-#EXTINF:-1,REAL MADRID TV
+#EXTINF:0,REAL MADRID TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/850.m3u8
-#EXTINF:-1,BARCA TV
+#EXTINF:0,BARCA TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/859.m3u8
-#EXTINF:-1,OUTDOOR
+#EXTINF:0,OUTDOOR
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/716.m3u8
-#EXTINF:-1,PFC
+#EXTINF:0,PFC
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/25.m3u8
-#EXTINF:-1,FUEL TV
+#EXTINF:0,FUEL TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/109.m3u8
-#EXTINF:-1,MOTORS TV
+#EXTINF:0,MOTORS TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/89.m3u8
-#EXTINF:-1,MOTORVISION
+#EXTINF:0,MOTORVISION
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/26.m3u8
-#EXTINF:-1,FIGHT NETWORK
+#EXTINF:0,FIGHT NETWORK
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/637.m3u8
-#EXTINF:-1,KOMBAT SPORT
+#EXTINF:0,KOMBAT SPORT
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/890.m3u8
-#EXTINF:-1,CAÇA E PESCA
+#EXTINF:0,CAÇA E PESCA
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/27.m3u8
-#EXTINF:-1,CACAVISION
+#EXTINF:0,CACAVISION
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/91.m3u8
-#EXTINF:-1,TVCINE 1 HD
+#EXTINF:0,TVCINE 1 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/28.m3u8
-#EXTINF:-1,TVCINE 1
+#EXTINF:0,TVCINE 1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2539.m3u8
-#EXTINF:-1,TVCINE 2 HD
+#EXTINF:0,TVCINE 2 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/29.m3u8
-#EXTINF:-1,TVCINE 2
+#EXTINF:0,TVCINE 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2538.m3u8
-#EXTINF:-1,TVCINE 3 HD
+#EXTINF:0,TVCINE 3 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/30.m3u8
-#EXTINF:-1,TVCINE 3
+#EXTINF:0,TVCINE 3
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2537.m3u8
-#EXTINF:-1,TVCINE 4 HD
+#EXTINF:0,TVCINE 4 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/31.m3u8
-#EXTINF:-1,TVCINE 4
+#EXTINF:0,TVCINE 4
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2536.m3u8
-#EXTINF:-1,TV SERIES HD
+#EXTINF:0,TV SERIES HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/32.m3u8
-#EXTINF:-1,HOLLYWOOD HD
+#EXTINF:0,HOLLYWOOD HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/34.m3u8
-#EXTINF:-1,FOX HD
+#EXTINF:0,FOX HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/90.m3u8
-#EXTINF:-1,FOX LIFE HD
+#EXTINF:0,FOX LIFE HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/35.m3u8
-#EXTINF:-1,FOX CRIME HD
+#EXTINF:0,FOX CRIME HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/36.m3u8
-#EXTINF:-1,FOX MOVIES
+#EXTINF:0,FOX MOVIES
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/217.m3u8
-#EXTINF:-1,FOX COMEDY
+#EXTINF:0,FOX COMEDY
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/543.m3u8
-#EXTINF:-1,AXN HD
+#EXTINF:0,AXN HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/92.m3u8
-#EXTINF:-1,AXN WHITE HD
+#EXTINF:0,AXN WHITE HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/37.m3u8
-#EXTINF:-1,AXN BLACK HD
+#EXTINF:0,AXN BLACK HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/38.m3u8
-#EXTINF:-1,SYFY
+#EXTINF:0,SYFY
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/33.m3u8
-#EXTINF:-1,AMC
+#EXTINF:0,AMC
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/227.m3u8
-#EXTINF:-1,CINEMUNDO
+#EXTINF:0,CINEMUNDO
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/223.m3u8
-#EXTINF:-1,SUNDANCE
+#EXTINF:0,SUNDANCE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/712.m3u8
-#EXTINF:-1,DISNEY CHANNEL
+#EXTINF:0,DISNEY CHANNEL
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/102.m3u8
-#EXTINF:-1,DISNEY JUNIOR
+#EXTINF:0,DISNEY JUNIOR
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/45.m3u8
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:0,CARTOON NETWORK
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/225.m3u8
-#EXTINF:-1,CANAL PANDA
+#EXTINF:0,CANAL PANDA
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/103.m3u8
-#EXTINF:-1,PANDA BIGGS
+#EXTINF:0,PANDA BIGGS
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/99.m3u8
-#EXTINF:-1,NICKELODEON
+#EXTINF:0,NICKELODEON
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/46.m3u8
-#EXTINF:-1,JIM JAM
+#EXTINF:0,JIM JAM
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/101.m3u8
-#EXTINF:-1,TIJI
+#EXTINF:0,TIJI
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2599.m3u8
-#EXTINF:-1,BABY TV
+#EXTINF:0,BABY TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/47.m3u8
-#EXTINF:-1,BABY FIRST
+#EXTINF:0,BABY FIRST
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1448.m3u8
-#EXTINF:-1,SIC K
+#EXTINF:0,SIC K
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/44.m3u8
-#EXTINF:-1,NAT. GEOGRAPHIC
+#EXTINF:0,NAT. GEOGRAPHIC
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/96.m3u8
-#EXTINF:-1,NAT GEO WILD
+#EXTINF:0,NAT GEO WILD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/42.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
+#EXTINF:0,DISCOVERY CHANNEL
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/43.m3u8
-#EXTINF:-1,DISCOVERY SHOWCASE
+#EXTINF:0,DISCOVERY SHOWCASE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/218.m3u8
-#EXTINF:-1,CANAL HISTORIA
+#EXTINF:0,CANAL HISTORIA
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/226.m3u8
-#EXTINF:-1,ODISSEIA
+#EXTINF:0,ODISSEIA
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/100.m3u8
-#EXTINF:-1,TRAVEL CHANNEL
+#EXTINF:0,TRAVEL CHANNEL
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/389.m3u8
-#EXTINF:-1,E! ENTERTAINMENT
+#EXTINF:0,E! ENTERTAINMENT
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/39.m3u8
-#EXTINF:-1,CRIME   INVESTIGATION
+#EXTINF:0,CRIME   INVESTIGATION
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1350.m3u8
-#EXTINF:-1,A & E
+#EXTINF:0,A & E
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/104.m3u8
-#EXTINF:-1,TLC
+#EXTINF:0,TLC
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/40.m3u8
-#EXTINF:-1,CBS REALITY
+#EXTINF:0,CBS REALITY
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/224.m3u8
-#EXTINF:-1,LUXE TV
+#EXTINF:0,LUXE TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/715.m3u8
-#EXTINF:-1,FASHION TV
+#EXTINF:0,FASHION TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/553.m3u8
-#EXTINF:-1,FOOD NETWORK
+#EXTINF:0,FOOD NETWORK
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/552.m3u8
-#EXTINF:-1,24 KITCHEN
+#EXTINF:0,24 KITCHEN
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/41.m3u8
-#EXTINF:-1,LOCALVISAO HD
+#EXTINF:0,LOCALVISAO HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/851.m3u8
-#EXTINF:-1,REGIOES TV
+#EXTINF:0,REGIOES TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/888.m3u8
-#EXTINF:-1,TOROS TV
+#EXTINF:0,TOROS TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/98.m3u8
-#EXTINF:-1,MCS LIFESTYLE
+#EXTINF:0,MCS LIFESTYLE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/787.m3u8
-#EXTINF:-1,DOG TV
+#EXTINF:0,DOG TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/638.m3u8
-#EXTINF:-1,BBC WORLD NEWS
+#EXTINF:0,BBC WORLD NEWS
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/858.m3u8
-#EXTINF:-1,ZEE TV
+#EXTINF:0,ZEE TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/861.m3u8
-#EXTINF:-1,TRACE URBAN HD
+#EXTINF:0,TRACE URBAN HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/862.m3u8
-#EXTINF:-1,MAX
+#EXTINF:0,MAX
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/863.m3u8
-#EXTINF:-1,FINE LIVING HD
+#EXTINF:0,FINE LIVING HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/864.m3u8
-#EXTINF:-1,TPA INTERNACIONAL
+#EXTINF:0,TPA INTERNACIONAL
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/564.m3u8
-#EXTINF:-1,EURONEWS
+#EXTINF:0,EURONEWS
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/853.m3u8
-#EXTINF:-1,CNN
+#EXTINF:0,CNN
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/855.m3u8
-#EXTINF:-1,FRANCE 24
+#EXTINF:0,FRANCE 24
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/717.m3u8
-#EXTINF:-1,M6
+#EXTINF:0,M6
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/513.m3u8
-#EXTINF:-1,TV5 MONDE
+#EXTINF:0,TV5 MONDE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/860.m3u8
-#EXTINF:-1,TV GALICIA
+#EXTINF:0,TV GALICIA
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1009.m3u8
-#EXTINF:-1,TCV INTERNATIONAL
+#EXTINF:0,TCV INTERNATIONAL
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2600.m3u8
-#EXTINF:-1,TVE INTERNATIONAL
+#EXTINF:0,TVE INTERNATIONAL
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2598.m3u8
-#EXTINF:-1,MCS EXTREME
+#EXTINF:0,MCS EXTREME
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1348.m3u8
-#EXTINF:-1,CUBAVISION INTERNATIONAL
+#EXTINF:0,CUBAVISION INTERNATIONAL
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1349.m3u8
-#EXTINF:-1,DEUTSCHE WELLE
+#EXTINF:0,DEUTSCHE WELLE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/854.m3u8
-#EXTINF:-1,BLOOMBERG
+#EXTINF:0,BLOOMBERG
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/857.m3u8
-#EXTINF:-1,KURIAKOS TV
+#EXTINF:0,KURIAKOS TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1533.m3u8
-#EXTINF:-1,ARTV
+#EXTINF:0,ARTV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/848.m3u8
-#EXTINF:-1,CANÇÃO NOVA
+#EXTINF:0,CANÇÃO NOVA
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/544.m3u8
-#EXTINF:-1,SANTUÃRIO FATIMA
+#EXTINF:0,SANTUÃRIO FATIMA
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/95.m3u8
-#EXTINF:-1,MTV PORTUGAL
+#EXTINF:0,MTV PORTUGAL
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/542.m3u8
-#EXTINF:-1,MTV ROCKS
+#EXTINF:0,MTV ROCKS
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/908.m3u8
-#EXTINF:-1,MTV MUSIC
+#EXTINF:0,MTV MUSIC
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/909.m3u8
-#EXTINF:-1,MTV DANCE
+#EXTINF:0,MTV DANCE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/910.m3u8
-#EXTINF:-1,TRACE TV
+#EXTINF:0,TRACE TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/719.m3u8
-#EXTINF:-1,VH1
+#EXTINF:0,VH1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/97.m3u8
-#EXTINF:-1,VH1 CLASSIC
+#EXTINF:0,VH1 CLASSIC
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1008.m3u8
-#EXTINF:-1,VIRGIN TV
+#EXTINF:0,VIRGIN TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1444.m3u8
-#EXTINF:-1,MCM POP
+#EXTINF:0,MCM POP
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/720.m3u8
-#EXTINF:-1,C-MUSIC
+#EXTINF:0,C-MUSIC
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/847.m3u8
-#EXTINF:-1,AFRO TV
+#EXTINF:0,AFRO TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/219.m3u8
-#EXTINF:-1,MEZZO
+#EXTINF:0,MEZZO
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/713.m3u8
-#EXTINF:-1,iCONCERTS
+#EXTINF:0,iCONCERTS
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/636.m3u8
-#EXTINF:-1,TVI REALTY MOSAICO
+#EXTINF:0,TVI REALTY MOSAICO
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1342.m3u8
-#EXTINF:-1,TVI REALTY CAMERA 1
+#EXTINF:0,TVI REALTY CAMERA 1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1346.m3u8
-#EXTINF:-1,TVI REALTY CAMERA 2
+#EXTINF:0,TVI REALTY CAMERA 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1345.m3u8
-#EXTINF:-1,TVI REALTY CAMERA 3
+#EXTINF:0,TVI REALTY CAMERA 3
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1344.m3u8
-#EXTINF:-1,TVI REALTY CAMERA 4
+#EXTINF:0,TVI REALTY CAMERA 4
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1343.m3u8
-#EXTINF:-1,# RADIO #
+#EXTINF:0,# RADIO #
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/891.m3u8
-#EXTINF:-1,RADIO: TOCA A DANCAR
+#EXTINF:0,RADIO: TOCA A DANCAR
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1424.m3u8
-#EXTINF:-1,RADIO: SMOOTH FM
+#EXTINF:0,RADIO: SMOOTH FM
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1425.m3u8
-#EXTINF:-1,RADIO: RFM CLUBBING
+#EXTINF:0,RADIO: RFM CLUBBING
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1426.m3u8
-#EXTINF:-1,RADIO: RFM
+#EXTINF:0,RADIO: RFM
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1427.m3u8
-#EXTINF:-1,RADIO: RENASCENCA
+#EXTINF:0,RADIO: RENASCENCA
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1428.m3u8
-#EXTINF:-1,RADIO: RDP INTERNACIONAL
+#EXTINF:0,RADIO: RDP INTERNACIONAL
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1429.m3u8
-#EXTINF:-1,RADIO: RDP AFRICA
+#EXTINF:0,RADIO: RDP AFRICA
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1430.m3u8
-#EXTINF:-1,RADIO: RADIO COMERCIAL
+#EXTINF:0,RADIO: RADIO COMERCIAL
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1431.m3u8
-#EXTINF:-1,RADIO: OCEANO PACIFICO
+#EXTINF:0,RADIO: OCEANO PACIFICO
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1432.m3u8
-#EXTINF:-1,RADIO: NOVA ERA
+#EXTINF:0,RADIO: NOVA ERA
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1433.m3u8
-#EXTINF:-1,RADIO: MEGA HITS
+#EXTINF:0,RADIO: MEGA HITS
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1434.m3u8
-#EXTINF:-1,RADIO: M80
+#EXTINF:0,RADIO: M80
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1435.m3u8
-#EXTINF:-1,RADIO: LUSITANIA
+#EXTINF:0,RADIO: LUSITANIA
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1436.m3u8
-#EXTINF:-1,RADIO: CIDADE FM
+#EXTINF:0,RADIO: CIDADE FM
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1437.m3u8
-#EXTINF:-1,RADIO: ANTENA 3 ROCK
+#EXTINF:0,RADIO: ANTENA 3 ROCK
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1438.m3u8
-#EXTINF:-1,RADIO: ANTENA 3 DANCE
+#EXTINF:0,RADIO: ANTENA 3 DANCE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1439.m3u8
-#EXTINF:-1,RADIO: ANTENA 3
+#EXTINF:0,RADIO: ANTENA 3
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1440.m3u8
-#EXTINF:-1,RADIO: ANTENA 2
+#EXTINF:0,RADIO: ANTENA 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1441.m3u8
-#EXTINF:-1,RADIO: ANTENA 1 FADO
+#EXTINF:0,RADIO: ANTENA 1 FADO
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1442.m3u8
-#EXTINF:-1,RADIO: 80s RFM
+#EXTINF:0,RADIO: 80s RFM
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1443.m3u8
-#EXTINF:-1,#  VIDEO CLUB  #
+#EXTINF:0,#  VIDEO CLUB  #
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/456.m3u8
-#EXTINF:-1,47 Meters Down (2017)
+#EXTINF:0,47 Meters Down (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2601.mp4
-#EXTINF:-1,6 Days (2017)
+#EXTINF:0,6 Days (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2602.mp4
-#EXTINF:-1,A Boy Called Po (2016)
+#EXTINF:0,A Boy Called Po (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2603.mp4
-#EXTINF:-1,A Family Man (2016)
+#EXTINF:0,A Family Man (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2604.mp4
-#EXTINF:-1,A Ghost Story (2017)
+#EXTINF:0,A Ghost Story (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2605.mp4
-#EXTINF:-1,A Idade Do Gelo 2: Descongelados (2006)
+#EXTINF:0,A Idade Do Gelo 2: Descongelados (2006)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2606.mp4
-#EXTINF:-1,A Idade Do Gelo 3 Despertar Dos Dinossauros (2009)
+#EXTINF:0,A Idade Do Gelo 3 Despertar Dos Dinossauros (2009)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2607.mp4
-#EXTINF:-1,A Idade Do Gelo 4 Deriva Continental (2012)
+#EXTINF:0,A Idade Do Gelo 4 Deriva Continental (2012)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2608.mp4
-#EXTINF:-1,A Idade Do Gelo A Grande Caa Ao Ovo (2016)
+#EXTINF:0,A Idade Do Gelo A Grande Caa Ao Ovo (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2609.mp4
-#EXTINF:-1,Alemao (2014)
+#EXTINF:0,Alemao (2014)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2610.mp4
-#EXTINF:-1,All Eyez On Me (2017)
+#EXTINF:0,All Eyez On Me (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2611.mp4
-#EXTINF:-1,Amor Com (2017)
+#EXTINF:0,Amor Com (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2612.mp4
-#EXTINF:-1,Annabelle 2 A Criao Do Mal (2017)
+#EXTINF:0,Annabelle 2 A Criao Do Mal (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2613.mp4
-#EXTINF:-1,Armed Response (2017)
+#EXTINF:0,Armed Response (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2614.mp4
-#EXTINF:-1,Baby Driver (2017)
+#EXTINF:0,Baby Driver (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2615.mp4
-#EXTINF:-1,Bambi (1942)
+#EXTINF:0,Bambi (1942)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2616.mp4
-#EXTINF:-1,Beatriz At Dinner (2017)
+#EXTINF:0,Beatriz At Dinner (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2617.mp4
-#EXTINF:-1,Berlin Syndrome (2017)
+#EXTINF:0,Berlin Syndrome (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2618.mp4
-#EXTINF:-1,Black Knight (2001)
+#EXTINF:0,Black Knight (2001)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2619.mp4
-#EXTINF:-1,Bushwick (2017)
+#EXTINF:0,Bushwick (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2620.mp4
-#EXTINF:-1,Cage Dive (2017)
+#EXTINF:0,Cage Dive (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2621.mp4
-#EXTINF:-1,Capitao Cuecas  O Filme (2017)
+#EXTINF:0,Capitao Cuecas  O Filme (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2622.mp4
-#EXTINF:-1,Dead Again In Tombstone (2017)
+#EXTINF:0,Dead Again In Tombstone (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2623.mp4
-#EXTINF:-1,Dofus O Filme (2015)
+#EXTINF:0,Dofus O Filme (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2624.mp4
-#EXTINF:-1,Escritos Secretos (2016)
+#EXTINF:0,Escritos Secretos (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2625.mp4
-#EXTINF:-1,First Kill (2017)
+#EXTINF:0,First Kill (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2627.mp4
-#EXTINF:-1,Ftima (2017)
+#EXTINF:0,Ftima (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2626.mp4
-#EXTINF:-1,Gaga Five Foot Two (2017)
+#EXTINF:0,Gaga Five Foot Two (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2628.mp4
-#EXTINF:-1,Geralds Game (2017)
+#EXTINF:0,Geralds Game (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2629.mp4
-#EXTINF:-1,Ghost House (2017)
+#EXTINF:0,Ghost House (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2630.mp4
-#EXTINF:-1,Girls Night (2017)
+#EXTINF:0,Girls Night (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2631.mp4
-#EXTINF:-1,Gru - O Maldisposto 3 (2017)
+#EXTINF:0,Gru - O Maldisposto 3 (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2632.mp4
-#EXTINF:-1,Gun Shy (2017)
+#EXTINF:0,Gun Shy (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2633.mp4
-#EXTINF:-1,It Comes At Night (2017)
+#EXTINF:0,It Comes At Night (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2634.mp4
-#EXTINF:-1,Killing Hasselhoff (2017)
+#EXTINF:0,Killing Hasselhoff (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2635.mp4
-#EXTINF:-1,Kismat Konnection (2008)
+#EXTINF:0,Kismat Konnection (2008)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2636.mp4
-#EXTINF:-1,Kung Fu Yoga (2017)
+#EXTINF:0,Kung Fu Yoga (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2637.mp4
-#EXTINF:-1,Mais Forte Que O Mundo (2016)
+#EXTINF:0,Mais Forte Que O Mundo (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2638.mp4
-#EXTINF:-1,Megan Leavey (2017)
+#EXTINF:0,Megan Leavey (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2639.mp4
-#EXTINF:-1,My Cousin Rachel (2017)
+#EXTINF:0,My Cousin Rachel (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2640.mp4
-#EXTINF:-1,O Guarda Costas E O Assassino (2017)
+#EXTINF:0,O Guarda Costas E O Assassino (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2641.mp4
-#EXTINF:-1,Operacoes Especiais (2015)
+#EXTINF:0,Operacoes Especiais (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2642.mp4
-#EXTINF:-1,Orbita 9 (2017)
+#EXTINF:0,Orbita 9 (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2643.mp4
-#EXTINF:-1,Os Dez Mandamentos O Filme (2016)
+#EXTINF:0,Os Dez Mandamentos O Filme (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2644.mp4
-#EXTINF:-1,Os Penetras 2 Quem Da Mais (2017)
+#EXTINF:0,Os Penetras 2 Quem Da Mais (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2645.mp4
-#EXTINF:-1,Our Souls At Night (2017)
+#EXTINF:0,Our Souls At Night (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2646.mp4
-#EXTINF:-1,Pacha E O Imperador 2
+#EXTINF:0,Pacha E O Imperador 2
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2647.mp4
-#EXTINF:-1,Pirates Of The Caribbean: Dead Men Tell No Tales (2017)
+#EXTINF:0,Pirates Of The Caribbean: Dead Men Tell No Tales (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2648.mp4
-#EXTINF:-1,Raising The Bar (2016)
+#EXTINF:0,Raising The Bar (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2649.mp4
-#EXTINF:-1,Rogue Warrior Robot Fighter (2017)
+#EXTINF:0,Rogue Warrior Robot Fighter (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2650.mp4
-#EXTINF:-1,Satyam Shivam Sundaram (2000)
+#EXTINF:0,Satyam Shivam Sundaram (2000)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2651.mp4
-#EXTINF:-1,Satyam Shivam Sundaram: Love Sublime (1978)
+#EXTINF:0,Satyam Shivam Sundaram: Love Sublime (1978)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2652.mp4
-#EXTINF:-1,Sete Irmas (2017)
+#EXTINF:0,Sete Irmas (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2653.mp4
-#EXTINF:-1,Shock Wave (2017)
+#EXTINF:0,Shock Wave (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2654.mp4
-#EXTINF:-1,Spiderman Homecoming (2017)
+#EXTINF:0,Spiderman Homecoming (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2655.mp4
-#EXTINF:-1,The Bar (2017)
+#EXTINF:0,The Bar (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2656.mp4
-#EXTINF:-1,The Beguiled (2017)
+#EXTINF:0,The Beguiled (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2657.mp4
-#EXTINF:-1,The Book Of Henry (2017)
+#EXTINF:0,The Book Of Henry (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2658.mp4
-#EXTINF:-1,The Case For Christ (2017)
+#EXTINF:0,The Case For Christ (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2659.mp4
-#EXTINF:-1,The Gracefield Incident (2017)
+#EXTINF:0,The Gracefield Incident (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2660.mp4
-#EXTINF:-1,The Hero (2017)
+#EXTINF:0,The Hero (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2661.mp4
-#EXTINF:-1,The House (2017)
+#EXTINF:0,The House (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2662.mp4
-#EXTINF:-1,The Little Polar Bear (2001)
+#EXTINF:0,The Little Polar Bear (2001)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2663.mp4
-#EXTINF:-1,The Lovers (2017)
+#EXTINF:0,The Lovers (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2664.mp4
-#EXTINF:-1,The Vault (2017)
+#EXTINF:0,The Vault (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2665.mp4
-#EXTINF:-1,This Is Your Death (2017)
+#EXTINF:0,This Is Your Death (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2666.mp4
-#EXTINF:-1,Toc Transtornada Obsessiva Compulsiva (2017)
+#EXTINF:0,Toc Transtornada Obsessiva Compulsiva (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2667.mp4
-#EXTINF:-1,Transformers O Ultimo Cavaleiro (2017)
+#EXTINF:0,Transformers O Ultimo Cavaleiro (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2668.mp4
-#EXTINF:-1,Trash (2014)
+#EXTINF:0,Trash (2014)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2669.mp4
-#EXTINF:-1,Tubelight (2017)
+#EXTINF:0,Tubelight (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2670.mp4
-#EXTINF:-1,Um Lugar Para Ser Feliz (2016)
+#EXTINF:0,Um Lugar Para Ser Feliz (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2671.mp4
-#EXTINF:-1,Um Tio Quase Perfeito (2017)
+#EXTINF:0,Um Tio Quase Perfeito (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2672.mp4
-#EXTINF:-1,Unacknowledged (2017)
+#EXTINF:0,Unacknowledged (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2673.mp4
-#EXTINF:-1,Unlocked (2017)
+#EXTINF:0,Unlocked (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2674.mp4
-#EXTINF:-1,We Are Pregnant (2016)
+#EXTINF:0,We Are Pregnant (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2675.mp4
-#EXTINF:-1,Whitney Can I Be Me (2017)
+#EXTINF:0,Whitney Can I Be Me (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2676.mp4
-#EXTINF:-1,A Mumia (2017)
+#EXTINF:0,A Mumia (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2540.mp4
-#EXTINF:-1,A Quiet Passion (2016)
+#EXTINF:0,A Quiet Passion (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2541.mp4
-#EXTINF:-1,A Vida Em Espera (2016)
+#EXTINF:0,A Vida Em Espera (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2542.mp4
-#EXTINF:-1,Aftermath (2017)
+#EXTINF:0,Aftermath (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2543.mp4
-#EXTINF:-1,Against The Law (2017)
+#EXTINF:0,Against The Law (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2544.mp4
-#EXTINF:-1,Alvin E Os Esquilos 2 (2009)
+#EXTINF:0,Alvin E Os Esquilos 2 (2009)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2545.mp4
-#EXTINF:-1,Alvin E Os Esquilos 3 Naufragados (2011)
+#EXTINF:0,Alvin E Os Esquilos 3 Naufragados (2011)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2546.mp4
-#EXTINF:-1,American Violence (2017)
+#EXTINF:0,American Violence (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2547.mp4
-#EXTINF:-1,Amor Acima De Tudo (2017)
+#EXTINF:0,Amor Acima De Tudo (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2548.mp4
-#EXTINF:-1,Antes De Vos Deixar (2017)
+#EXTINF:0,Antes De Vos Deixar (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2549.mp4
-#EXTINF:-1,Assalto Ao Shopping (2017)
+#EXTINF:0,Assalto Ao Shopping (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2550.mp4
-#EXTINF:-1,Awakening The Zodiac (2017)
+#EXTINF:0,Awakening The Zodiac (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2551.mp4
-#EXTINF:-1,Baahubali 2 The Conclusion (2017)
+#EXTINF:0,Baahubali 2 The Conclusion (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2552.mp4
-#EXTINF:-1,Bailarina (2016)
+#EXTINF:0,Bailarina (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2553.mp4
-#EXTINF:-1,Baywatch Mares Vivas (2017)
+#EXTINF:0,Baywatch Mares Vivas (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2554.mp4
-#EXTINF:-1,Begum Jaan (2017)
+#EXTINF:0,Begum Jaan (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2555.mp4
-#EXTINF:-1,Black Site Delta (2017)
+#EXTINF:0,Black Site Delta (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2556.mp4
-#EXTINF:-1,Blind (2017)
+#EXTINF:0,Blind (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2557.mp4
-#EXTINF:-1,Danca Comigo (2017)
+#EXTINF:0,Danca Comigo (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2558.mp4
-#EXTINF:-1,Descendants 2 (2017)
+#EXTINF:0,Descendants 2 (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2559.mp4
-#EXTINF:-1,Diana, Our Mother: Her Life And Legacy (2017)
+#EXTINF:0,Diana, Our Mother: Her Life And Legacy (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2560.mp4
-#EXTINF:-1,Eusebio Historia De Uma Lenda (2017)-1 Mp4
+#EXTINF:0,Eusebio Historia De Uma Lenda (2017)0 Mp4
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2561.mp4
-#EXTINF:-1,Feed (2017)
+#EXTINF:0,Feed (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2562.mp4
-#EXTINF:-1,Guardioes Da Galaxia Vol  2 (2017)
+#EXTINF:0,Guardioes Da Galaxia Vol  2 (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2563.mp4
-#EXTINF:-1,Heritage Falls (2016)
+#EXTINF:0,Heritage Falls (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2564.mp4
-#EXTINF:-1,How To Be A Latin Lover (2017)
+#EXTINF:0,How To Be A Latin Lover (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2565.mp4
-#EXTINF:-1,I Hate Luv Storys (2010)
+#EXTINF:0,I Hate Luv Storys (2010)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2566.mp4
-#EXTINF:-1,Icarus (2017)
+#EXTINF:0,Icarus (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2567.mp4
-#EXTINF:-1,Inconceivable (2017)
+#EXTINF:0,Inconceivable (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2568.mp4
-#EXTINF:-1,It Stains The Sands Red (2016)
+#EXTINF:0,It Stains The Sands Red (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2569.mp4
-#EXTINF:-1,Jasper Jones (2017)
+#EXTINF:0,Jasper Jones (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2570.mp4
-#EXTINF:-1,Kiss And Cry (2017)
+#EXTINF:0,Kiss And Cry (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2571.mp4
-#EXTINF:-1,Monstros A Universidade (2013)
+#EXTINF:0,Monstros A Universidade (2013)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2572.mp4
-#EXTINF:-1,Naked (2017)
+#EXTINF:0,Naked (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2573.mp4
-#EXTINF:-1,O Muro (2017)
+#EXTINF:0,O Muro (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2574.mp4
-#EXTINF:-1,Ok Jaanu (2017)
+#EXTINF:0,Ok Jaanu (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2575.mp4
-#EXTINF:-1,Olha Que Duas (2017)
+#EXTINF:0,Olha Que Duas (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2576.mp4
-#EXTINF:-1,Phillauri (2017)
+#EXTINF:0,Phillauri (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2577.mp4
-#EXTINF:-1,Phoenix Forgotten (2017)
+#EXTINF:0,Phoenix Forgotten (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2578.mp4
-#EXTINF:-1,Revolt (2017)
+#EXTINF:0,Revolt (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2579.mp4
-#EXTINF:-1,Rock Dog  Um Sonho Altamente (2016)
+#EXTINF:0,Rock Dog  Um Sonho Altamente (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2580.mp4
-#EXTINF:-1,Saawariya (2007)
+#EXTINF:0,Saawariya (2007)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2581.mp4
-#EXTINF:-1,Sex Doll (2016)
+#EXTINF:0,Sex Doll (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2582.mp4
-#EXTINF:-1,Shot Caller (2017)
+#EXTINF:0,Shot Caller (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2583.mp4
-#EXTINF:-1,Sleight (2016)
+#EXTINF:0,Sleight (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2584.mp4
-#EXTINF:-1,Smurfs A Aldeia Perdida (2017)
+#EXTINF:0,Smurfs A Aldeia Perdida (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2585.mp4
-#EXTINF:-1,Speech Debate (2017)
+#EXTINF:0,Speech Debate (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2586.mp4
-#EXTINF:-1,Tangled Before Ever After (2017)
+#EXTINF:0,Tangled Before Ever After (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2587.mp4
-#EXTINF:-1,The Boss Baby (2017)
+#EXTINF:0,The Boss Baby (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2588.mp4
-#EXTINF:-1,The Exception (2016)
+#EXTINF:0,The Exception (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2589.mp4
-#EXTINF:-1,The Game Changer (2017)
+#EXTINF:0,The Game Changer (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2590.mp4
-#EXTINF:-1,The Incredible Jessica James (2017)
+#EXTINF:0,The Incredible Jessica James (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2591.mp4
-#EXTINF:-1,The Ottoman Lieutenant (2017)
+#EXTINF:0,The Ottoman Lieutenant (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2592.mp4
-#EXTINF:-1,The Saint (2017)
+#EXTINF:0,The Saint (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2593.mp4
-#EXTINF:-1,The Truth Is In The Stars (2017)
+#EXTINF:0,The Truth Is In The Stars (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2594.mp4
-#EXTINF:-1,Tum Bin 2 (2016)
+#EXTINF:0,Tum Bin 2 (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2595.mp4
-#EXTINF:-1,Um Rico Sovina (2016)
+#EXTINF:0,Um Rico Sovina (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2596.mp4
-#EXTINF:-1,Veloce Come Il Vento (2016)
+#EXTINF:0,Veloce Come Il Vento (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2597.mp4
-#EXTINF:-1,12 Feet Deep (2016)
+#EXTINF:0,12 Feet Deep (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2445.mp4
-#EXTINF:-1,1898 Los Ultimos De Filipinas (2016)
+#EXTINF:0,1898 Los Ultimos De Filipinas (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2446.mp4
-#EXTINF:-1,7 Witches (2017)
+#EXTINF:0,7 Witches (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2448.mp4
-#EXTINF:-1,A Arca De Noe (2007)
+#EXTINF:0,A Arca De Noe (2007)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2449.mp4
-#EXTINF:-1,A Bela E O Monstro (2017)
+#EXTINF:0,A Bela E O Monstro (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2450.mp4
-#EXTINF:-1,A Cabana (2017)
+#EXTINF:0,A Cabana (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2451.mp4
-#EXTINF:-1,A Cidade Perdida De Z (2016)
+#EXTINF:0,A Cidade Perdida De Z (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2452.mp4
-#EXTINF:-1,A Revolta Dos Perus (2013)
+#EXTINF:0,A Revolta Dos Perus (2013)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2453.mp4
-#EXTINF:-1,Aashiqui 2 (2013)
+#EXTINF:0,Aashiqui 2 (2013)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2454.mp4
-#EXTINF:-1,Alien Covenant (2017)
+#EXTINF:0,Alien Covenant (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2455.mp4
-#EXTINF:-1,All Nighter (2017)
+#EXTINF:0,All Nighter (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2456.mp4
-#EXTINF:-1,Amar (2017)
+#EXTINF:0,Amar (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2457.mp4
-#EXTINF:-1,American Exorcism (2017)
+#EXTINF:0,American Exorcism (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2458.mp4
-#EXTINF:-1,Assassins Creed (2016)
+#EXTINF:0,Assassins Creed (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2444.mp4
-#EXTINF:-1,Becoming Bond (2017)
+#EXTINF:0,Becoming Bond (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2459.mp4
-#EXTINF:-1,Blowtorch (2017)
+#EXTINF:0,Blowtorch (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2460.mp4
-#EXTINF:-1,Borboleta Negra (2017)
+#EXTINF:0,Borboleta Negra (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2461.mp4
-#EXTINF:-1,Brain On Fire (2016)
+#EXTINF:0,Brain On Fire (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2462.mp4
-#EXTINF:-1,Cura De Bem Estar (2016)
+#EXTINF:0,Cura De Bem Estar (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2463.mp4
-#EXTINF:-1,Cyborg X (2016)
+#EXTINF:0,Cyborg X (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2464.mp4
-#EXTINF:-1,Darr (1993)
+#EXTINF:0,Darr (1993)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2465.mp4
-#EXTINF:-1,Donkey Xote (2007)
+#EXTINF:0,Donkey Xote (2007)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2466.mp4
-#EXTINF:-1,Drone (2017)
+#EXTINF:0,Drone (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2467.mp4
-#EXTINF:-1,Extortion 2017
+#EXTINF:0,Extortion 2017
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2468.mp4
-#EXTINF:-1,Extraordinary Mission (2017)
+#EXTINF:0,Extraordinary Mission (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2469.mp4
-#EXTINF:-1,Fantasia (1940)
+#EXTINF:0,Fantasia (1940)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2470.mp4
-#EXTINF:-1,Hickok (2017)
+#EXTINF:0,Hickok (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2471.mp4
-#EXTINF:-1,Hora Fatidica (2017)
+#EXTINF:0,Hora Fatidica (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2472.mp4
-#EXTINF:-1,Hounds Of Love (2016)
+#EXTINF:0,Hounds Of Love (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2473.mp4
-#EXTINF:-1,John Wick 2 (2017)
+#EXTINF:0,John Wick 2 (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2474.mp4
-#EXTINF:-1,Kong  Ilha Da Caveira (2017)
+#EXTINF:0,Kong  Ilha Da Caveira (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2475.mp4
-#EXTINF:-1,Ladroes Com Muito Estilo (2017)
+#EXTINF:0,Ladroes Com Muito Estilo (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2476.mp4
-#EXTINF:-1,Lego Batman O Filme (2017)
+#EXTINF:0,Lego Batman O Filme (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2477.mp4
-#EXTINF:-1,Lorax (2012)
+#EXTINF:0,Lorax (2012)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2478.mp4
-#EXTINF:-1,Losing Sight Of Shore (2017)
+#EXTINF:0,Losing Sight Of Shore (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2479.mp4
-#EXTINF:-1,Lucky Luke, A Balada Dos Dalton (1978)
+#EXTINF:0,Lucky Luke, A Balada Dos Dalton (1978)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2480.mp4
-#EXTINF:-1,Malapata (2017)
+#EXTINF:0,Malapata (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2481.mp4
-#EXTINF:-1,Mau Mau Maria (2014)
+#EXTINF:0,Mau Mau Maria (2014)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2482.mp4
-#EXTINF:-1,Mclaren (2017)
+#EXTINF:0,Mclaren (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2483.mp4
-#EXTINF:-1,Mechanic: Resurrection (2016)
+#EXTINF:0,Mechanic: Resurrection (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2484.mp4
-#EXTINF:-1,Mickey Donald E Pateta Os Tres Mosqueteiros (2004)
+#EXTINF:0,Mickey Donald E Pateta Os Tres Mosqueteiros (2004)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2485.mp4
-#EXTINF:-1,Monstros E Companhia (2001)
+#EXTINF:0,Monstros E Companhia (2001)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2486.mp4
-#EXTINF:-1,Mulher Maravilha (2017)
+#EXTINF:0,Mulher Maravilha (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2487.mp4
-#EXTINF:-1,O Gang Do Pi (2006)
+#EXTINF:0,O Gang Do Pi (2006)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2488.mp4
-#EXTINF:-1,O Gangue Do Parque (2014)
+#EXTINF:0,O Gangue Do Parque (2014)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2489.mp4
-#EXTINF:-1,O Panda Vai A Escola 4 (2011)
+#EXTINF:0,O Panda Vai A Escola 4 (2011)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2490.mp4
-#EXTINF:-1,O Patinho Feio E Eu (2006)
+#EXTINF:0,O Patinho Feio E Eu (2006)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2491.mp4
-#EXTINF:-1,O Principe Do Egipto (1998)
+#EXTINF:0,O Principe Do Egipto (1998)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2492.mp4
-#EXTINF:-1,Okja (2017)
+#EXTINF:0,Okja (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2493.mp4
-#EXTINF:-1,Once Upon A Time In Venice (2017)
+#EXTINF:0,Once Upon A Time In Venice (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2494.mp4
-#EXTINF:-1,Operation Mekong (2016)
+#EXTINF:0,Operation Mekong (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2495.mp4
-#EXTINF:-1,Orgulho De Famlia - O Filme (2005)
+#EXTINF:0,Orgulho De Famlia - O Filme (2005)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2496.mp4
-#EXTINF:-1,Os Marretas (2011)
+#EXTINF:0,Os Marretas (2011)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2497.mp4
-#EXTINF:-1,Paddington (2014)
+#EXTINF:0,Paddington (2014)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2498.mp4
-#EXTINF:-1,Panda E Os Caricas (2012)
+#EXTINF:0,Panda E Os Caricas (2012)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2499.mp4
-#EXTINF:-1,Pateta, O Filme (1995)
+#EXTINF:0,Pateta, O Filme (1995)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2500.mp4
-#EXTINF:-1,Patrulha De Doidos (2017)
+#EXTINF:0,Patrulha De Doidos (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2501.mp4
-#EXTINF:-1,Pinoquio (1940)
+#EXTINF:0,Pinoquio (1940)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2502.mp4
-#EXTINF:-1,Pitching Tents (2017)
+#EXTINF:0,Pitching Tents (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2503.mp4
-#EXTINF:-1,Por Agua Abaixo (2006)
+#EXTINF:0,Por Agua Abaixo (2006)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2504.mp4
-#EXTINF:-1,Power Rangers (2017)
+#EXTINF:0,Power Rangers (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2505.mp4
-#EXTINF:-1,Pray For Rain (2017)
+#EXTINF:0,Pray For Rain (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2506.mp4
-#EXTINF:-1,Pular A Cerca (2006)
+#EXTINF:0,Pular A Cerca (2006)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2507.mp4
-#EXTINF:-1,Rapto (2017)
+#EXTINF:0,Rapto (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2508.mp4
-#EXTINF:-1,Ratatouille (2007)
+#EXTINF:0,Ratatouille (2007)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2509.mp4
-#EXTINF:-1,Rei Artur A Lenda Da Espada (2017)
+#EXTINF:0,Rei Artur A Lenda Da Espada (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2510.mp4
-#EXTINF:-1,Resident Evil Vendetta (2017)
+#EXTINF:0,Resident Evil Vendetta (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2511.mp4
-#EXTINF:-1,S W A T  Under Siege (2017)
+#EXTINF:0,S W A T  Under Siege (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2512.mp4
-#EXTINF:-1,Song To Song (2017)
+#EXTINF:0,Song To Song (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2513.mp4
-#EXTINF:-1,T2 Trainspotting (2017)
+#EXTINF:0,T2 Trainspotting (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2514.mp4
-#EXTINF:-1,Table 19 (2017)
+#EXTINF:0,Table 19 (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2515.mp4
-#EXTINF:-1,Take Me (2017)
+#EXTINF:0,Take Me (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2516.mp4
-#EXTINF:-1,The Bad Batch (2016)
+#EXTINF:0,The Bad Batch (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2517.mp4
-#EXTINF:-1,The Belko Experiment (2016)
+#EXTINF:0,The Belko Experiment (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2518.mp4
-#EXTINF:-1,The Circle (2017)
+#EXTINF:0,The Circle (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2519.mp4
-#EXTINF:-1,The Last Face  A Ultima Fronteira (2016)
+#EXTINF:0,The Last Face  A Ultima Fronteira (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2520.mp4
-#EXTINF:-1,The Mechanic - O Profissional (2011)
+#EXTINF:0,The Mechanic - O Profissional (2011)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2521.mp4
-#EXTINF:-1,The Recall (2017)
+#EXTINF:0,The Recall (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2522.mp4
-#EXTINF:-1,The Shadow Effect (2017)
+#EXTINF:0,The Shadow Effect (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2523.mp4
-#EXTINF:-1,The Veil (2017)
+#EXTINF:0,The Veil (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2524.mp4
-#EXTINF:-1,The White King (2016)
+#EXTINF:0,The White King (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2525.mp4
-#EXTINF:-1,The Wizard Of Lies (2017)
+#EXTINF:0,The Wizard Of Lies (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2526.mp4
-#EXTINF:-1,The Zookeepers Wife (2017)
+#EXTINF:0,The Zookeepers Wife (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2527.mp4
-#EXTINF:-1,Tracy Morgan Staying Alive (2017)
+#EXTINF:0,Tracy Morgan Staying Alive (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2528.mp4
-#EXTINF:-1,Un Homme A La Hauteur (2016)
+#EXTINF:0,Un Homme A La Hauteur (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2529.mp4
-#EXTINF:-1,Unforgettable (2017)
+#EXTINF:0,Unforgettable (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2530.mp4
-#EXTINF:-1,Vida Inteligente (2017)
+#EXTINF:0,Vida Inteligente (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2531.mp4
-#EXTINF:-1,Vincent N Roxxy (2016)
+#EXTINF:0,Vincent N Roxxy (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2532.mp4
-#EXTINF:-1,War Machine (2017)
+#EXTINF:0,War Machine (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2533.mp4
-#EXTINF:-1,Wilson (2017)
+#EXTINF:0,Wilson (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2534.mp4
-#EXTINF:-1,Xana Toctoc
+#EXTINF:0,Xana Toctoc
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2535.mp4
-#EXTINF:-1,100 Metros (2016)
+#EXTINF:0,100 Metros (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2323.mp4
-#EXTINF:-1,100 Streets (2016)
+#EXTINF:0,100 Streets (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2324.mp4
-#EXTINF:-1,20th Century Women (2016)
+#EXTINF:0,20th Century Women (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2325.mp4
-#EXTINF:-1,A Bela Adormecida (1995)
+#EXTINF:0,A Bela Adormecida (1995)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2326.mp4
-#EXTINF:-1,A Casa Da Magia (2013)
+#EXTINF:0,A Casa Da Magia (2013)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2327.mp4
-#EXTINF:-1,A Espada Era A Lei (1963)
+#EXTINF:0,A Espada Era A Lei (1963)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2328.mp4
-#EXTINF:-1,A Espada Magica (1998)
+#EXTINF:0,A Espada Magica (1998)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2329.mp4
-#EXTINF:-1,A Fuga Das Galinhas (2000)
+#EXTINF:0,A Fuga Das Galinhas (2000)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2330.mp4
-#EXTINF:-1,A Grande Muralha (2016)
+#EXTINF:0,A Grande Muralha (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2331.mp4
-#EXTINF:-1,A Lenda De Despereaux (2008)
+#EXTINF:0,A Lenda De Despereaux (2008)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2332.mp4
-#EXTINF:-1,A Room To Die For (2017)
+#EXTINF:0,A Room To Die For (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2333.mp4
-#EXTINF:-1,Almost Adults (2016)
+#EXTINF:0,Almost Adults (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2334.mp4
-#EXTINF:-1,Alpha And Omega (2010)
+#EXTINF:0,Alpha And Omega (2010)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2335.mp4
-#EXTINF:-1,Alpha And Omega 2
+#EXTINF:0,Alpha And Omega 2
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2336.mp4
-#EXTINF:-1,Alpha And Omega 3: The Great Wolf Games (2014)
+#EXTINF:0,Alpha And Omega 3: The Great Wolf Games (2014)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2337.mp4
-#EXTINF:-1,Amigos Amigos Telemoveis A Parte (2016)
+#EXTINF:0,Amigos Amigos Telemoveis A Parte (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2338.mp4
-#EXTINF:-1,Anne Of Green Gables (2016)
+#EXTINF:0,Anne Of Green Gables (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2339.mp4
-#EXTINF:-1,As Cinquenta Sombras Mais Negras (2017)
+#EXTINF:0,As Cinquenta Sombras Mais Negras (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2340.mp4
-#EXTINF:-1,Barbie Video Game Hero (2017)
+#EXTINF:0,Barbie Video Game Hero (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2341.mp4
-#EXTINF:-1,Batalha Incerta (2016)
+#EXTINF:0,Batalha Incerta (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2342.mp4
-#EXTINF:-1,Beauty And The Beast (2017)
+#EXTINF:0,Beauty And The Beast (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2343.mp4
-#EXTINF:-1,Beleza Colateral (2016)
+#EXTINF:0,Beleza Colateral (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2344.mp4
-#EXTINF:-1,Below Her Mouth (2016)
+#EXTINF:0,Below Her Mouth (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2345.mp4
-#EXTINF:-1,Beware The Slenderman (2016)
+#EXTINF:0,Beware The Slenderman (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2346.mp4
-#EXTINF:-1,Blinky Bill - O Filme (2015)
+#EXTINF:0,Blinky Bill - O Filme (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2347.mp4
-#EXTINF:-1,Bokeh (2017)
+#EXTINF:0,Bokeh (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2348.mp4
-#EXTINF:-1,Bornless Ones (2016)
+#EXTINF:0,Bornless Ones (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2349.mp4
-#EXTINF:-1,Bottom Of The World (2017)
+#EXTINF:0,Bottom Of The World (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2350.mp4
-#EXTINF:-1,Boyka: Undisputed Iv (2016)
+#EXTINF:0,Boyka: Undisputed Iv (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2351.mp4
-#EXTINF:-1,Breaking Bad Movie Deal Gone Bad (2015)
+#EXTINF:0,Breaking Bad Movie Deal Gone Bad (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2352.mp4
-#EXTINF:-1,Brimstone - Castigo (2016)
+#EXTINF:0,Brimstone - Castigo (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2353.mp4
-#EXTINF:-1,Burning Sands (2017)
+#EXTINF:0,Burning Sands (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2354.mp4
-#EXTINF:-1,Cantar (2016)
+#EXTINF:0,Cantar (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2355.mp4
-#EXTINF:-1,Carrie Pilby (2016)
+#EXTINF:0,Carrie Pilby (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2356.mp4
-#EXTINF:-1,Cinderela No Faroeste (2012)
+#EXTINF:0,Cinderela No Faroeste (2012)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2357.mp4
-#EXTINF:-1,Closer (2004)
+#EXTINF:0,Closer (2004)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2358.mp4
-#EXTINF:-1,Colossal (2016)
+#EXTINF:0,Colossal (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2359.mp4
-#EXTINF:-1,Comer Orar Amar (2010)
+#EXTINF:0,Comer Orar Amar (2010)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2360.mp4
-#EXTINF:-1,Deep Burial (2017)
+#EXTINF:0,Deep Burial (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2361.mp4
-#EXTINF:-1,Deep In The Heart Of Texas: Dave Chappelle Live At Austin City Limits (2017)
+#EXTINF:0,Deep In The Heart Of Texas: Dave Chappelle Live At Austin City Limits (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2362.mp4
-#EXTINF:-1,Epic - O Reino Secreto (2013)
+#EXTINF:0,Epic - O Reino Secreto (2013)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2363.mp4
-#EXTINF:-1,Festa De Natal Da Empresa (2016)
+#EXTINF:0,Festa De Natal Da Empresa (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2364.mp4
-#EXTINF:-1,First Girl I Loved (2016)
+#EXTINF:0,First Girl I Loved (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2365.mp4
-#EXTINF:-1,Foge (2017)
+#EXTINF:0,Foge (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2366.mp4
-#EXTINF:-1,From Vegas To Macau Iii (2016)
+#EXTINF:0,From Vegas To Macau Iii (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2367.mp4
-#EXTINF:-1,Ghost In The Shell - Agente Do Futuro (2017)
+#EXTINF:0,Ghost In The Shell - Agente Do Futuro (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2368.mp4
-#EXTINF:-1,Gifted (2017)
+#EXTINF:0,Gifted (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2369.mp4
-#EXTINF:-1,Girls For Sale (2016)
+#EXTINF:0,Girls For Sale (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2370.mp4
-#EXTINF:-1,Gold (2016)
+#EXTINF:0,Gold (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2371.mp4
-#EXTINF:-1,Hunters Prayer (2017)
+#EXTINF:0,Hunters Prayer (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2372.mp4
-#EXTINF:-1,I Dont Feel At Home In This World Anymore (2017)
+#EXTINF:0,I Dont Feel At Home In This World Anymore (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2373.mp4
-#EXTINF:-1,Jackie (2016)
+#EXTINF:0,Jackie (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2374.mp4
-#EXTINF:-1,Juntos Para Sempre (2017)
+#EXTINF:0,Juntos Para Sempre (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2375.mp4
-#EXTINF:-1,Kaabil (2017)
+#EXTINF:0,Kaabil (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2376.mp4
-#EXTINF:-1,Kill Ratio (2016)
+#EXTINF:0,Kill Ratio (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2377.mp4
-#EXTINF:-1,Kong: Ilha Da Caveira (2017)
+#EXTINF:0,Kong: Ilha Da Caveira (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2378.mp4
-#EXTINF:-1,Larceny (2017)
+#EXTINF:0,Larceny (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2379.mp4
-#EXTINF:-1,Lavender (2016)
+#EXTINF:0,Lavender (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2380.mp4
-#EXTINF:-1,Line Walker (2016)
+#EXTINF:0,Line Walker (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2381.mp4
-#EXTINF:-1,Little Boxes (2016)
+#EXTINF:0,Little Boxes (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2382.mp4
-#EXTINF:-1,Logan (2017)
+#EXTINF:0,Logan (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2383.mp4
-#EXTINF:-1,Luta De Profs (2017)
+#EXTINF:0,Luta De Profs (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2384.mp4
-#EXTINF:-1,Man Down (2015)
+#EXTINF:0,Man Down (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2385.mp4
-#EXTINF:-1,Mercury Plains (2016)
+#EXTINF:0,Mercury Plains (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2386.mp4
-#EXTINF:-1,Monster House (2006)
+#EXTINF:0,Monster House (2006)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2387.mp4
-#EXTINF:-1,Neruda (2016)
+#EXTINF:0,Neruda (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2388.mp4
-#EXTINF:-1,Nos Limites Da Lei (2017)
+#EXTINF:0,Nos Limites Da Lei (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2389.mp4
-#EXTINF:-1,O Fundador (2016)
+#EXTINF:0,O Fundador (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2390.mp4
-#EXTINF:-1,One Night (2016)
+#EXTINF:0,One Night (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2391.mp4
-#EXTINF:-1,Operation Avalanche (2016)
+#EXTINF:0,Operation Avalanche (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2392.mp4
-#EXTINF:-1,Os Pinguins De Madagascar (2014)
+#EXTINF:0,Os Pinguins De Madagascar (2014)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2393.mp4
-#EXTINF:-1,Ovelhas E Lobos (2016)
+#EXTINF:0,Ovelhas E Lobos (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2394.mp4
-#EXTINF:-1,Ozzy (2016)
+#EXTINF:0,Ozzy (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2395.mp4
-#EXTINF:-1,Parasites (2016)
+#EXTINF:0,Parasites (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2396.mp4
-#EXTINF:-1,Paterson (2016)
+#EXTINF:0,Paterson (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2397.mp4
-#EXTINF:-1,Patriots Day - Unidos Por Boston (2016)
+#EXTINF:0,Patriots Day - Unidos Por Boston (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2398.mp4
-#EXTINF:-1,Peelers (2016)
+#EXTINF:0,Peelers (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2399.mp4
-#EXTINF:-1,Personal Shopper (2016)
+#EXTINF:0,Personal Shopper (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2400.mp4
-#EXTINF:-1,Pixie Hollow Games (2011)
+#EXTINF:0,Pixie Hollow Games (2011)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2401.mp4
-#EXTINF:-1,Quarries (2016)
+#EXTINF:0,Quarries (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2402.mp4
-#EXTINF:-1,Railroad Tigers (2016)
+#EXTINF:0,Railroad Tigers (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2403.mp4
-#EXTINF:-1,Resident Evil: Capitulo Final (2016)
+#EXTINF:0,Resident Evil: Capitulo Final (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2404.mp4
-#EXTINF:-1,Rings (2017)
+#EXTINF:0,Rings (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2405.mp4
-#EXTINF:-1,Rogue One (2016)
+#EXTINF:0,Rogue One (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2406.mp4
-#EXTINF:-1,Rules Dont Apply (2016)
+#EXTINF:0,Rules Dont Apply (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2407.mp4
-#EXTINF:-1,Running Wild (2017)
+#EXTINF:0,Running Wild (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2408.mp4
-#EXTINF:-1,Sahara (2017)
+#EXTINF:0,Sahara (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2409.mp4
-#EXTINF:-1,Salt And Fire (2016)
+#EXTINF:0,Salt And Fire (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2410.mp4
-#EXTINF:-1,Sam Was Here (2016)
+#EXTINF:0,Sam Was Here (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2411.mp4
-#EXTINF:-1,Sand Castle (2017)
+#EXTINF:0,Sand Castle (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2412.mp4
-#EXTINF:-1,Sandy Wexler (2017)
+#EXTINF:0,Sandy Wexler (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2413.mp4
-#EXTINF:-1,Savage Dog (2017)
+#EXTINF:0,Savage Dog (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2414.mp4
-#EXTINF:-1,Split (2016)
+#EXTINF:0,Split (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2415.mp4
-#EXTINF:-1,Stagecoach The Texas Jack Story (2016)
+#EXTINF:0,Stagecoach The Texas Jack Story (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2416.mp4
-#EXTINF:-1,The Age Of Spin: Dave Chappelle Live At The Hollywood Palladium (2017)
+#EXTINF:0,The Age Of Spin: Dave Chappelle Live At The Hollywood Palladium (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2417.mp4
-#EXTINF:-1,The Assignment (2016)
+#EXTINF:0,The Assignment (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2418.mp4
-#EXTINF:-1,The Creature Below (2016)
+#EXTINF:0,The Creature Below (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2419.mp4
-#EXTINF:-1,The Darkest Dawn (2016)
+#EXTINF:0,The Darkest Dawn (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2420.mp4
-#EXTINF:-1,The Institute (2017)
+#EXTINF:0,The Institute (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2422.mp4
-#EXTINF:-1,The Marine 5: Battleground (2017)
+#EXTINF:0,The Marine 5: Battleground (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2423.mp4
-#EXTINF:-1,The Space Between Us (2017)
+#EXTINF:0,The Space Between Us (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2424.mp4
-#EXTINF:-1,The Thinning (2016)
+#EXTINF:0,The Thinning (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2425.mp4
-#EXTINF:-1,The Ticket (2016)
+#EXTINF:0,The Ticket (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2426.mp4
-#EXTINF:-1,Total Frat Movie (2016)
+#EXTINF:0,Total Frat Movie (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2427.mp4
-#EXTINF:-1,Tower (2016)
+#EXTINF:0,Tower (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2428.mp4
-#EXTINF:-1,Trainspotting (1996)
+#EXTINF:0,Trainspotting (1996)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2429.mp4
-#EXTINF:-1,Tramp (2017)
+#EXTINF:0,Tramp (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2430.mp4
-#EXTINF:-1,Turbo (2013)
+#EXTINF:0,Turbo (2013)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2431.mp4
-#EXTINF:-1,Um Reino Unido (2016)
+#EXTINF:0,Um Reino Unido (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2432.mp4
-#EXTINF:-1,Velocidade Furiosa 8
+#EXTINF:0,Velocidade Furiosa 8
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2421.mp4
-#EXTINF:-1,Vengeance: A Love Story (2017)
+#EXTINF:0,Vengeance: A Love Story (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2433.mp4
-#EXTINF:-1,Victoria (2015)
+#EXTINF:0,Victoria (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2434.mp4
-#EXTINF:-1,Viver Na Noite (2016)
+#EXTINF:0,Viver Na Noite (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2435.mp4
-#EXTINF:-1,Voice From The Stone (2017)
+#EXTINF:0,Voice From The Stone (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2436.mp4
-#EXTINF:-1,Voodoo (2017)
+#EXTINF:0,Voodoo (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2437.mp4
-#EXTINF:-1,Warriors Gate (2016)
+#EXTINF:0,Warriors Gate (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2438.mp4
-#EXTINF:-1,We Dont Belong Here (2017)
+#EXTINF:0,We Dont Belong Here (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2439.mp4
-#EXTINF:-1,We Love You (2016)
+#EXTINF:0,We Love You (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2440.mp4
-#EXTINF:-1,Why Him (2016)
+#EXTINF:0,Why Him (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2441.mp4
-#EXTINF:-1,Win It All (2017)
+#EXTINF:0,Win It All (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2442.mp4
-#EXTINF:-1,Xxx Return Of Xander Cage (2017)
+#EXTINF:0,Xxx Return Of Xander Cage (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/2443.mp4
-#EXTINF:-1,All I Need (2016)
+#EXTINF:0,All I Need (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1843.mp4
-#EXTINF:-1,American Fable (2016)
+#EXTINF:0,American Fable (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1844.mp4
-#EXTINF:-1,Barbie And Her Sisters In A Puppy Chase
+#EXTINF:0,Barbie And Her Sisters In A Puppy Chase
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1845.mp4
-#EXTINF:-1,Beauty And The Beast (1991)
+#EXTINF:0,Beauty And The Beast (1991)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1846.mp4
-#EXTINF:-1,Billy Lynns Long Halftime Walk (2016)
+#EXTINF:0,Billy Lynns Long Halftime Walk (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1847.mp4
-#EXTINF:-1,Bleed For This (2016)
+#EXTINF:0,Bleed For This (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1848.mp4
-#EXTINF:-1,Calamity Janes Revenge (2015)
+#EXTINF:0,Calamity Janes Revenge (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1849.mp4
-#EXTINF:-1,Capuchinho Vermelho - A Verdadeira Historia (2005)
+#EXTINF:0,Capuchinho Vermelho - A Verdadeira Historia (2005)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1850.mp4
-#EXTINF:-1,Codigo De Familia (2016)
+#EXTINF:0,Codigo De Familia (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1851.mp4
-#EXTINF:-1,Cross Wars (2017)
+#EXTINF:0,Cross Wars (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1852.mp4
-#EXTINF:-1,David Brent Life On The Road (2016)
+#EXTINF:0,David Brent Life On The Road (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1853.mp4
-#EXTINF:-1,Denial (2016)
+#EXTINF:0,Denial (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1854.mp4
-#EXTINF:-1,Detour (2016)
+#EXTINF:0,Detour (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1855.mp4
-#EXTINF:-1,Dil Dhadakne Do (2015)
+#EXTINF:0,Dil Dhadakne Do (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1856.mp4
-#EXTINF:-1,Doctor Strange (2016)
+#EXTINF:0,Doctor Strange (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1857.mp4
-#EXTINF:-1,Dog Eat Dog (2016
+#EXTINF:0,Dog Eat Dog (2016
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1858.mp4
-#EXTINF:-1,Einsteins God Model (2016)
+#EXTINF:0,Einsteins God Model (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1859.mp4
-#EXTINF:-1,Eis O Admiravel Mundo Em Rede (2016)
+#EXTINF:0,Eis O Admiravel Mundo Em Rede (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1860.mp4
-#EXTINF:-1,Elementos Secretos (2016)
+#EXTINF:0,Elementos Secretos (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1861.mp4
-#EXTINF:-1,Eloise (2017)
+#EXTINF:0,Eloise (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1862.mp4
-#EXTINF:-1,Emeryville (2016)
+#EXTINF:0,Emeryville (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1863.mp4
-#EXTINF:-1,Eu Daniel Blake (2016)
+#EXTINF:0,Eu Daniel Blake (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1864.mp4
-#EXTINF:-1,Grease (1978)
+#EXTINF:0,Grease (1978)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1865.mp4
-#EXTINF:-1,Grease Live (2016)
+#EXTINF:0,Grease Live (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1866.mp4
-#EXTINF:-1,Iboy (2017)
+#EXTINF:0,Iboy (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1867.mp4
-#EXTINF:-1,Im Not Ashamed (2016)
+#EXTINF:0,Im Not Ashamed (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1868.mp4
-#EXTINF:-1,Joshy (2016)
+#EXTINF:0,Joshy (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1869.mp4
-#EXTINF:-1,Life Animated (2016)
+#EXTINF:0,Life Animated (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1870.mp4
-#EXTINF:-1,Lion A Longa Estrada Para Casa (2016)
+#EXTINF:0,Lion A Longa Estrada Para Casa (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1871.mp4
-#EXTINF:-1,Manchester By The Sea (2016)
+#EXTINF:0,Manchester By The Sea (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1872.mp4
-#EXTINF:-1,Miss Sloane - Uma Mulher De Armas (2016)
+#EXTINF:0,Miss Sloane - Uma Mulher De Armas (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1873.mp4
-#EXTINF:-1,Moana (2016)
+#EXTINF:0,Moana (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1874.mp4
-#EXTINF:-1,Moonlight (2016)
+#EXTINF:0,Moonlight (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1875.mp4
-#EXTINF:-1,Morris From America (2016)
+#EXTINF:0,Morris From America (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1876.mp4
-#EXTINF:-1,Officer Downe (2016)
+#EXTINF:0,Officer Downe (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1877.mp4
-#EXTINF:-1,Os 101 Dalmatas (1961)
+#EXTINF:0,Os 101 Dalmatas (1961)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1878.mp4
-#EXTINF:-1,Passengers (2016)
+#EXTINF:0,Passengers (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1879.mp4
-#EXTINF:-1,Priceless (2016)
+#EXTINF:0,Priceless (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1880.mp4
-#EXTINF:-1,Rainbow Time (2016)
+#EXTINF:0,Rainbow Time (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1881.mp4
-#EXTINF:-1,Rocky Handsome (2016)
+#EXTINF:0,Rocky Handsome (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1882.mp4
-#EXTINF:-1,Ru Ba Ru (2008)
+#EXTINF:0,Ru Ba Ru (2008)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1883.mp4
-#EXTINF:-1,Secrets Of Deception (2017)
+#EXTINF:0,Secrets Of Deception (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1884.mp4
-#EXTINF:-1,Sete Minutos Depois Da Meia Noite (2016)
+#EXTINF:0,Sete Minutos Depois Da Meia Noite (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1885.mp4
-#EXTINF:-1,Shut In (2016)
+#EXTINF:0,Shut In (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1886.mp4
-#EXTINF:-1,Silence (2016)
+#EXTINF:0,Silence (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1887.mp4
-#EXTINF:-1,Somnus (2016)
+#EXTINF:0,Somnus (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1888.mp4
-#EXTINF:-1,Space Dogs: Adventure To The Moon (2014)
+#EXTINF:0,Space Dogs: Adventure To The Moon (2014)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1889.mp4
-#EXTINF:-1,Star Trek: Alem Do Universo (2016)
+#EXTINF:0,Star Trek: Alem Do Universo (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1890.mp4
-#EXTINF:-1,Sugar Mountain (2016)
+#EXTINF:0,Sugar Mountain (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1891.mp4
-#EXTINF:-1,Take The 10 (2016)
+#EXTINF:0,Take The 10 (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1892.mp4
-#EXTINF:-1,Tamasha (2015)
+#EXTINF:0,Tamasha (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1893.mp4
-#EXTINF:-1,Tanna (2015)
+#EXTINF:0,Tanna (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1894.mp4
-#EXTINF:-1,The Axe Murders Of Villisca (2016)
+#EXTINF:0,The Axe Murders Of Villisca (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1895.mp4
-#EXTINF:-1,The Covenant (2017)
+#EXTINF:0,The Covenant (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1896.mp4
-#EXTINF:-1,The Debt (2016)
+#EXTINF:0,The Debt (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1897.mp4
-#EXTINF:-1,The Edge Of Seventeen (2016)
+#EXTINF:0,The Edge Of Seventeen (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1898.mp4
-#EXTINF:-1,The Love Witch (2016)
+#EXTINF:0,The Love Witch (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1899.mp4
-#EXTINF:-1,The Vessel (2016)
+#EXTINF:0,The Vessel (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1900.mp4
-#EXTINF:-1,Trolls (2016)
+#EXTINF:0,Trolls (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1901.mp4
-#EXTINF:-1,Uma Historia Americana (2016)
+#EXTINF:0,Uma Historia Americana (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1902.mp4
-#EXTINF:-1,Uncle John (2015)
+#EXTINF:0,Uncle John (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1903.mp4
-#EXTINF:-1,Under Sandet (2015)
+#EXTINF:0,Under Sandet (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1904.mp4
-#EXTINF:-1,Underworld: Guerras De Sangue (2016)
+#EXTINF:0,Underworld: Guerras De Sangue (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1905.mp4
-#EXTINF:-1,War On Everyone (2016)
+#EXTINF:0,War On Everyone (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1907.mp4
-#EXTINF:-1,We All Fall Down (2016)
+#EXTINF:0,We All Fall Down (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1908.mp4
-#EXTINF:-1,Xx (2017)
+#EXTINF:0,Xx (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1909.mp4
-#EXTINF:-1,Aliados (2016)
+#EXTINF:0,Aliados (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1842.mp4
-#EXTINF:-1,A Guarda Do Leao : Um Novo Rugido
+#EXTINF:0,A Guarda Do Leao : Um Novo Rugido
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1756.mp4
-#EXTINF:-1,A Rapariga No Comboio (2016)
+#EXTINF:0,A Rapariga No Comboio (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1757.mp4
-#EXTINF:-1,A Stand Up Guy (2016)
+#EXTINF:0,A Stand Up Guy (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1758.mp4
-#EXTINF:-1,A Street Cat Named Bob (2016)
+#EXTINF:0,A Street Cat Named Bob (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1759.mp4
-#EXTINF:-1,Absolutely Fabulous The Movie (2016)
+#EXTINF:0,Absolutely Fabulous The Movie (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1760.mp4
-#EXTINF:-1,All We Had (2016)
+#EXTINF:0,All We Had (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1761.mp4
-#EXTINF:-1,Alone In Berlin (2016)
+#EXTINF:0,Alone In Berlin (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1762.mp4
-#EXTINF:-1,Arrival (2016)
+#EXTINF:0,Arrival (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1763.mp4
-#EXTINF:-1,Arsenal (2017)
+#EXTINF:0,Arsenal (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1764.mp4
-#EXTINF:-1,Beyond The Gates (2016)
+#EXTINF:0,Beyond The Gates (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1765.mp4
-#EXTINF:-1,Christine (2016)
+#EXTINF:0,Christine (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1766.mp4
-#EXTINF:-1,Chronic (2015)
+#EXTINF:0,Chronic (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1767.mp4
-#EXTINF:-1,Claire In Motion (2016)
+#EXTINF:0,Claire In Motion (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1768.mp4
-#EXTINF:-1,Clinical (2017)
+#EXTINF:0,Clinical (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1769.mp4
-#EXTINF:-1,Coin Heist (2017)
+#EXTINF:0,Coin Heist (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1770.mp4
-#EXTINF:-1,Collide (2016)
+#EXTINF:0,Collide (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1771.mp4
-#EXTINF:-1,Come And Find Me (2016)
+#EXTINF:0,Come And Find Me (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1752.mp4
-#EXTINF:-1,Dana Carvey Straight White Male 60 (2016)
+#EXTINF:0,Dana Carvey Straight White Male 60 (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1772.mp4
-#EXTINF:-1,Death Race 2050 (2017)
+#EXTINF:0,Death Race 2050 (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1773.mp4
-#EXTINF:-1,Distance Between Dreams (2016)
+#EXTINF:0,Distance Between Dreams (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1774.mp4
-#EXTINF:-1,Dont Think Twice (2016)
+#EXTINF:0,Dont Think Twice (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1775.mp4
-#EXTINF:-1,Eliminators (2016)
+#EXTINF:0,Eliminators (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1776.mp4
-#EXTINF:-1,Fantastic Beasts And Where To Find Them (2016)
+#EXTINF:0,Fantastic Beasts And Where To Find Them (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1777.mp4
-#EXTINF:-1,Fear  Inc  (2016)
+#EXTINF:0,Fear  Inc  (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1778.mp4
-#EXTINF:-1,Fences (2016)
+#EXTINF:0,Fences (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1779.mp4
-#EXTINF:-1,Firstborn (2016)
+#EXTINF:0,Firstborn (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1780.mp4
-#EXTINF:-1,Girl Asleep (2015)
+#EXTINF:0,Girl Asleep (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1781.mp4
-#EXTINF:-1,Gleason (2016)
+#EXTINF:0,Gleason (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1782.mp4
-#EXTINF:-1,Goldstone (2016)
+#EXTINF:0,Goldstone (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1783.mp4
-#EXTINF:-1,Good Kids (2016)
+#EXTINF:0,Good Kids (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1784.mp4
-#EXTINF:-1,Greater (2016)
+#EXTINF:0,Greater (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1785.mp4
-#EXTINF:-1,Hacksaw Ridge (2016)
+#EXTINF:0,Hacksaw Ridge (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1786.mp4
-#EXTINF:-1,Hillsong Let Hope Rise (2016)
+#EXTINF:0,Hillsong Let Hope Rise (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1787.mp4
-#EXTINF:-1,Hope Lost (2015)
+#EXTINF:0,Hope Lost (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1788.mp4
-#EXTINF:-1,Hurricane Bianca (2016)
+#EXTINF:0,Hurricane Bianca (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1789.mp4
-#EXTINF:-1,Hypernormalisation (2016)
+#EXTINF:0,Hypernormalisation (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1790.mp4
-#EXTINF:-1,I Am Potential (2015
+#EXTINF:0,I Am Potential (2015
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1791.mp4
-#EXTINF:-1,Inseparables (2016)
+#EXTINF:0,Inseparables (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1792.mp4
-#EXTINF:-1,Isra 88 (2016)
+#EXTINF:0,Isra 88 (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1793.mp4
-#EXTINF:-1,Jack Reacher Never Go Back (2016)
+#EXTINF:0,Jack Reacher Never Go Back (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1794.mp4
-#EXTINF:-1,Joseph And Mary (2016)
+#EXTINF:0,Joseph And Mary (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1795.mp4
-#EXTINF:-1,Just In Time For Christmas (2015)
+#EXTINF:0,Just In Time For Christmas (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1796.mp4
-#EXTINF:-1,Kate Plays Christine (2016)
+#EXTINF:0,Kate Plays Christine (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1797.mp4
-#EXTINF:-1,Kevin Hart: What Now? (2016)
+#EXTINF:0,Kevin Hart: What Now? (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1798.mp4
-#EXTINF:-1,La La Land (2016)
+#EXTINF:0,La La Land (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1799.mp4
-#EXTINF:-1,Little Miss Perfect (2016)
+#EXTINF:0,Little Miss Perfect (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1800.mp4
-#EXTINF:-1,Mais Forte Que O Mundo: A Histria De Jos Aldo (2016)
+#EXTINF:0,Mais Forte Que O Mundo: A Histria De Jos Aldo (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1801.mp4
-#EXTINF:-1,Manhattan Romance (2015)
+#EXTINF:0,Manhattan Romance (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1802.mp4
-#EXTINF:-1,Miss Saigon: 25th Anniversary (2016)
+#EXTINF:0,Miss Saigon: 25th Anniversary (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1803.mp4
-#EXTINF:-1,Mohenjo Daro
+#EXTINF:0,Mohenjo Daro
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1753.mp4
-#EXTINF:-1,Monster High: A Assustadora Barreira De Coral
+#EXTINF:0,Monster High: A Assustadora Barreira De Coral
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1804.mp4
-#EXTINF:-1,Morgan (2016)
+#EXTINF:0,Morgan (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1754.mp4
-#EXTINF:-1,Mulheres No Poder (2016)
+#EXTINF:0,Mulheres No Poder (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1805.mp4
-#EXTINF:-1,Murder She Baked 2 A Plum Pudding Mystery (2016)
+#EXTINF:0,Murder She Baked 2 A Plum Pudding Mystery (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1806.mp4
-#EXTINF:-1,N H 10
+#EXTINF:0,N H 10
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1807.mp4
-#EXTINF:-1,Nise: O Coracao Da Loucura (2015)
+#EXTINF:0,Nise: O Coracao Da Loucura (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1808.mp4
-#EXTINF:-1,Nocturnal Animals (2016)
+#EXTINF:0,Nocturnal Animals (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1809.mp4
-#EXTINF:-1,O Shaolin Do Sertao (2016)
+#EXTINF:0,O Shaolin Do Sertao (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1810.mp4
-#EXTINF:-1,Ordinary World (2016)
+#EXTINF:0,Ordinary World (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1811.mp4
-#EXTINF:-1,Ouija Origem Do Mal (2016)
+#EXTINF:0,Ouija Origem Do Mal (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1755.mp4
-#EXTINF:-1,Ouija: Origin Of Evil (2016)
+#EXTINF:0,Ouija: Origin Of Evil (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1812.mp4
-#EXTINF:-1,Peter The Redemption (2016)
+#EXTINF:0,Peter The Redemption (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1813.mp4
-#EXTINF:-1,Queen Of Katwe (2016)
+#EXTINF:0,Queen Of Katwe (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1814.mp4
-#EXTINF:-1,Raavanan
+#EXTINF:0,Raavanan
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1815.mp4
-#EXTINF:-1,Siren (2016)
+#EXTINF:0,Siren (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1816.mp4
-#EXTINF:-1,Sold (2016)
+#EXTINF:0,Sold (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1817.mp4
-#EXTINF:-1,Spectral (2016)
+#EXTINF:0,Spectral (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1818.mp4
-#EXTINF:-1,Sr  Pig (2016)
+#EXTINF:0,Sr  Pig (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1819.mp4
-#EXTINF:-1,Steel (2015)
+#EXTINF:0,Steel (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1820.mp4
-#EXTINF:-1,Take Me To The River (2015)
+#EXTINF:0,Take Me To The River (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1821.mp4
-#EXTINF:-1,Tarde Para La Ira (2016)
+#EXTINF:0,Tarde Para La Ira (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1822.mp4
-#EXTINF:-1,Teenage Cocktail (2016)
+#EXTINF:0,Teenage Cocktail (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1823.mp4
-#EXTINF:-1,The Asian Connection (2016)
+#EXTINF:0,The Asian Connection (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1824.mp4
-#EXTINF:-1,The Call Up (2016)
+#EXTINF:0,The Call Up (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1825.mp4
-#EXTINF:-1,The Disappointments Room (2016)
+#EXTINF:0,The Disappointments Room (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1826.mp4
-#EXTINF:-1,The Eyes Of My Mother (2016)
+#EXTINF:0,The Eyes Of My Mother (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1827.mp4
-#EXTINF:-1,The Girl With All The Gifts (2016)
+#EXTINF:0,The Girl With All The Gifts (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1828.mp4
-#EXTINF:-1,The Great Gilly Hopkins (2016)
+#EXTINF:0,The Great Gilly Hopkins (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1829.mp4
-#EXTINF:-1,The Hollars (2016)
+#EXTINF:0,The Hollars (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1830.mp4
-#EXTINF:-1,The Hollow (2016)
+#EXTINF:0,The Hollow (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1831.mp4
-#EXTINF:-1,The Masked Saint (2016)
+#EXTINF:0,The Masked Saint (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1832.mp4
-#EXTINF:-1,The Messengers Box (2016)
+#EXTINF:0,The Messengers Box (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1833.mp4
-#EXTINF:-1,The Neighbor (2016)
+#EXTINF:0,The Neighbor (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1834.mp4
-#EXTINF:-1,The Sin Seer (2015)
+#EXTINF:0,The Sin Seer (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1835.mp4
-#EXTINF:-1,The Snare (2017)
+#EXTINF:0,The Snare (2017)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1836.mp4
-#EXTINF:-1,Tunnel (2016)
+#EXTINF:0,Tunnel (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1837.mp4
-#EXTINF:-1,Unchained: The Untold Story Of Freestyle Motocross (2016)
+#EXTINF:0,Unchained: The Untold Story Of Freestyle Motocross (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1838.mp4
-#EXTINF:-1,Vigilante Diaries (2016)
+#EXTINF:0,Vigilante Diaries (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1839.mp4
-#EXTINF:-1,White Girl (2016)
+#EXTINF:0,White Girl (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1840.mp4
-#EXTINF:-1,3 Idiots
+#EXTINF:0,3 Idiots
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1700.mp4
-#EXTINF:-1,A Kind Of Murder 2016
+#EXTINF:0,A Kind Of Murder 2016
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1701.mp4
-#EXTINF:-1,A Lenda Do Dragao Pt-pt (2016)
+#EXTINF:0,A Lenda Do Dragao Pt-pt (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1702.mp4
-#EXTINF:-1,A Luz Entre Oceanos (2016)
+#EXTINF:0,A Luz Entre Oceanos (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1703.mp4
-#EXTINF:-1,Ace The Case 2016
+#EXTINF:0,Ace The Case 2016
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1704.mp4
-#EXTINF:-1,Ae Dil Hai Mushkil
+#EXTINF:0,Ae Dil Hai Mushkil
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1705.mp4
-#EXTINF:-1,Amnesiac
+#EXTINF:0,Amnesiac
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1706.mp4
-#EXTINF:-1,Army One
+#EXTINF:0,Army One
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1707.mp4
-#EXTINF:-1,Barkhaa (2015)
+#EXTINF:0,Barkhaa (2015)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1708.mp4
-#EXTINF:-1,Barry (2016)
+#EXTINF:0,Barry (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1709.mp4
-#EXTINF:-1,Before The Flood 2016
+#EXTINF:0,Before The Flood 2016
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1710.mp4
-#EXTINF:-1,Ben Hur (2016)
+#EXTINF:0,Ben Hur (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1711.mp4
-#EXTINF:-1,Blair Witch (2016)
+#EXTINF:0,Blair Witch (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1712.mp4
-#EXTINF:-1,Blue Jay (2016)
+#EXTINF:0,Blue Jay (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1713.mp4
-#EXTINF:-1,Buddymoon (2016)
+#EXTINF:0,Buddymoon (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1714.mp4
-#EXTINF:-1,Bus Driver (2016)
+#EXTINF:0,Bus Driver (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1715.mp4
-#EXTINF:-1,Cardboard Boxer (2016)
+#EXTINF:0,Cardboard Boxer (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1716.mp4
-#EXTINF:-1,Cegonhas (2016)
+#EXTINF:0,Cegonhas (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1717.mp4
-#EXTINF:-1,Chup Chup Ke
+#EXTINF:0,Chup Chup Ke
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1718.mp4
-#EXTINF:-1,Come And Find Me
+#EXTINF:0,Come And Find Me
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1692.mp4
-#EXTINF:-1,Deepwater Horizon (2016)
+#EXTINF:0,Deepwater Horizon (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1721.mp4
-#EXTINF:-1,Dil
+#EXTINF:0,Dil
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1722.mp4
-#EXTINF:-1,Divines
+#EXTINF:0,Divines
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1693.mp4
-#EXTINF:-1,Elena De Avalor (2016)
+#EXTINF:0,Elena De Avalor (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1723.mp4
-#EXTINF:-1,Equity (2016)
+#EXTINF:0,Equity (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1724.mp4
-#EXTINF:-1,Flight Crew (2016)
+#EXTINF:0,Flight Crew (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1725.mp4
-#EXTINF:-1,Force
+#EXTINF:0,Force
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1726.mp4
-#EXTINF:-1,Hands Of Stone (2016)
+#EXTINF:0,Hands Of Stone (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1727.mp4
-#EXTINF:-1,Hell And Back
+#EXTINF:0,Hell And Back
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1694.mp4
-#EXTINF:-1,High Strung Ao Ritmo Do Sonho
+#EXTINF:0,High Strung Ao Ritmo Do Sonho
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1695.mp4
-#EXTINF:-1,I Am Bolt
+#EXTINF:0,I Am Bolt
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1728.mp4
-#EXTINF:-1,In A Valley Of Violence (2016)
+#EXTINF:0,In A Valley Of Violence (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1729.mp4
-#EXTINF:-1,Inferno (2016)
+#EXTINF:0,Inferno (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1730.mp4
-#EXTINF:-1,Interrogation
+#EXTINF:0,Interrogation
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1696.mp4
-#EXTINF:-1,Jason Bourne (2016)
+#EXTINF:0,Jason Bourne (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1731.mp4
-#EXTINF:-1,Masterminds (2016)
+#EXTINF:0,Masterminds (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1732.mp4
-#EXTINF:-1,Max Steel (2016)
+#EXTINF:0,Max Steel (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1733.mp4
-#EXTINF:-1,Mercy (2016)
+#EXTINF:0,Mercy (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1697.mp4
-#EXTINF:-1,Mother May I Sleep With Danger
+#EXTINF:0,Mother May I Sleep With Danger
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1698.mp4
-#EXTINF:-1,Night Of Something Strange (2016)
+#EXTINF:0,Night Of Something Strange (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1736.mp4
-#EXTINF:-1,Os Sete Magnificos (2016)
+#EXTINF:0,Os Sete Magnificos (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1737.mp4
-#EXTINF:-1,Polar Express
+#EXTINF:0,Polar Express
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1699.mp4
-#EXTINF:-1,Rupture (2016)
+#EXTINF:0,Rupture (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1739.mp4
-#EXTINF:-1,Sala Oculta (2016)
+#EXTINF:0,Sala Oculta (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1740.mp4
-#EXTINF:-1,Southside With You (2016)
+#EXTINF:0,Southside With You (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1741.mp4
-#EXTINF:-1,Spin Out (2016)
+#EXTINF:0,Spin Out (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1742.mp4
-#EXTINF:-1,The Accountant (2016)
+#EXTINF:0,The Accountant (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1743.mp4
-#EXTINF:-1,The Autopsy Of Jane Doe (2016)
+#EXTINF:0,The Autopsy Of Jane Doe (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1744.mp4
-#EXTINF:-1,The Birth Of A Natiom (2016)
+#EXTINF:0,The Birth Of A Natiom (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1745.mp4
-#EXTINF:-1,The Hollow Point (2016)
+#EXTINF:0,The Hollow Point (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1746.mp4
-#EXTINF:-1,To Ryca
+#EXTINF:0,To Ryca
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1747.mp4
-#EXTINF:-1,Train Busan (2016)
+#EXTINF:0,Train Busan (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1748.mp4
-#EXTINF:-1,Veer Zaara
+#EXTINF:0,Veer Zaara
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1749.mp4
-#EXTINF:-1,Vivah
+#EXTINF:0,Vivah
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1750.mp4
-#EXTINF:-1,When The Bough Breaks (2016)
+#EXTINF:0,When The Bough Breaks (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1751.mp4
-#EXTINF:-1,Zanjeer
+#EXTINF:0,Zanjeer
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1534.mp4
-#EXTINF:-1,Virar A Pagina
+#EXTINF:0,Virar A Pagina
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1535.mp4
-#EXTINF:-1,Uss Indianapolis
+#EXTINF:0,Uss Indianapolis
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1536.mp4
-#EXTINF:-1,True Memoirs Of An International Assassin
+#EXTINF:0,True Memoirs Of An International Assassin
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1537.mp4
-#EXTINF:-1,Toda A Verdade
+#EXTINF:0,Toda A Verdade
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1538.mp4
-#EXTINF:-1,Tini Depois De Violetta
+#EXTINF:0,Tini Depois De Violetta
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1539.mp4
-#EXTINF:-1,The White Helmets
+#EXTINF:0,The White Helmets
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1540.mp4
-#EXTINF:-1,The Monster
+#EXTINF:0,The Monster
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1541.mp4
-#EXTINF:-1,The Meddler
+#EXTINF:0,The Meddler
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1542.mp4
-#EXTINF:-1,The Late Bloomer
+#EXTINF:0,The Late Bloomer
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1543.mp4
-#EXTINF:-1,The Darkness
+#EXTINF:0,The Darkness
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1544.mp4
-#EXTINF:-1,The Call Up
+#EXTINF:0,The Call Up
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1545.mp4
-#EXTINF:-1,Tell Me How I Die
+#EXTINF:0,Tell Me How I Die
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1546.mp4
-#EXTINF:-1,Snowden
+#EXTINF:0,Snowden
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1547.mp4
-#EXTINF:-1,Sister Cities
+#EXTINF:0,Sister Cities
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1548.mp4
-#EXTINF:-1,Sininho Fadas E Piratas
+#EXTINF:0,Sininho Fadas E Piratas
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1549.mp4
-#EXTINF:-1,Shovel Buddies
+#EXTINF:0,Shovel Buddies
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1550.mp4
-#EXTINF:-1,Satanic
+#EXTINF:0,Satanic
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1551.mp4
-#EXTINF:-1,Salsicha Party
+#EXTINF:0,Salsicha Party
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1552.mp4
-#EXTINF:-1,Raja Rani
+#EXTINF:0,Raja Rani
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1553.mp4
-#EXTINF:-1,Plane To Fthe Sharks
+#EXTINF:0,Plane To Fthe Sharks
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1554.mp4
-#EXTINF:-1,Pirate Today
+#EXTINF:0,Pirate Today
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1555.mp4
-#EXTINF:-1,Piku
+#EXTINF:0,Piku
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1556.mp4
-#EXTINF:-1,Phantasm Ravager
+#EXTINF:0,Phantasm Ravager
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1557.mp4
-#EXTINF:-1,Pedido De Amizade
+#EXTINF:0,Pedido De Amizade
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1558.mp4
-#EXTINF:-1,Os Traficantes
+#EXTINF:0,Os Traficantes
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1559.mp4
-#EXTINF:-1,Os Mercenarios 3
+#EXTINF:0,Os Mercenarios 3
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1560.mp4
-#EXTINF:-1,O Ultimo Desafio
+#EXTINF:0,O Ultimo Desafio
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1561.mp4
-#EXTINF:-1,O Segredo Da Pequena Sereia
+#EXTINF:0,O Segredo Da Pequena Sereia
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1562.mp4
-#EXTINF:-1,O Rei Leao
+#EXTINF:0,O Rei Leao
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1563.mp4
-#EXTINF:-1,O Bebe De Bridget Jones
+#EXTINF:0,O Bebe De Bridget Jones
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1564.mp4
-#EXTINF:-1,O Amigo Gigante
+#EXTINF:0,O Amigo Gigante
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1565.mp4
-#EXTINF:-1,Ninja Assassin
+#EXTINF:0,Ninja Assassin
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1566.mp4
-#EXTINF:-1,Nem Respires
+#EXTINF:0,Nem Respires
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1567.mp4
-#EXTINF:-1,Mythica The Iron Crown
+#EXTINF:0,Mythica The Iron Crown
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1568.mp4
-#EXTINF:-1,Mune O Guardiao Da Lua
+#EXTINF:0,Mune O Guardiao Da Lua
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1569.mp4
-#EXTINF:-1,Mr Peabody E Sherman
+#EXTINF:0,Mr Peabody E Sherman
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1570.mp4
-#EXTINF:-1,Most Likely To Die
+#EXTINF:0,Most Likely To Die
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1571.mp4
-#EXTINF:-1,Modelis
+#EXTINF:0,Modelis
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1572.mp4
-#EXTINF:-1,Milenge Milenge
+#EXTINF:0,Milenge Milenge
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1573.mp4
-#EXTINF:-1,Milagre No Rio Hudson
+#EXTINF:0,Milagre No Rio Hudson
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1574.mp4
-#EXTINF:-1,Megamind
+#EXTINF:0,Megamind
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1575.mp4
-#EXTINF:-1,Meet The Blacks
+#EXTINF:0,Meet The Blacks
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1576.mp4
-#EXTINF:-1,Mary Kom
+#EXTINF:0,Mary Kom
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1577.mp4
-#EXTINF:-1,Looney Tunes: Rabbits Run
+#EXTINF:0,Looney Tunes: Rabbits Run
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1578.mp4
-#EXTINF:-1,Lolo
+#EXTINF:0,Lolo
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1579.mp4
-#EXTINF:-1,Kubo E As Duas Cordas
+#EXTINF:0,Kubo E As Duas Cordas
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1580.mp4
-#EXTINF:-1,King Cobra
+#EXTINF:0,King Cobra
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1581.mp4
-#EXTINF:-1,Kalyug
+#EXTINF:0,Kalyug
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1582.mp4
-#EXTINF:-1,Junooniyat
+#EXTINF:0,Junooniyat
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1583.mp4
-#EXTINF:-1,Indignation
+#EXTINF:0,Indignation
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1584.mp4
-#EXTINF:-1,I T 
+#EXTINF:0,I T 
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1585.mp4
-#EXTINF:-1,Honey 3 Der Beat Des Lebens
+#EXTINF:0,Honey 3 Der Beat Des Lebens
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1586.mp4
-#EXTINF:-1,Hellor High Water
+#EXTINF:0,Hellor High Water
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1587.mp4
-#EXTINF:-1,Heidi
+#EXTINF:0,Heidi
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1588.mp4
-#EXTINF:-1,Hamari Adhuri Kahani
+#EXTINF:0,Hamari Adhuri Kahani
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1589.mp4
-#EXTINF:-1,Guzaarish
+#EXTINF:0,Guzaarish
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1590.mp4
-#EXTINF:-1,Goat
+#EXTINF:0,Goat
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1591.mp4
-#EXTINF:-1,Ghulam
+#EXTINF:0,Ghulam
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1592.mp4
-#EXTINF:-1,Food
+#EXTINF:0,Food
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1593.mp4
-#EXTINF:-1,Edge Of Winter
+#EXTINF:0,Edge Of Winter
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1594.mp4
-#EXTINF:-1,Dum Laga Ke Haisha
+#EXTINF:0,Dum Laga Ke Haisha
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1595.mp4
-#EXTINF:-1,Dil Ka Rishta
+#EXTINF:0,Dil Ka Rishta
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1596.mp4
-#EXTINF:-1,Deewaar
+#EXTINF:0,Deewaar
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1597.mp4
-#EXTINF:-1,Daeho
+#EXTINF:0,Daeho
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1598.mp4
-#EXTINF:-1,Cowboy Zombies
+#EXTINF:0,Cowboy Zombies
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1599.mp4
-#EXTINF:-1,Complete Unknown
+#EXTINF:0,Complete Unknown
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1600.mp4
-#EXTINF:-1,Cinderela
+#EXTINF:0,Cinderela
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1601.mp4
-#EXTINF:-1,Chosen (2016)
+#EXTINF:0,Chosen (2016)
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1602.mp4
-#EXTINF:-1,Certain Women
+#EXTINF:0,Certain Women
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1603.mp4
-#EXTINF:-1,Center Stage On Pointe
+#EXTINF:0,Center Stage On Pointe
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1604.mp4
-#EXTINF:-1,Capsule
+#EXTINF:0,Capsule
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1605.mp4
-#EXTINF:-1,Caged No More
+#EXTINF:0,Caged No More
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1606.mp4
-#EXTINF:-1,Beyond The Call To Duty
+#EXTINF:0,Beyond The Call To Duty
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1607.mp4
-#EXTINF:-1,Bewakoofiyaan
+#EXTINF:0,Bewakoofiyaan
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1608.mp4
-#EXTINF:-1,Aqui Ha Gato 2016
+#EXTINF:0,Aqui Ha Gato 2016
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1609.mp4
-#EXTINF:-1,Anthropoid
+#EXTINF:0,Anthropoid
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1610.mp4
-#EXTINF:-1,Airlift
+#EXTINF:0,Airlift
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1611.mp4
-#EXTINF:-1,A Procura De Dory
+#EXTINF:0,A Procura De Dory
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1612.mp4
-#EXTINF:-1,A Lenda Do Dragao
+#EXTINF:0,A Lenda Do Dragao
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1613.mp4
-#EXTINF:-1,A Girl Like Her
+#EXTINF:0,A Girl Like Her
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1614.mp4
-#EXTINF:-1,A Cinderella Story If The Shoe Fits
+#EXTINF:0,A Cinderella Story If The Shoe Fits
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1615.mp4
-#EXTINF:-1,A Casa Da Senhora Peregrine Para Criancas Peculiares
+#EXTINF:0,A Casa Da Senhora Peregrine Para Criancas Peculiares
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1616.mp4
-#EXTINF:-1,A Cancao De Lisboa
+#EXTINF:0,A Cancao De Lisboa
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1617.mp4
-#EXTINF:-1,While Were Young
+#EXTINF:0,While Were Young
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1457.mp4
-#EXTINF:-1,Warcaft
+#EXTINF:0,Warcaft
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1458.mp4
-#EXTINF:-1,Tumbledown
+#EXTINF:0,Tumbledown
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1459.mp4
-#EXTINF:-1,This Is The End
+#EXTINF:0,This Is The End
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1460.mp4
-#EXTINF:-1,The Transporter Refueled
+#EXTINF:0,The Transporter Refueled
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1461.mp4
-#EXTINF:-1,The Siege Of Jadotville
+#EXTINF:0,The Siege Of Jadotville
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1462.mp4
-#EXTINF:-1,The Shallows
+#EXTINF:0,The Shallows
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1463.mp4
-#EXTINF:-1,The Secret Life Of Pets
+#EXTINF:0,The Secret Life Of Pets
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1464.mp4
-#EXTINF:-1,The Purge Election Year
+#EXTINF:0,The Purge Election Year
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1465.mp4
-#EXTINF:-1,The Man Who Knew Infinity
+#EXTINF:0,The Man Who Knew Infinity
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1466.mp4
-#EXTINF:-1,The Little Death
+#EXTINF:0,The Little Death
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1467.mp4
-#EXTINF:-1,The Jungle Book
+#EXTINF:0,The Jungle Book
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1468.mp4
-#EXTINF:-1,The Infiltrator
+#EXTINF:0,The Infiltrator
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1469.mp4
-#EXTINF:-1,The Fundamentals Of Caring
+#EXTINF:0,The Fundamentals Of Caring
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1470.mp4
-#EXTINF:-1,The Final Girls
+#EXTINF:0,The Final Girls
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1471.mp4
-#EXTINF:-1,The Escort
+#EXTINF:0,The Escort
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1472.mp4
-#EXTINF:-1,The Conjuring 2
+#EXTINF:0,The Conjuring 2
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1473.mp4
-#EXTINF:-1,The Brothers Grimsby
+#EXTINF:0,The Brothers Grimsby
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1474.mp4
-#EXTINF:-1,Ted 2
+#EXTINF:0,Ted 2
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1475.mp4
-#EXTINF:-1,Swiss Army Man
+#EXTINF:0,Swiss Army Man
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1476.mp4
-#EXTINF:-1,Sultan
+#EXTINF:0,Sultan
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1477.mp4
-#EXTINF:-1,Suicide Squad
+#EXTINF:0,Suicide Squad
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1478.mp4
-#EXTINF:-1,Spy
+#EXTINF:0,Spy
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1479.mp4
-#EXTINF:-1,Ruas Rivais
+#EXTINF:0,Ruas Rivais
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1480.mp4
-#EXTINF:-1,Robinson Crusoe
+#EXTINF:0,Robinson Crusoe
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1481.mp4
-#EXTINF:-1,Ratchet E Clank Herois Da Galaxia- Herois Da Galaxia
+#EXTINF:0,Ratchet E Clank Herois Da Galaxia- Herois Da Galaxia
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1482.mp4
-#EXTINF:-1,R L  Stines Monsterville
+#EXTINF:0,R L  Stines Monsterville
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1483.mp4
-#EXTINF:-1,Popstar Neves Stop
+#EXTINF:0,Popstar Neves Stop
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1484.mp4
-#EXTINF:-1,Pee-wees Big Holiday
+#EXTINF:0,Pee-wees Big Holiday
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1485.mp4
-#EXTINF:-1,Patio Das Cantigas
+#EXTINF:0,Patio Das Cantigas
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1486.mp4
-#EXTINF:-1,Papa Ou Mama
+#EXTINF:0,Papa Ou Mama
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1487.mp4
-#EXTINF:-1,Ovelha Chone
+#EXTINF:0,Ovelha Chone
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1488.mp4
-#EXTINF:-1,Our Kind Of Traitor
+#EXTINF:0,Our Kind Of Traitor
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1489.mp4
-#EXTINF:-1,O Nosso Milagre
+#EXTINF:0,O Nosso Milagre
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1490.mp4
-#EXTINF:-1,Now You See Me 2
+#EXTINF:0,Now You See Me 2
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1491.mp4
-#EXTINF:-1,Nerve
+#EXTINF:0,Nerve
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1492.mp4
-#EXTINF:-1,Mothers Day
+#EXTINF:0,Mothers Day
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1493.mp4
-#EXTINF:-1,Mike And Dave Need Wedding Dates
+#EXTINF:0,Mike And Dave Need Wedding Dates
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1494.mp4
-#EXTINF:-1,Me Before You
+#EXTINF:0,Me Before You
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1495.mp4
-#EXTINF:-1,Mascots
+#EXTINF:0,Mascots
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1496.mp4
-#EXTINF:-1,Marley And Me
+#EXTINF:0,Marley And Me
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1497.mp4
-#EXTINF:-1,Love Friendship
+#EXTINF:0,Love Friendship
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1498.mp4
-#EXTINF:-1,Litghts Out
+#EXTINF:0,Litghts Out
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1499.mp4
-#EXTINF:-1,Jue Di Tao Wang
+#EXTINF:0,Jue Di Tao Wang
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1500.mp4
-#EXTINF:-1,Internet Famous
+#EXTINF:0,Internet Famous
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1501.mp4
-#EXTINF:-1,Independence Day Resurgence
+#EXTINF:0,Independence Day Resurgence
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1502.mp4
-#EXTINF:-1,Imperium 2016
+#EXTINF:0,Imperium 2016
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1503.mp4
-#EXTINF:-1,Hunt For The Wilderpeople
+#EXTINF:0,Hunt For The Wilderpeople
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1504.mp4
-#EXTINF:-1,Ghostbusters
+#EXTINF:0,Ghostbusters
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1505.mp4
-#EXTINF:-1,Friend Request
+#EXTINF:0,Friend Request
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1506.mp4
-#EXTINF:-1,Free State Of Jones
+#EXTINF:0,Free State Of Jones
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1507.mp4
-#EXTINF:-1,Florence Foster Jenkins
+#EXTINF:0,Florence Foster Jenkins
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1508.mp4
-#EXTINF:-1,Everybody Wants Some
+#EXTINF:0,Everybody Wants Some
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1509.mp4
-#EXTINF:-1,Elle
+#EXTINF:0,Elle
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1510.mp4
-#EXTINF:-1,Eddie The Eagle
+#EXTINF:0,Eddie The Eagle
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1511.mp4
-#EXTINF:-1,Dirty 30
+#EXTINF:0,Dirty 30
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1512.mp4
-#EXTINF:-1,De Palma
+#EXTINF:0,De Palma
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1513.mp4
-#EXTINF:-1,Central Intelligence
+#EXTINF:0,Central Intelligence
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1514.mp4
-#EXTINF:-1,Captain Fantastic
+#EXTINF:0,Captain Fantastic
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1515.mp4
-#EXTINF:-1,Broken Vows
+#EXTINF:0,Broken Vows
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1516.mp4
-#EXTINF:-1,Blue Mountain State- The Rise Of Thadland
+#EXTINF:0,Blue Mountain State- The Rise Of Thadland
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1517.mp4
-#EXTINF:-1,Bastille Day
+#EXTINF:0,Bastille Day
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1518.mp4
-#EXTINF:-1,Bad Moms
+#EXTINF:0,Bad Moms
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1519.mp4
-#EXTINF:-1,Arq
+#EXTINF:0,Arq
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1520.mp4
-#EXTINF:-1,Anomalisa
+#EXTINF:0,Anomalisa
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1521.mp4
-#EXTINF:-1,Angry Birds- O Filme
+#EXTINF:0,Angry Birds- O Filme
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1522.mp4
-#EXTINF:-1,American Ultra
+#EXTINF:0,American Ultra
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1523.mp4
-#EXTINF:-1,American Reunion
+#EXTINF:0,American Reunion
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1524.mp4
-#EXTINF:-1,All The Way
+#EXTINF:0,All The Way
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1525.mp4
-#EXTINF:-1,Alice Through The Looking Glass
+#EXTINF:0,Alice Through The Looking Glass
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1526.mp4
-#EXTINF:-1,A Million Ways To Die In The West
+#EXTINF:0,A Million Ways To Die In The West
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1527.mp4
-#EXTINF:-1,A Briliant Yong Mind
+#EXTINF:0,A Briliant Yong Mind
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1528.mp4
-#EXTINF:-1,X Men Apocalipse
+#EXTINF:0,X Men Apocalipse
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1306.mp4
-#EXTINF:-1,Warcraft
+#EXTINF:0,Warcraft
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1307.mp4
-#EXTINF:-1,Viver Depois De Ti
+#EXTINF:0,Viver Depois De Ti
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1308.mp4
-#EXTINF:-1,Uma Aventura No Jurassico
+#EXTINF:0,Uma Aventura No Jurassico
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1309.mp4
-#EXTINF:-1,Um Traidor Dos Nossos
+#EXTINF:0,Um Traidor Dos Nossos
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1310.mp4
-#EXTINF:-1,Um Dia De Mae
+#EXTINF:0,Um Dia De Mae
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1311.mp4
-#EXTINF:-1,Todos Querem O Mesmo
+#EXTINF:0,Todos Querem O Mesmo
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1312.mp4
-#EXTINF:-1,The Midnight Man 2016
+#EXTINF:0,The Midnight Man 2016
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1313.mp4
-#EXTINF:-1,The Conjuring 2  A Evocacao
+#EXTINF:0,The Conjuring 2  A Evocacao
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1314.mp4
-#EXTINF:-1,Temps
+#EXTINF:0,Temps
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1315.mp4
-#EXTINF:-1,Tartarugas Ninja Herois Mutantes O Romper Das Sombras
+#EXTINF:0,Tartarugas Ninja Herois Mutantes O Romper Das Sombras
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1316.mp4
-#EXTINF:-1,Size Zero
+#EXTINF:0,Size Zero
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1317.mp4
-#EXTINF:-1,Range 15
+#EXTINF:0,Range 15
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1318.mp4
-#EXTINF:-1,Race 10 Segundos De Liberdade
+#EXTINF:0,Race 10 Segundos De Liberdade
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1319.mp4
-#EXTINF:-1,Pele O Nascimento De Uma Lenda
+#EXTINF:0,Pele O Nascimento De Uma Lenda
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1320.mp4
-#EXTINF:-1,O Livro Da Selva
+#EXTINF:0,O Livro Da Selva
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1321.mp4
-#EXTINF:-1,Money Monster
+#EXTINF:0,Money Monster
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1322.mp4
-#EXTINF:-1,Mestres Da Ilusao 2
+#EXTINF:0,Mestres Da Ilusao 2
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1323.mp4
-#EXTINF:-1,Main Aur Mr Riight
+#EXTINF:0,Main Aur Mr Riight
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1324.mp4
-#EXTINF:-1,Ma Vizinhanca 2
+#EXTINF:0,Ma Vizinhanca 2
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1325.mp4
-#EXTINF:-1,Kickboxer
+#EXTINF:0,Kickboxer
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1326.mp4
-#EXTINF:-1,Keanu
+#EXTINF:0,Keanu
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1327.mp4
-#EXTINF:-1,Jason Bourne
+#EXTINF:0,Jason Bourne
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1328.mp4
-#EXTINF:-1,In The Deep
+#EXTINF:0,In The Deep
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1329.mp4
-#EXTINF:-1,I Am Not A Serial Killer
+#EXTINF:0,I Am Not A Serial Killer
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1330.mp4
-#EXTINF:-1,Hard Target 2
+#EXTINF:0,Hard Target 2
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1331.mp4
-#EXTINF:-1,Fan
+#EXTINF:0,Fan
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1332.mp4
-#EXTINF:-1,Countdown
+#EXTINF:0,Countdown
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1333.mp4
-#EXTINF:-1,Bons Rapazes
+#EXTINF:0,Bons Rapazes
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1334.mp4
-#EXTINF:-1,Blood Father
+#EXTINF:0,Blood Father
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1335.mp4
-#EXTINF:-1,Bastille Day  Missao Antiterrorista
+#EXTINF:0,Bastille Day  Missao Antiterrorista
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1336.mp4
-#EXTINF:-1,Aguas Perigosas
+#EXTINF:0,Aguas Perigosas
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1337.mp4
-#EXTINF:-1,A Vida Secreta Dos Nossos Bichos
+#EXTINF:0,A Vida Secreta Dos Nossos Bichos
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1338.mp4
-#EXTINF:-1,A Lenda De Tarzan
+#EXTINF:0,A Lenda De Tarzan
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1339.mp4
-#EXTINF:-1,A Idade Do Gelo O Big Bang
+#EXTINF:0,A Idade Do Gelo O Big Bang
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1340.mp4
-#EXTINF:-1,A Hologram For The King
+#EXTINF:0,A Hologram For The King
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1341.mp4
-#EXTINF:-1,Zootropolis
+#EXTINF:0,Zootropolis
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/154.mp4
-#EXTINF:-1,Whiskey Tango Foxtrot
+#EXTINF:0,Whiskey Tango Foxtrot
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/173.mp4
-#EXTINF:-1,Viram Se Novamente Gregos Para Casar
+#EXTINF:0,Viram Se Novamente Gregos Para Casar
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/172.mp4
-#EXTINF:-1,The Young Messiah
+#EXTINF:0,The Young Messiah
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/152.mkv
-#EXTINF:-1,The Offering
+#EXTINF:0,The Offering
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/151.mp4
-#EXTINF:-1,The Duel
+#EXTINF:0,The Duel
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/170.mp4
-#EXTINF:-1,The Do-over
+#EXTINF:0,The Do-over
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/150.mp4
-#EXTINF:-1,The Confirmation
+#EXTINF:0,The Confirmation
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/171.mp4
-#EXTINF:-1,The Brothers Grimsby
+#EXTINF:0,The Brothers Grimsby
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/149.mp4
-#EXTINF:-1,Sponge Bob Esponja Fora De Agua
+#EXTINF:0,Sponge Bob Esponja Fora De Agua
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/147.mp4
-#EXTINF:-1,O Nosso Milagre
+#EXTINF:0,O Nosso Milagre
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/169.mp4
-#EXTINF:-1,O Escaravelho Do Diabo
+#EXTINF:0,O Escaravelho Do Diabo
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/168.mp4
-#EXTINF:-1,Never Back Down No Surrender
+#EXTINF:0,Never Back Down No Surrender
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/167.mp4
-#EXTINF:-1,Minimos
+#EXTINF:0,Minimos
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/146.mp4
-#EXTINF:-1,Marauders
+#EXTINF:0,Marauders
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/166.mp4
-#EXTINF:-1,Manhattan Night
+#EXTINF:0,Manhattan Night
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/145.mp4
-#EXTINF:-1,Kiddo O Super Camiao
+#EXTINF:0,Kiddo O Super Camiao
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/144.mp4
-#EXTINF:-1,Home
+#EXTINF:0,Home
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/143.mp4
-#EXTINF:-1,Hardcore Henry
+#EXTINF:0,Hardcore Henry
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/142.mp4
-#EXTINF:-1,Girl In Woods
+#EXTINF:0,Girl In Woods
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/164.mp4
-#EXTINF:-1,Frozen Reino Gelo
+#EXTINF:0,Frozen Reino Gelo
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/153.mp4
-#EXTINF:-1,Emmas Chance
+#EXTINF:0,Emmas Chance
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/163.mp4
-#EXTINF:-1,Electra Woman And Dyna Girl
+#EXTINF:0,Electra Woman And Dyna Girl
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/141.mp4
-#EXTINF:-1,Eddie The Eagle
+#EXTINF:0,Eddie The Eagle
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/140.mp4
-#EXTINF:-1,Demolicao
+#EXTINF:0,Demolicao
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/162.mp4
-#EXTINF:-1,Deadly Intent
+#EXTINF:0,Deadly Intent
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/161.mp4
-#EXTINF:-1,Dead Rising Endgame
+#EXTINF:0,Dead Rising Endgame
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/160.mp4
-#EXTINF:-1,Dads Army
+#EXTINF:0,Dads Army
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/139.mp4
-#EXTINF:-1,Da Serie Divergente Convergente
+#EXTINF:0,Da Serie Divergente Convergente
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/159.mp4
-#EXTINF:-1,Criminoso
+#EXTINF:0,Criminoso
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/138.mp4
-#EXTINF:-1,Code Of Honor
+#EXTINF:0,Code Of Honor
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/137.mp4
-#EXTINF:-1,Cell Chamada Para A Morte
+#EXTINF:0,Cell Chamada Para A Morte
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/158.mp4
-#EXTINF:-1,Brahman Naman
+#EXTINF:0,Brahman Naman
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/175.mp4
-#EXTINF:-1,Before I Wake
+#EXTINF:0,Before I Wake
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/157.mp4
-#EXTINF:-1,Batman V Super Homem O Despertar Da Justica
+#EXTINF:0,Batman V Super Homem O Despertar Da Justica
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/156.mp4
-#EXTINF:-1,Barbershop The Next
+#EXTINF:0,Barbershop The Next
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/174.mp4
-#EXTINF:-1,Avioes Equipa De Resgate
+#EXTINF:0,Avioes Equipa De Resgate
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/136.mp4
-#EXTINF:-1,Alice Do Outro Lado Do Espelho
+#EXTINF:0,Alice Do Outro Lado Do Espelho
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/155.mp4
-#EXTINF:-1,Abelha Maia
+#EXTINF:0,Abelha Maia
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/135.mp4
-#EXTINF:-1,7 Anao O Pequeno Heroi
+#EXTINF:0,7 Anao O Pequeno Heroi
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/133.mp4
-#EXTINF:-1,13 Horas Os Soldados Secretos De Benghazi
+#EXTINF:0,13 Horas Os Soldados Secretos De Benghazi
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/134.mp4
-#EXTINF:-1,Zootopia
+#EXTINF:0,Zootopia
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/127.mp4
-#EXTINF:-1,Zoolander 2
+#EXTINF:0,Zoolander 2
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/126.mp4
-#EXTINF:-1,Uma Escolha Por Amor
+#EXTINF:0,Uma Escolha Por Amor
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/119.mp4
-#EXTINF:-1,Um Avo Muito A Frente
+#EXTINF:0,Um Avo Muito A Frente
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/83.mp4
-#EXTINF:-1,Triple 9
+#EXTINF:0,Triple 9
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/125.mp4
-#EXTINF:-1,The Witch
+#EXTINF:0,The Witch
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/76.mp4
-#EXTINF:-1,The Veil
+#EXTINF:0,The Veil
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/124.mp4
-#EXTINF:-1,The Trust
+#EXTINF:0,The Trust
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/130.mkv
-#EXTINF:-1,The Dead Room
+#EXTINF:0,The Dead Room
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/120.mp4
-#EXTINF:-1,The Boy - Segue As Regras
+#EXTINF:0,The Boy - Segue As Regras
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/118.mp4
-#EXTINF:-1,Tevar
+#EXTINF:0,Tevar
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/117.mp4
-#EXTINF:-1,Tempo Limite
+#EXTINF:0,Tempo Limite
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/132.mp4
-#EXTINF:-1,Stealing Cars
+#EXTINF:0,Stealing Cars
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/116.mp4
-#EXTINF:-1,Special Correpondents
+#EXTINF:0,Special Correpondents
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/115.mp4
-#EXTINF:-1,Sniper: Special Ops
+#EXTINF:0,Sniper: Special Ops
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/114.mp4
-#EXTINF:-1,Salve, Cesar
+#EXTINF:0,Salve, Cesar
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/91.mp4
-#EXTINF:-1,Sacrifice
+#EXTINF:0,Sacrifice
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/113.mp4
-#EXTINF:-1,Reza Lenda
+#EXTINF:0,Reza Lenda
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/111.mp4
-#EXTINF:-1,Ressureicao
+#EXTINF:0,Ressureicao
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/112.mp4
-#EXTINF:-1,Pee-wee's Big Holiday
+#EXTINF:0,Pee-wee's Big Holiday
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/109.mp4
-#EXTINF:-1,Pandemic
+#EXTINF:0,Pandemic
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/75.mkv
-#EXTINF:-1,Os Deuses Do Egipto
+#EXTINF:0,Os Deuses Do Egipto
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/100.mp4
-#EXTINF:-1,O Cacador E A Rainha Do Gelo
+#EXTINF:0,O Cacador E A Rainha Do Gelo
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/122.mp4
-#EXTINF:-1,Nowhere Boys: The Book Of Shadows
+#EXTINF:0,Nowhere Boys: The Book Of Shadows
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/107.mp4
-#EXTINF:-1,Norm - O Heroi Do Artico
+#EXTINF:0,Norm - O Heroi Do Artico
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/129.mp4
-#EXTINF:-1,Mothers And Daughters
+#EXTINF:0,Mothers And Daughters
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/106.mp4
-#EXTINF:-1,Misconduct
+#EXTINF:0,Misconduct
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/105.mp4
-#EXTINF:-1,Midnight Special
+#EXTINF:0,Midnight Special
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/104.mp4
-#EXTINF:-1,Lego Scooby-doo!: Haunted Hollywood
+#EXTINF:0,Lego Scooby-doo!: Haunted Hollywood
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/102.mkv
-#EXTINF:-1,Leao Da Estrela
+#EXTINF:0,Leao Da Estrela
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/131.mp4
-#EXTINF:-1,Lake Eerie
+#EXTINF:0,Lake Eerie
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/94.mp4
-#EXTINF:-1,Kindergarten Cop 2
+#EXTINF:0,Kindergarten Cop 2
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/101.mp4
-#EXTINF:-1,Killing Jesus
+#EXTINF:0,Killing Jesus
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/88.mp4
-#EXTINF:-1,Jarhead 3: The Siege
+#EXTINF:0,Jarhead 3: The Siege
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/87.mp4
-#EXTINF:-1,I Am Wrath
+#EXTINF:0,I Am Wrath
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/80.mp4
-#EXTINF:-1,Hush
+#EXTINF:0,Hush
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/74.mp4
-#EXTINF:-1,Horas Decisivas
+#EXTINF:0,Horas Decisivas
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/121.mp4
-#EXTINF:-1,Holidays
+#EXTINF:0,Holidays
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/92.mp4
-#EXTINF:-1,Factor De Risco
+#EXTINF:0,Factor De Risco
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/123.mp4
-#EXTINF:-1,Emelie
+#EXTINF:0,Emelie
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/84.mp4
-#EXTINF:-1,Duplo Confronto
+#EXTINF:0,Duplo Confronto
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/110.mp4
-#EXTINF:-1,Diablo
+#EXTINF:0,Diablo
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/90.mp4
-#EXTINF:-1,Devdas
+#EXTINF:0,Devdas
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/99.mp4
-#EXTINF:-1,Decay
+#EXTINF:0,Decay
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/82.mp4
-#EXTINF:-1,Deadpool
+#EXTINF:0,Deadpool
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/79.mp4
-#EXTINF:-1,Como Ser Solteira
+#EXTINF:0,Como Ser Solteira
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/93.mp4
-#EXTINF:-1,Capitao America: Guerra Civil
+#EXTINF:0,Capitao America: Guerra Civil
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/98.mp4
-#EXTINF:-1,Cabin Fever
+#EXTINF:0,Cabin Fever
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/81.mp4
-#EXTINF:-1,Brothers
+#EXTINF:0,Brothers
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/97.mp4
-#EXTINF:-1,Boog E Elliot Aventura Na Floresta
+#EXTINF:0,Boog E Elliot Aventura Na Floresta
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/128.mp4
-#EXTINF:-1,Barbie E As Agentes Secretas
+#EXTINF:0,Barbie E As Agentes Secretas
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/89.mp4
-#EXTINF:-1,Assalto A Londres
+#EXTINF:0,Assalto A Londres
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/103.mp4
-#EXTINF:-1,As Cinquenta Sombras De Black
+#EXTINF:0,As Cinquenta Sombras De Black
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/85.mp4
-#EXTINF:-1,Antonio Raminhos Apresenta As Marias
+#EXTINF:0,Antonio Raminhos Apresenta As Marias
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/96.mkv
-#EXTINF:-1,Amor Em Roma
+#EXTINF:0,Amor Em Roma
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/78.mp4
-#EXTINF:-1,10 Cloverfield Lane
+#EXTINF:0,10 Cloverfield Lane
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/77.mp4
-#EXTINF:-1,Umrao Jaan
+#EXTINF:0,Umrao Jaan
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/61.mp4
-#EXTINF:-1,The Hoarder
+#EXTINF:0,The Hoarder
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/64.mp4
-#EXTINF:-1,The Girl In The Photographs
+#EXTINF:0,The Girl In The Photographs
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/69.mp4
-#EXTINF:-1,Snoopy E Charlie Brown: Peanuts
+#EXTINF:0,Snoopy E Charlie Brown: Peanuts
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/50.mp4
-#EXTINF:-1,Remember
+#EXTINF:0,Remember
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/49.mp4
-#EXTINF:-1,Ramaiya Vastavaiya
+#EXTINF:0,Ramaiya Vastavaiya
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/68.mp4
-#EXTINF:-1,Policias Em Grandes Apuros
+#EXTINF:0,Policias Em Grandes Apuros
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/71.mp4
-#EXTINF:-1,Orgulho E Preconceito E Guerra
+#EXTINF:0,Orgulho E Preconceito E Guerra
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/48.mp4
-#EXTINF:-1,Muito A Frente
+#EXTINF:0,Muito A Frente
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/67.mp4
-#EXTINF:-1,Kung Fu Panda 3
+#EXTINF:0,Kung Fu Panda 3
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/47.mp4
-#EXTINF:-1,Jazbaa
+#EXTINF:0,Jazbaa
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/65.mp4
-#EXTINF:-1,James White
+#EXTINF:0,James White
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/63.mp4
-#EXTINF:-1,Ip Man 3
+#EXTINF:0,Ip Man 3
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/46.mp4
-#EXTINF:-1,Heropanti
+#EXTINF:0,Heropanti
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/56.mp4
-#EXTINF:-1,Get A Job
+#EXTINF:0,Get A Job
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/54.mp4
-#EXTINF:-1,Fourth Man Out
+#EXTINF:0,Fourth Man Out
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/45.mp4
-#EXTINF:-1,Ek Tha Tiger
+#EXTINF:0,Ek Tha Tiger
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/62.mp4
-#EXTINF:-1,Curse Of The Witching Tree
+#EXTINF:0,Curse Of The Witching Tree
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/55.mp4
-#EXTINF:-1,Bem Vindo Ao Afeganistao
+#EXTINF:0,Bem Vindo Ao Afeganistao
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/53.mp4
-#EXTINF:-1,As Armas De Jane
+#EXTINF:0,As Armas De Jane
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/59.mp4
-#EXTINF:-1,A Guarda Do Leao O Regresso Do Rugido
+#EXTINF:0,A Guarda Do Leao O Regresso Do Rugido
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/70.mkv
-#EXTINF:-1,A 5 Vaga
+#EXTINF:0,A 5 Vaga
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/42.mp4
-#EXTINF:-1,Victor Frankenstein
+#EXTINF:0,Victor Frankenstein
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/21.mp4
-#EXTINF:-1,Verdade
+#EXTINF:0,Verdade
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/13.mp4
-#EXTINF:-1,The Overnight
+#EXTINF:0,The Overnight
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/29.mp4
-#EXTINF:-1,The Lobster
+#EXTINF:0,The Lobster
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/26.mp4
-#EXTINF:-1,The Forest
+#EXTINF:0,The Forest
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/25.mp4
-#EXTINF:-1,The Boy 2015
+#EXTINF:0,The Boy 2015
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/20.mp4
-#EXTINF:-1,Terminus
+#EXTINF:0,Terminus
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/3.mp4
-#EXTINF:-1,Standoff
+#EXTINF:0,Standoff
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/24.mp4
-#EXTINF:-1,Southbound
+#EXTINF:0,Southbound
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/23.mp4
-#EXTINF:-1,Sem Compromissos
+#EXTINF:0,Sem Compromissos
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/19.mp4
-#EXTINF:-1,So Podiam Ser Irmas
+#EXTINF:0,So Podiam Ser Irmas
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/38.mp4
-#EXTINF:-1,Samurai Cop 2: Deadly Vengeance
+#EXTINF:0,Samurai Cop 2: Deadly Vengeance
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/39.mp4
-#EXTINF:-1,Rainha Do Deserto
+#EXTINF:0,Rainha Do Deserto
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/22.mp4
-#EXTINF:-1,Point Break Cacadores De Emocoes
+#EXTINF:0,Point Break Cacadores De Emocoes
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/37.mp4
-#EXTINF:-1,Pai Ha So Um!
+#EXTINF:0,Pai Ha So Um!
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/36.mp4
-#EXTINF:-1,Os Coopers Sao O Maximo
+#EXTINF:0,Os Coopers Sao O Maximo
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/17.mp4
-#EXTINF:-1,Os 33
+#EXTINF:0,Os 33
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/4.mp4
-#EXTINF:-1,O Segredo Dos Seus Olhos
+#EXTINF:0,O Segredo Dos Seus Olhos
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/12.mp4
-#EXTINF:-1,Moonwalkers
+#EXTINF:0,Moonwalkers
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/18.mp4
-#EXTINF:-1,Monster High: Boo York, Boo York Pt
+#EXTINF:0,Monster High: Boo York, Boo York Pt
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/9.mp4
-#EXTINF:-1,Junto Ao Mar
+#EXTINF:0,Junto Ao Mar
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/41.mp4
-#EXTINF:-1,Jogos Da Fome
+#EXTINF:0,Jogos Da Fome
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/35.mp4
-#EXTINF:-1,Jeruzalem
+#EXTINF:0,Jeruzalem
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/6.mp4
-#EXTINF:-1,Hotel Transylvania 2 Pt
+#EXTINF:0,Hotel Transylvania 2 Pt
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/28.mp4
-#EXTINF:-1,Forsaken
+#EXTINF:0,Forsaken
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/27.mp4
-#EXTINF:-1,Criminal Activities
+#EXTINF:0,Criminal Activities
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/16.mp4
-#EXTINF:-1,Cartel Land
+#EXTINF:0,Cartel Land
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/5.mp4
-#EXTINF:-1,American Hero
+#EXTINF:0,American Hero
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/14.mp4
-#EXTINF:-1,Alvin E Os Esquilos: A Grande Aventura
+#EXTINF:0,Alvin E Os Esquilos: A Grande Aventura
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/31.mp4
-#EXTINF:-1,Adulterers
+#EXTINF:0,Adulterers
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/7.mp4
-#EXTINF:-1,A Ultima Noitada
+#EXTINF:0,A Ultima Noitada
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/32.mp4
-#EXTINF:-1,A Senhora Da Furgoneta
+#EXTINF:0,A Senhora Da Furgoneta
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/33.mp4
-#EXTINF:-1,A Modista
+#EXTINF:0,A Modista
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/30.mp4
-#EXTINF:-1,90 Minutes In Heaven
+#EXTINF:0,90 Minutes In Heaven
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/40.mp4
-#EXTINF:-1,45 Anos
+#EXTINF:0,45 Anos
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/11.mp4
-#EXTINF:-1,Star Wars: O Despertar Da Forca
+#EXTINF:0,Star Wars: O Despertar Da Forca
 http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/51.mp4
-#EXTINF:-1,Everest
+#EXTINF:0,Everest
 http://vod2.soeu.ws/31.220.20.156/Dezembro/2Everest01.mp4
-#EXTINF:-1,Transporter Potencia Maxima
+#EXTINF:0,Transporter Potencia Maxima
 http://vod2.soeu.ws/31.220.20.156/Dezembro/1Transporter&Potencia&Maxima28.mp4
-#EXTINF:-1,Patio Das Cantigas
+#EXTINF:0,Patio Das Cantigas
 http://vod2.soeu.ws/31.220.20.156/Dezembro/1Patio&Das&Cantigas44.mp4
-#EXTINF:-1,La Se Foi A Arca
+#EXTINF:0,La Se Foi A Arca
 http://vod2.soeu.ws/31.220.20.156/Dezembro/1Upss&L%c3%a1&Se&Foi&a&Arca23.mp4
-#EXTINF:-1,Homem Formiga
+#EXTINF:0,Homem Formiga
 http://vod2.soeu.ws/31.220.20.156/Dezembro/1Homem&Formiga54.mp4
-#EXTINF:-1,Hitman Agent47
+#EXTINF:0,Hitman Agent47
 http://vod2.soeu.ws/31.220.20.156/Dezembro/1Hitman&Agent47&36.mp4
-#EXTINF:-1,Divertida Mente
+#EXTINF:0,Divertida Mente
 http://vod2.soeu.ws/31.220.20.156/Dezembro/1Divertida&mente&PT31.mp4
-#EXTINF:-1,Filmes Da Semana 1
+#EXTINF:0,Filmes Da Semana 1
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1301.mp4
-#EXTINF:-1,Filmes Da Semana 2
+#EXTINF:0,Filmes Da Semana 2
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1302.mp4
-#EXTINF:-1,Filmes Da Semana 3
+#EXTINF:0,Filmes Da Semana 3
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1303.mp4
-#EXTINF:-1,Filmes Da Semana 4
+#EXTINF:0,Filmes Da Semana 4
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1304.mp4
-#EXTINF:-1,Filmes Da Semana 5
+#EXTINF:0,Filmes Da Semana 5
 http://ip4you.dyndns.tv:9696/movie/jsilva/Wl7zLVfOV4/1305.mp4
-#EXTINF:-1,# EXTRAS  #
+#EXTINF:0,# EXTRAS  #
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/388.m3u8
-#EXTINF:-1,---? BRASIL ?---
+#EXTINF:0,---? BRASIL ?---
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2248.m3u8
-#EXTINF:-1,BR: A&E
+#EXTINF:0,BR: A&E
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2249.m3u8
-#EXTINF:-1,BR: Animal Planet
+#EXTINF:0,BR: Animal Planet
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2250.m3u8
-#EXTINF:-1,BR: AXN
+#EXTINF:0,BR: AXN
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2251.m3u8
-#EXTINF:-1,BR: Band
+#EXTINF:0,BR: Band
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2252.m3u8
-#EXTINF:-1,BR: Band News
+#EXTINF:0,BR: Band News
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2253.m3u8
-#EXTINF:-1,BR: Band Sports
+#EXTINF:0,BR: Band Sports
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2254.m3u8
-#EXTINF:-1,BR: BIS
+#EXTINF:0,BR: BIS
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2255.m3u8
-#EXTINF:-1,BR: Canal do Boi
+#EXTINF:0,BR: Canal do Boi
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2256.m3u8
-#EXTINF:-1,BR: Canal Off
+#EXTINF:0,BR: Canal Off
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2257.m3u8
-#EXTINF:-1,BR: Cartoon Network
+#EXTINF:0,BR: Cartoon Network
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2258.m3u8
-#EXTINF:-1,BR: Combate
+#EXTINF:0,BR: Combate
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2259.m3u8
-#EXTINF:-1,BR: Discovery Channel
+#EXTINF:0,BR: Discovery Channel
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2260.m3u8
-#EXTINF:-1,BR: Discovery Home & Health
+#EXTINF:0,BR: Discovery Home & Health
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2261.m3u8
-#EXTINF:-1,BR: Discovery Kids
+#EXTINF:0,BR: Discovery Kids
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2262.m3u8
-#EXTINF:-1,BR: Discovery Science
+#EXTINF:0,BR: Discovery Science
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2263.m3u8
-#EXTINF:-1,BR: Discovery Turbo
+#EXTINF:0,BR: Discovery Turbo
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2264.m3u8
-#EXTINF:-1,BR: Disney Channel
+#EXTINF:0,BR: Disney Channel
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2265.m3u8
-#EXTINF:-1,BR: Disney Junior
+#EXTINF:0,BR: Disney Junior
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2266.m3u8
-#EXTINF:-1,BR: Disney XD
+#EXTINF:0,BR: Disney XD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2267.m3u8
-#EXTINF:-1,BR: E!
+#EXTINF:0,BR: E!
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2268.m3u8
-#EXTINF:-1,BR: EI Maxx
+#EXTINF:0,BR: EI Maxx
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2269.m3u8
-#EXTINF:-1,BR: EI Maxx 2
+#EXTINF:0,BR: EI Maxx 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2270.m3u8
-#EXTINF:-1,BR: ESPN
+#EXTINF:0,BR: ESPN
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2271.m3u8
-#EXTINF:-1,BR: ESPN Brasil
+#EXTINF:0,BR: ESPN Brasil
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2272.m3u8
-#EXTINF:-1,BR: FOX
+#EXTINF:0,BR: FOX
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2273.m3u8
-#EXTINF:-1,BR: FOX Life
+#EXTINF:0,BR: FOX Life
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2274.m3u8
-#EXTINF:-1,BR: FOX Sports
+#EXTINF:0,BR: FOX Sports
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2275.m3u8
-#EXTINF:-1,BR: FOX Sports 2
+#EXTINF:0,BR: FOX Sports 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2276.m3u8
-#EXTINF:-1,BR: FX
+#EXTINF:0,BR: FX
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2277.m3u8
-#EXTINF:-1,BR: Globo
+#EXTINF:0,BR: Globo
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2278.m3u8
-#EXTINF:-1,BR: Globo Premium
+#EXTINF:0,BR: Globo Premium
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2279.m3u8
-#EXTINF:-1,BR: Globo PT
+#EXTINF:0,BR: Globo PT
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2280.m3u8
-#EXTINF:-1,BR: Gloob
+#EXTINF:0,BR: Gloob
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2281.m3u8
-#EXTINF:-1,BR: GNT
+#EXTINF:0,BR: GNT
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2282.m3u8
-#EXTINF:-1,BR: HBO
+#EXTINF:0,BR: HBO
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2283.m3u8
-#EXTINF:-1,BR: HBO 2
+#EXTINF:0,BR: HBO 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2284.m3u8
-#EXTINF:-1,BR: HBO Family
+#EXTINF:0,BR: HBO Family
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2285.m3u8
-#EXTINF:-1,BR: HBO Plus
+#EXTINF:0,BR: HBO Plus
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2286.m3u8
-#EXTINF:-1,BR: HBO Signature
+#EXTINF:0,BR: HBO Signature
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2287.m3u8
-#EXTINF:-1,BR: historia
+#EXTINF:0,BR: historia
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2288.m3u8
-#EXTINF:-1,BR: History 2
+#EXTINF:0,BR: History 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2289.m3u8
-#EXTINF:-1,BR: Investigação Discovery
+#EXTINF:0,BR: Investigação Discovery
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2290.m3u8
-#EXTINF:-1,BR: MAX
+#EXTINF:0,BR: MAX
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2291.m3u8
-#EXTINF:-1,BR: MAX Prime
+#EXTINF:0,BR: MAX Prime
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2292.m3u8
-#EXTINF:-1,BR: MAX Up
+#EXTINF:0,BR: MAX Up
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2293.m3u8
-#EXTINF:-1,BR: MEGAPIX
+#EXTINF:0,BR: MEGAPIX
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2294.m3u8
-#EXTINF:-1,BR: Multishow
+#EXTINF:0,BR: Multishow
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2295.m3u8
-#EXTINF:-1,BR: Nat. Geographic
+#EXTINF:0,BR: Nat. Geographic
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2296.m3u8
-#EXTINF:-1,BR: Nick Jr.
+#EXTINF:0,BR: Nick Jr.
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2297.m3u8
-#EXTINF:-1,BR: Paramount Channel
+#EXTINF:0,BR: Paramount Channel
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2298.m3u8
-#EXTINF:-1,BR: PFC
+#EXTINF:0,BR: PFC
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2299.m3u8
-#EXTINF:-1,BR: Record
+#EXTINF:0,BR: Record
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2300.m3u8
-#EXTINF:-1,BR: Record News
+#EXTINF:0,BR: Record News
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2301.m3u8
-#EXTINF:-1,BR: Rede TV
+#EXTINF:0,BR: Rede TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2302.m3u8
-#EXTINF:-1,BR: SBT
+#EXTINF:0,BR: SBT
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2303.m3u8
-#EXTINF:-1,BR: Space
+#EXTINF:0,BR: Space
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2304.m3u8
-#EXTINF:-1,BR: SporTV 2
+#EXTINF:0,BR: SporTV 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2305.m3u8
-#EXTINF:-1,BR: SporTV 3
+#EXTINF:0,BR: SporTV 3
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2306.m3u8
-#EXTINF:-1,BR: sportv1
+#EXTINF:0,BR: sportv1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2307.m3u8
-#EXTINF:-1,BR: TBS
+#EXTINF:0,BR: TBS
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2308.m3u8
-#EXTINF:-1,BR: Telecine Action
+#EXTINF:0,BR: Telecine Action
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2309.m3u8
-#EXTINF:-1,BR: Telecine Cult
+#EXTINF:0,BR: Telecine Cult
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2310.m3u8
-#EXTINF:-1,BR: Telecine Fun
+#EXTINF:0,BR: Telecine Fun
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2311.m3u8
-#EXTINF:-1,BR: Telecine Pipoca
+#EXTINF:0,BR: Telecine Pipoca
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2312.m3u8
-#EXTINF:-1,BR: Telecine Premium
+#EXTINF:0,BR: Telecine Premium
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2313.m3u8
-#EXTINF:-1,BR: Telecine Touch
+#EXTINF:0,BR: Telecine Touch
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2314.m3u8
-#EXTINF:-1,BR: TLC
+#EXTINF:0,BR: TLC
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2315.m3u8
-#EXTINF:-1,BR: TNT
+#EXTINF:0,BR: TNT
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2316.m3u8
-#EXTINF:-1,BR: TV BrasiL
+#EXTINF:0,BR: TV BrasiL
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2317.m3u8
-#EXTINF:-1,BR: TV Cultura
+#EXTINF:0,BR: TV Cultura
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2318.m3u8
-#EXTINF:-1,BR: Universal Channel
+#EXTINF:0,BR: Universal Channel
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2319.m3u8
-#EXTINF:-1,BR: Viva
+#EXTINF:0,BR: Viva
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2320.m3u8
-#EXTINF:-1,BR: Warner Channel
+#EXTINF:0,BR: Warner Channel
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2321.m3u8
-#EXTINF:-1,BR: Woohoo
+#EXTINF:0,BR: Woohoo
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2322.m3u8
-#EXTINF:-1,---? CANADA ?---
+#EXTINF:0,---? CANADA ?---
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1936.m3u8
-#EXTINF:-1,CA : cottage life
+#EXTINF:0,CA : cottage life
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1966.m3u8
-#EXTINF:-1,CA : FOX HD
+#EXTINF:0,CA : FOX HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1965.m3u8
-#EXTINF:-1,CA : Sportsnet West HD
+#EXTINF:0,CA : Sportsnet West HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1964.m3u8
-#EXTINF:-1,CA: Abc hd
+#EXTINF:0,CA: Abc hd
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1963.m3u8
-#EXTINF:-1,CA: CBC Toronto
+#EXTINF:0,CA: CBC Toronto
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1962.m3u8
-#EXTINF:-1,CA: CHCH HD
+#EXTINF:0,CA: CHCH HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1961.m3u8
-#EXTINF:-1,CA: Comedy Gold
+#EXTINF:0,CA: Comedy Gold
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1960.m3u8
-#EXTINF:-1,CA: Country Music Television
+#EXTINF:0,CA: Country Music Television
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1959.m3u8
-#EXTINF:-1,CA: CTV TORONTO
+#EXTINF:0,CA: CTV TORONTO
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1958.m3u8
-#EXTINF:-1,CA: Deja View
+#EXTINF:0,CA: Deja View
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1957.m3u8
-#EXTINF:-1,CA: E!
+#EXTINF:0,CA: E!
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1956.m3u8
-#EXTINF:-1,CA: Evasion
+#EXTINF:0,CA: Evasion
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1955.m3u8
-#EXTINF:-1,CA: Fox News
+#EXTINF:0,CA: Fox News
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1954.m3u8
-#EXTINF:-1,CA: Fxx hd
+#EXTINF:0,CA: Fxx hd
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1953.m3u8
-#EXTINF:-1,CA: G4
+#EXTINF:0,CA: G4
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1952.m3u8
-#EXTINF:-1,CA: GSN
+#EXTINF:0,CA: GSN
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1951.m3u8
-#EXTINF:-1,CA: HBO Family HD
+#EXTINF:0,CA: HBO Family HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1950.m3u8
-#EXTINF:-1,CA: Movie time
+#EXTINF:0,CA: Movie time
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1949.m3u8
-#EXTINF:-1,CA: Much music
+#EXTINF:0,CA: Much music
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1948.m3u8
-#EXTINF:-1,CA: NFL Network
+#EXTINF:0,CA: NFL Network
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1947.m3u8
-#EXTINF:-1,CA: Nick
+#EXTINF:0,CA: Nick
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1946.m3u8
-#EXTINF:-1,CA: SLICE HD
+#EXTINF:0,CA: SLICE HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1945.m3u8
-#EXTINF:-1,CA: Teletoon
+#EXTINF:0,CA: Teletoon
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1944.m3u8
-#EXTINF:-1,CA: TMN ACTION
+#EXTINF:0,CA: TMN ACTION
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1943.m3u8
-#EXTINF:-1,CA: tree house
+#EXTINF:0,CA: tree house
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1942.m3u8
-#EXTINF:-1,CA: TSN 1 HD
+#EXTINF:0,CA: TSN 1 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1941.m3u8
-#EXTINF:-1,CA: TSN 2 HD
+#EXTINF:0,CA: TSN 2 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1940.m3u8
-#EXTINF:-1,CA: TSN 3 HD
+#EXTINF:0,CA: TSN 3 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1939.m3u8
-#EXTINF:-1,CA: TSN 4 HD
+#EXTINF:0,CA: TSN 4 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1938.m3u8
-#EXTINF:-1,CA: TSN 5 HD
+#EXTINF:0,CA: TSN 5 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1937.m3u8
-#EXTINF:-1,---? DEUTSCH ?---
+#EXTINF:0,---? DEUTSCH ?---
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2247.m3u8
-#EXTINF:-1,DE: ARD
+#EXTINF:0,DE: ARD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2206.m3u8
-#EXTINF:-1,DE: AXN HQ
+#EXTINF:0,DE: AXN HQ
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2207.m3u8
-#EXTINF:-1,DE: Das Erste
+#EXTINF:0,DE: Das Erste
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2222.m3u8
-#EXTINF:-1,DE: Discovery Channel HD
+#EXTINF:0,DE: Discovery Channel HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2208.m3u8
-#EXTINF:-1,DE: Disney Channel DE
+#EXTINF:0,DE: Disney Channel DE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2209.m3u8
-#EXTINF:-1,DE: Disney Cinemagic
+#EXTINF:0,DE: Disney Cinemagic
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2210.m3u8
-#EXTINF:-1,DE: Disney J.
+#EXTINF:0,DE: Disney J.
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2243.m3u8
-#EXTINF:-1,DE: Eurosport HD
+#EXTINF:0,DE: Eurosport HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2211.m3u8
-#EXTINF:-1,DE: FOX HQ
+#EXTINF:0,DE: FOX HQ
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2212.m3u8
-#EXTINF:-1,DE: History HD
+#EXTINF:0,DE: History HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2213.m3u8
-#EXTINF:-1,DE: KIKA
+#EXTINF:0,DE: KIKA
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2214.m3u8
-#EXTINF:-1,DE: N24
+#EXTINF:0,DE: N24
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2215.m3u8
-#EXTINF:-1,DE: Nat. Geo  HD
+#EXTINF:0,DE: Nat. Geo  HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2216.m3u8
-#EXTINF:-1,DE: Nat. Geo Wild
+#EXTINF:0,DE: Nat. Geo Wild
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2217.m3u8
-#EXTINF:-1,DE: NDR
+#EXTINF:0,DE: NDR
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2218.m3u8
-#EXTINF:-1,DE: NickelodeoN
+#EXTINF:0,DE: NickelodeoN
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2219.m3u8
-#EXTINF:-1,DE: ORF 1
+#EXTINF:0,DE: ORF 1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2220.m3u8
-#EXTINF:-1,DE: ORF 2
+#EXTINF:0,DE: ORF 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2221.m3u8
-#EXTINF:-1,DE: PRO 7
+#EXTINF:0,DE: PRO 7
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2223.m3u8
-#EXTINF:-1,DE: RTL 1
+#EXTINF:0,DE: RTL 1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2224.m3u8
-#EXTINF:-1,DE: RTL 2
+#EXTINF:0,DE: RTL 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2225.m3u8
-#EXTINF:-1,DE: RTL living
+#EXTINF:0,DE: RTL living
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2226.m3u8
-#EXTINF:-1,DE: RTLNitro
+#EXTINF:0,DE: RTLNitro
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2227.m3u8
-#EXTINF:-1,DE: SAT 1
+#EXTINF:0,DE: SAT 1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2228.m3u8
-#EXTINF:-1,DE: SKY Action
+#EXTINF:0,DE: SKY Action
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2240.m3u8
-#EXTINF:-1,DE: Sky Atlantic HD
+#EXTINF:0,DE: Sky Atlantic HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2229.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 1
+#EXTINF:0,DE: Sky Bundesliga 1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2230.m3u8
-#EXTINF:-1,DE: Sky Cinema  24
+#EXTINF:0,DE: Sky Cinema  24
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2231.m3u8
-#EXTINF:-1,DE: Sky Cinema 24
+#EXTINF:0,DE: Sky Cinema 24
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2236.m3u8
-#EXTINF:-1,DE: Sky Cinema HD
+#EXTINF:0,DE: Sky Cinema HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2232.m3u8
-#EXTINF:-1,DE: Sky Comedy
+#EXTINF:0,DE: Sky Comedy
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2233.m3u8
-#EXTINF:-1,DE: SKY Crime
+#EXTINF:0,DE: SKY Crime
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2235.m3u8
-#EXTINF:-1,DE: Sky emotion
+#EXTINF:0,DE: Sky emotion
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2234.m3u8
-#EXTINF:-1,DE: SKY SPORTS 1 HD
+#EXTINF:0,DE: SKY SPORTS 1 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2237.m3u8
-#EXTINF:-1,DE: Sky Sports 2 HD
+#EXTINF:0,DE: Sky Sports 2 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2238.m3u8
-#EXTINF:-1,DE: Sky Sports Austria
+#EXTINF:0,DE: Sky Sports Austria
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2239.m3u8
-#EXTINF:-1,DE: Super RTL
+#EXTINF:0,DE: Super RTL
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2241.m3u8
-#EXTINF:-1,DE: Tagesschau 24
+#EXTINF:0,DE: Tagesschau 24
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2242.m3u8
-#EXTINF:-1,DE: VOX
+#EXTINF:0,DE: VOX
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2244.m3u8
-#EXTINF:-1,DE: WDR
+#EXTINF:0,DE: WDR
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2245.m3u8
-#EXTINF:-1,DE: ZDF
+#EXTINF:0,DE: ZDF
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2246.m3u8
-#EXTINF:-1,---? ENGLISH ?---
+#EXTINF:0,---? ENGLISH ?---
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2087.m3u8
-#EXTINF:-1,UK : Food Network
+#EXTINF:0,UK : Food Network
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2038.m3u8
-#EXTINF:-1,UK : SETENTA
+#EXTINF:0,UK : SETENTA
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2039.m3u8
-#EXTINF:-1,UK: AT RACES
+#EXTINF:0,UK: AT RACES
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2040.m3u8
-#EXTINF:-1,UK: BBC 1
+#EXTINF:0,UK: BBC 1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2041.m3u8
-#EXTINF:-1,UK: BBC 2
+#EXTINF:0,UK: BBC 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2042.m3u8
-#EXTINF:-1,UK: BBC 3
+#EXTINF:0,UK: BBC 3
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2043.m3u8
-#EXTINF:-1,UK: BBC 4
+#EXTINF:0,UK: BBC 4
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2044.m3u8
-#EXTINF:-1,UK: BOX NATION
+#EXTINF:0,UK: BOX NATION
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2045.m3u8
-#EXTINF:-1,UK: BT ESPN HD
+#EXTINF:0,UK: BT ESPN HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2046.m3u8
-#EXTINF:-1,UK: BT Sport 1 HD
+#EXTINF:0,UK: BT Sport 1 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2047.m3u8
-#EXTINF:-1,UK: BT Sport 2 HD
+#EXTINF:0,UK: BT Sport 2 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2048.m3u8
-#EXTINF:-1,UK: BT Sport Europe HD
+#EXTINF:0,UK: BT Sport Europe HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2049.m3u8
-#EXTINF:-1,UK: CBS action
+#EXTINF:0,UK: CBS action
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2050.m3u8
-#EXTINF:-1,UK: Discovery Channel history
+#EXTINF:0,UK: Discovery Channel history
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2051.m3u8
-#EXTINF:-1,UK: E4
+#EXTINF:0,UK: E4
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2052.m3u8
-#EXTINF:-1,UK: Gold
+#EXTINF:0,UK: Gold
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2053.m3u8
-#EXTINF:-1,UK: ITV1
+#EXTINF:0,UK: ITV1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2054.m3u8
-#EXTINF:-1,UK: ITV2
+#EXTINF:0,UK: ITV2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2055.m3u8
-#EXTINF:-1,UK: ITV3
+#EXTINF:0,UK: ITV3
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2056.m3u8
-#EXTINF:-1,UK: ITV4
+#EXTINF:0,UK: ITV4
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2057.m3u8
-#EXTINF:-1,UK: Liverpool FC  tv
+#EXTINF:0,UK: Liverpool FC  tv
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2058.m3u8
-#EXTINF:-1,UK: Manchester TV
+#EXTINF:0,UK: Manchester TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2059.m3u8
-#EXTINF:-1,UK: More 4
+#EXTINF:0,UK: More 4
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2060.m3u8
-#EXTINF:-1,UK: Nat. Geo
+#EXTINF:0,UK: Nat. Geo
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2061.m3u8
-#EXTINF:-1,UK: Nicktoons
+#EXTINF:0,UK: Nicktoons
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2062.m3u8
-#EXTINF:-1,UK: Premier Sports HD
+#EXTINF:0,UK: Premier Sports HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2063.m3u8
-#EXTINF:-1,UK: Racing
+#EXTINF:0,UK: Racing
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2064.m3u8
-#EXTINF:-1,UK: Sky living
+#EXTINF:0,UK: Sky living
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2065.m3u8
-#EXTINF:-1,UK: Sky Movies Action & Adventure
+#EXTINF:0,UK: Sky Movies Action & Adventure
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2066.m3u8
-#EXTINF:-1,UK: Sky Movies Atlantic
+#EXTINF:0,UK: Sky Movies Atlantic
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2067.m3u8
-#EXTINF:-1,UK: Sky Movies Comedy
+#EXTINF:0,UK: Sky Movies Comedy
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2068.m3u8
-#EXTINF:-1,UK: Sky Movies Crime & Thriller
+#EXTINF:0,UK: Sky Movies Crime & Thriller
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2069.m3u8
-#EXTINF:-1,UK: Sky Movies Disney
+#EXTINF:0,UK: Sky Movies Disney
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2070.m3u8
-#EXTINF:-1,UK: Sky Movies Drama & Romance
+#EXTINF:0,UK: Sky Movies Drama & Romance
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2071.m3u8
-#EXTINF:-1,UK: Sky Movies Family
+#EXTINF:0,UK: Sky Movies Family
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2072.m3u8
-#EXTINF:-1,UK: Sky Movies Modern Greats
+#EXTINF:0,UK: Sky Movies Modern Greats
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2073.m3u8
-#EXTINF:-1,UK: Sky Movies Premiere
+#EXTINF:0,UK: Sky Movies Premiere
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2074.m3u8
-#EXTINF:-1,UK: Sky Movies Sci-fi & Horror
+#EXTINF:0,UK: Sky Movies Sci-fi & Horror
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2075.m3u8
-#EXTINF:-1,UK: Sky Sports 1 HD
+#EXTINF:0,UK: Sky Sports 1 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2076.m3u8
-#EXTINF:-1,UK: Sky Sports 2 HD
+#EXTINF:0,UK: Sky Sports 2 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2077.m3u8
-#EXTINF:-1,UK: Sky Sports 3 HD
+#EXTINF:0,UK: Sky Sports 3 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2078.m3u8
-#EXTINF:-1,UK: Sky Sports 4 HD
+#EXTINF:0,UK: Sky Sports 4 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2079.m3u8
-#EXTINF:-1,UK: Sky Sports 5 HD
+#EXTINF:0,UK: Sky Sports 5 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2080.m3u8
-#EXTINF:-1,UK: Sky Sports F1
+#EXTINF:0,UK: Sky Sports F1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2081.m3u8
-#EXTINF:-1,UK: Sky Sports News HQ
+#EXTINF:0,UK: Sky Sports News HQ
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2082.m3u8
-#EXTINF:-1,UK: TLC
+#EXTINF:0,UK: TLC
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2083.m3u8
-#EXTINF:-1,UK: TMC
+#EXTINF:0,UK: TMC
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2084.m3u8
-#EXTINF:-1,UK: Travel channel
+#EXTINF:0,UK: Travel channel
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2085.m3u8
-#EXTINF:-1,UK: True Movies
+#EXTINF:0,UK: True Movies
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2086.m3u8
-#EXTINF:-1,---? FRANÇAISE ?---
+#EXTINF:0,---? FRANÇAISE ?---
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2088.m3u8
-#EXTINF:-1,FR:  FOOT  24/24
+#EXTINF:0,FR:  FOOT  24/24
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2114.m3u8
-#EXTINF:-1,FR:  TELETOON
+#EXTINF:0,FR:  TELETOON
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2115.m3u8
-#EXTINF:-1,FR: 13 Eme Rue HD
+#EXTINF:0,FR: 13 Eme Rue HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2105.m3u8
-#EXTINF:-1,FR: Animaux HD
+#EXTINF:0,FR: Animaux HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2116.m3u8
-#EXTINF:-1,FR: Bein Sports 1 HD
+#EXTINF:0,FR: Bein Sports 1 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2117.m3u8
-#EXTINF:-1,FR: Bein Sports 2
+#EXTINF:0,FR: Bein Sports 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2118.m3u8
-#EXTINF:-1,FR: Bein Sports 3 HD
+#EXTINF:0,FR: Bein Sports 3 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2119.m3u8
-#EXTINF:-1,FR: BFMTV
+#EXTINF:0,FR: BFMTV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2113.m3u8
-#EXTINF:-1,FR: Canal
+#EXTINF:0,FR: Canal
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2120.m3u8
-#EXTINF:-1,FR: CANAL  CINEMA
+#EXTINF:0,FR: CANAL  CINEMA
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2121.m3u8
-#EXTINF:-1,FR: Canal  Decale
+#EXTINF:0,FR: Canal  Decale
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2122.m3u8
-#EXTINF:-1,FR: Canal  Sport
+#EXTINF:0,FR: Canal  Sport
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2123.m3u8
-#EXTINF:-1,FR: Cine  1
+#EXTINF:0,FR: Cine  1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2104.m3u8
-#EXTINF:-1,FR: Cine  2
+#EXTINF:0,FR: Cine  2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2103.m3u8
-#EXTINF:-1,FR: Cine  3
+#EXTINF:0,FR: Cine  3
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2102.m3u8
-#EXTINF:-1,FR: Cine  4
+#EXTINF:0,FR: Cine  4
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2101.m3u8
-#EXTINF:-1,FR: Cine  5
+#EXTINF:0,FR: Cine  5
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2100.m3u8
-#EXTINF:-1,FR: Cine  6
+#EXTINF:0,FR: Cine  6
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2099.m3u8
-#EXTINF:-1,FR: Cine  7
+#EXTINF:0,FR: Cine  7
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2098.m3u8
-#EXTINF:-1,FR: Cine  Classic
+#EXTINF:0,FR: Cine  Classic
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2124.m3u8
-#EXTINF:-1,FR: Cine  Club
+#EXTINF:0,FR: Cine  Club
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2125.m3u8
-#EXTINF:-1,FR: Cine  Emotion
+#EXTINF:0,FR: Cine  Emotion
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2126.m3u8
-#EXTINF:-1,FR: Cine  Famiz
+#EXTINF:0,FR: Cine  Famiz
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2127.m3u8
-#EXTINF:-1,FR: Cine  Frisson
+#EXTINF:0,FR: Cine  Frisson
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2128.m3u8
-#EXTINF:-1,FR: CINE  PREMIER HD
+#EXTINF:0,FR: CINE  PREMIER HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2129.m3u8
-#EXTINF:-1,FR: CINE COMEDIE
+#EXTINF:0,FR: CINE COMEDIE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2130.m3u8
-#EXTINF:-1,FR: D17
+#EXTINF:0,FR: D17
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2112.m3u8
-#EXTINF:-1,FR: D8
+#EXTINF:0,FR: D8
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2111.m3u8
-#EXTINF:-1,FR: discovery Channel HD
+#EXTINF:0,FR: discovery Channel HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2131.m3u8
-#EXTINF:-1,FR: Discovery Science
+#EXTINF:0,FR: Discovery Science
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2132.m3u8
-#EXTINF:-1,FR: Disney Channel
+#EXTINF:0,FR: Disney Channel
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2133.m3u8
-#EXTINF:-1,FR: Disney Junior
+#EXTINF:0,FR: Disney Junior
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2097.m3u8
-#EXTINF:-1,FR: Disney XD
+#EXTINF:0,FR: Disney XD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2096.m3u8
-#EXTINF:-1,FR: France 2
+#EXTINF:0,FR: France 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2134.m3u8
-#EXTINF:-1,FR: France 3
+#EXTINF:0,FR: France 3
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2135.m3u8
-#EXTINF:-1,FR: France 4
+#EXTINF:0,FR: France 4
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2136.m3u8
-#EXTINF:-1,FR: France 5
+#EXTINF:0,FR: France 5
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2137.m3u8
-#EXTINF:-1,FR: France O
+#EXTINF:0,FR: France O
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2138.m3u8
-#EXTINF:-1,FR: Gulli HD
+#EXTINF:0,FR: Gulli HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2139.m3u8
-#EXTINF:-1,FR: iTELE
+#EXTINF:0,FR: iTELE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2110.m3u8
-#EXTINF:-1,FR: La Deux
+#EXTINF:0,FR: La Deux
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2109.m3u8
-#EXTINF:-1,FR: La Trois
+#EXTINF:0,FR: La Trois
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2108.m3u8
-#EXTINF:-1,FR: La Une
+#EXTINF:0,FR: La Une
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2107.m3u8
-#EXTINF:-1,FR: M6 HD
+#EXTINF:0,FR: M6 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2140.m3u8
-#EXTINF:-1,FR: Nat. Geo Wild HD
+#EXTINF:0,FR: Nat. Geo Wild HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2141.m3u8
-#EXTINF:-1,FR: Nat. Geographic
+#EXTINF:0,FR: Nat. Geographic
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2142.m3u8
-#EXTINF:-1,FR: NRJ 12
+#EXTINF:0,FR: NRJ 12
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2143.m3u8
-#EXTINF:-1,FR: NT1
+#EXTINF:0,FR: NT1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2144.m3u8
-#EXTINF:-1,FR: OCS City
+#EXTINF:0,FR: OCS City
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2145.m3u8
-#EXTINF:-1,FR: OCS GEANT
+#EXTINF:0,FR: OCS GEANT
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2146.m3u8
-#EXTINF:-1,FR: OCS Max
+#EXTINF:0,FR: OCS Max
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2147.m3u8
-#EXTINF:-1,FR: Planete A&E
+#EXTINF:0,FR: Planete A&E
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2148.m3u8
-#EXTINF:-1,FR: Plug-RTL
+#EXTINF:0,FR: Plug-RTL
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2095.m3u8
-#EXTINF:-1,FR: RTL 9
+#EXTINF:0,FR: RTL 9
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2094.m3u8
-#EXTINF:-1,FR: RTL TVi HD
+#EXTINF:0,FR: RTL TVi HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2093.m3u8
-#EXTINF:-1,FR: RTS Deux
+#EXTINF:0,FR: RTS Deux
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2092.m3u8
-#EXTINF:-1,FR: RTS Un
+#EXTINF:0,FR: RTS Un
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2091.m3u8
-#EXTINF:-1,FR: SFR Sport 1
+#EXTINF:0,FR: SFR Sport 1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2090.m3u8
-#EXTINF:-1,FR: SFR Sport 2
+#EXTINF:0,FR: SFR Sport 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2089.m3u8
-#EXTINF:-1,FR: TELETOON
+#EXTINF:0,FR: TELETOON
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2149.m3u8
-#EXTINF:-1,FR: TF1 HD
+#EXTINF:0,FR: TF1 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2150.m3u8
-#EXTINF:-1,FR: TMC
+#EXTINF:0,FR: TMC
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2106.m3u8
-#EXTINF:-1,FR: VOYAGE HD
+#EXTINF:0,FR: VOYAGE HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2151.m3u8
-#EXTINF:-1,FR: W9
+#EXTINF:0,FR: W9
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2152.m3u8
-#EXTINF:-1,BEIN :SPORT1 HD
+#EXTINF:0,BEIN :SPORT1 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1976.m3u8
-#EXTINF:-1,BEIN :SPORT2 HD
+#EXTINF:0,BEIN :SPORT2 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1974.m3u8
-#EXTINF:-1,BEIN :SPORT3 HD
+#EXTINF:0,BEIN :SPORT3 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1973.m3u8
-#EXTINF:-1,BEIN :SPORT4 HD
+#EXTINF:0,BEIN :SPORT4 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1972.m3u8
-#EXTINF:-1,BEIN :SPORT5 HD
+#EXTINF:0,BEIN :SPORT5 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1971.m3u8
-#EXTINF:-1,BEIN :SPORT6 HD
+#EXTINF:0,BEIN :SPORT6 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1970.m3u8
-#EXTINF:-1,BEIN :SPORT7 HD
+#EXTINF:0,BEIN :SPORT7 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1969.m3u8
-#EXTINF:-1,BEIN :SPORT8 HD
+#EXTINF:0,BEIN :SPORT8 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1968.m3u8
-#EXTINF:-1,BEIN :SPORT9 HD
+#EXTINF:0,BEIN :SPORT9 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1967.m3u8
-#EXTINF:-1,BEIN :SPORT10 HD
+#EXTINF:0,BEIN :SPORT10 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1975.m3u8
-#EXTINF:-1,---? ITALY ?---
+#EXTINF:0,---? ITALY ?---
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1977.m3u8
-#EXTINF:-1,IT: Alice
+#EXTINF:0,IT: Alice
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2028.m3u8
-#EXTINF:-1,IT: AXN HD
+#EXTINF:0,IT: AXN HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2000.m3u8
-#EXTINF:-1,IT: Canale 5 HD
+#EXTINF:0,IT: Canale 5 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2025.m3u8
-#EXTINF:-1,IT: Fox Animation HD
+#EXTINF:0,IT: Fox Animation HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1980.m3u8
-#EXTINF:-1,IT: Fox Crime HD
+#EXTINF:0,IT: Fox Crime HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1979.m3u8
-#EXTINF:-1,IT: FOX LIFE HD
+#EXTINF:0,IT: FOX LIFE HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2026.m3u8
-#EXTINF:-1,IT: LA 7
+#EXTINF:0,IT: LA 7
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2027.m3u8
-#EXTINF:-1,IT: Mediaset 1
+#EXTINF:0,IT: Mediaset 1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1999.m3u8
-#EXTINF:-1,IT: Mediaset Extra
+#EXTINF:0,IT: Mediaset Extra
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1995.m3u8
-#EXTINF:-1,IT: Nat Geo Wild HD
+#EXTINF:0,IT: Nat Geo Wild HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2023.m3u8
-#EXTINF:-1,IT: Premium Action  24 HD
+#EXTINF:0,IT: Premium Action  24 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2021.m3u8
-#EXTINF:-1,IT: Premium Action HD
+#EXTINF:0,IT: Premium Action HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2020.m3u8
-#EXTINF:-1,IT: Premium Cinema 24 HD
+#EXTINF:0,IT: Premium Cinema 24 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2018.m3u8
-#EXTINF:-1,IT: Premium Cinema Comedy
+#EXTINF:0,IT: Premium Cinema Comedy
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2022.m3u8
-#EXTINF:-1,IT: Premium Cinema HD
+#EXTINF:0,IT: Premium Cinema HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2017.m3u8
-#EXTINF:-1,IT: Premium Comedy HD
+#EXTINF:0,IT: Premium Comedy HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2016.m3u8
-#EXTINF:-1,IT: Premium Crime HD
+#EXTINF:0,IT: Premium Crime HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2015.m3u8
-#EXTINF:-1,IT: Premium Disney Channel
+#EXTINF:0,IT: Premium Disney Channel
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2014.m3u8
-#EXTINF:-1,IT: Premium Emotion HD
+#EXTINF:0,IT: Premium Emotion HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2013.m3u8
-#EXTINF:-1,IT: Premium Energy HD
+#EXTINF:0,IT: Premium Energy HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2012.m3u8
-#EXTINF:-1,IT: Premium Joy
+#EXTINF:0,IT: Premium Joy
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2011.m3u8
-#EXTINF:-1,IT: Premium Sport 1 HD
+#EXTINF:0,IT: Premium Sport 1 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2009.m3u8
-#EXTINF:-1,IT: Premium Sport 2 HD
+#EXTINF:0,IT: Premium Sport 2 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2010.m3u8
-#EXTINF:-1,IT: Premium Stories HD
+#EXTINF:0,IT: Premium Stories HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2008.m3u8
-#EXTINF:-1,IT: Rai 1 HD
+#EXTINF:0,IT: Rai 1 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2007.m3u8
-#EXTINF:-1,IT: Rai 2 HD
+#EXTINF:0,IT: Rai 2 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2006.m3u8
-#EXTINF:-1,IT: Rai 3 HD
+#EXTINF:0,IT: Rai 3 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2005.m3u8
-#EXTINF:-1,IT: Rai 4 HD
+#EXTINF:0,IT: Rai 4 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2004.m3u8
-#EXTINF:-1,IT: Rai 5 HD
+#EXTINF:0,IT: Rai 5 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1996.m3u8
-#EXTINF:-1,IT: Rai Gulp
+#EXTINF:0,IT: Rai Gulp
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2003.m3u8
-#EXTINF:-1,IT: Rai Movie
+#EXTINF:0,IT: Rai Movie
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2002.m3u8
-#EXTINF:-1,IT: Rai News 24 HD
+#EXTINF:0,IT: Rai News 24 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2024.m3u8
-#EXTINF:-1,IT: Rai Premium
+#EXTINF:0,IT: Rai Premium
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2001.m3u8
-#EXTINF:-1,IT: Rai Yoyo
+#EXTINF:0,IT: Rai Yoyo
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1998.m3u8
-#EXTINF:-1,IT: Rete 4 HD
+#EXTINF:0,IT: Rete 4 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1997.m3u8
-#EXTINF:-1,IT: Sky Cinema  24 HD
+#EXTINF:0,IT: Sky Cinema  24 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1994.m3u8
-#EXTINF:-1,IT: SKY CINEMA 1 HD
+#EXTINF:0,IT: SKY CINEMA 1 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1993.m3u8
-#EXTINF:-1,IT: Sky Cinema Comedy HD
+#EXTINF:0,IT: Sky Cinema Comedy HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1992.m3u8
-#EXTINF:-1,IT: Sky Cinema Cult HD
+#EXTINF:0,IT: Sky Cinema Cult HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1991.m3u8
-#EXTINF:-1,IT: Sky Cinema Max HD
+#EXTINF:0,IT: Sky Cinema Max HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1990.m3u8
-#EXTINF:-1,IT: Sky Cinema Passion HD
+#EXTINF:0,IT: Sky Cinema Passion HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1989.m3u8
-#EXTINF:-1,IT: Sky Discovery Channel HD
+#EXTINF:0,IT: Sky Discovery Channel HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1988.m3u8
-#EXTINF:-1,IT: Sky Disney Junior
+#EXTINF:0,IT: Sky Disney Junior
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2019.m3u8
-#EXTINF:-1,IT: Sky Fox HD
+#EXTINF:0,IT: Sky Fox HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1987.m3u8
-#EXTINF:-1,IT: Sky Moto GP HD
+#EXTINF:0,IT: Sky Moto GP HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1986.m3u8
-#EXTINF:-1,IT: Sky Sport 1 HD
+#EXTINF:0,IT: Sky Sport 1 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1985.m3u8
-#EXTINF:-1,IT: Sky Sport 2 HD
+#EXTINF:0,IT: Sky Sport 2 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1984.m3u8
-#EXTINF:-1,IT: Sky Sport 24 HD
+#EXTINF:0,IT: Sky Sport 24 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1983.m3u8
-#EXTINF:-1,IT: Sky Sport F1 HD
+#EXTINF:0,IT: Sky Sport F1 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1982.m3u8
-#EXTINF:-1,IT: Sky Super Calcio HD
+#EXTINF:0,IT: Sky Super Calcio HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1981.m3u8
-#EXTINF:-1,IT: SKY UNO
+#EXTINF:0,IT: SKY UNO
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1978.m3u8
-#EXTINF:-1,---? NETHERLAND?---
+#EXTINF:0,---? NETHERLAND?---
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1910.m3u8
-#EXTINF:-1,NL: Comedy Central
+#EXTINF:0,NL: Comedy Central
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1935.m3u8
-#EXTINF:-1,NL: Discovery Channel
+#EXTINF:0,NL: Discovery Channel
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1934.m3u8
-#EXTINF:-1,NL: Disney Channel
+#EXTINF:0,NL: Disney Channel
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1933.m3u8
-#EXTINF:-1,NL: Film 1 Action
+#EXTINF:0,NL: Film 1 Action
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1932.m3u8
-#EXTINF:-1,NL: Film 1 Drama
+#EXTINF:0,NL: Film 1 Drama
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1931.m3u8
-#EXTINF:-1,NL: Film 1 Sundance
+#EXTINF:0,NL: Film 1 Sundance
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1930.m3u8
-#EXTINF:-1,NL: Fox Sports 1
+#EXTINF:0,NL: Fox Sports 1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1929.m3u8
-#EXTINF:-1,NL: Fox Sports 2
+#EXTINF:0,NL: Fox Sports 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1928.m3u8
-#EXTINF:-1,NL: Fox Sports 3
+#EXTINF:0,NL: Fox Sports 3
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1927.m3u8
-#EXTINF:-1,NL: Fox Sports 4
+#EXTINF:0,NL: Fox Sports 4
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1926.m3u8
-#EXTINF:-1,NL: Fox Sports 5
+#EXTINF:0,NL: Fox Sports 5
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1925.m3u8
-#EXTINF:-1,NL: Fox Sports 6
+#EXTINF:0,NL: Fox Sports 6
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1924.m3u8
-#EXTINF:-1,NL: HBO
+#EXTINF:0,NL: HBO
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1923.m3u8
-#EXTINF:-1,NL: HBO 2
+#EXTINF:0,NL: HBO 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1922.m3u8
-#EXTINF:-1,NL: HBO 3
+#EXTINF:0,NL: HBO 3
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1921.m3u8
-#EXTINF:-1,NL: Nat Geo Wild HD
+#EXTINF:0,NL: Nat Geo Wild HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1920.m3u8
-#EXTINF:-1,NL: NET 5
+#EXTINF:0,NL: NET 5
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1919.m3u8
-#EXTINF:-1,NL: NICKELODEON
+#EXTINF:0,NL: NICKELODEON
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1918.m3u8
-#EXTINF:-1,NL: NPO 1
+#EXTINF:0,NL: NPO 1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1917.m3u8
-#EXTINF:-1,NL: NPO 2
+#EXTINF:0,NL: NPO 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1916.m3u8
-#EXTINF:-1,NL: RTL 4
+#EXTINF:0,NL: RTL 4
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1915.m3u8
-#EXTINF:-1,NL: RTL 5
+#EXTINF:0,NL: RTL 5
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1914.m3u8
-#EXTINF:-1,NL: RTL 7
+#EXTINF:0,NL: RTL 7
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1913.m3u8
-#EXTINF:-1,NL: RTL 8
+#EXTINF:0,NL: RTL 8
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1912.m3u8
-#EXTINF:-1,NL: Ziggo Sport
+#EXTINF:0,NL: Ziggo Sport
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1911.m3u8
-#EXTINF:-1,---? SPAIN ?---
+#EXTINF:0,---? SPAIN ?---
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2205.m3u8
-#EXTINF:-1,ES : COSMOS HD
+#EXTINF:0,ES : COSMOS HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2153.m3u8
-#EXTINF:-1,ES: #0 HD
+#EXTINF:0,ES: #0 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2154.m3u8
-#EXTINF:-1,ES: A&E
+#EXTINF:0,ES: A&E
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2155.m3u8
-#EXTINF:-1,ES: AMC
+#EXTINF:0,ES: AMC
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2156.m3u8
-#EXTINF:-1,ES: Antena 3
+#EXTINF:0,ES: Antena 3
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2157.m3u8
-#EXTINF:-1,ES: AXN HD
+#EXTINF:0,ES: AXN HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2158.m3u8
-#EXTINF:-1,ES: BEIN LA LIGA HD
+#EXTINF:0,ES: BEIN LA LIGA HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2159.m3u8
-#EXTINF:-1,ES: beIN Sport Ñ
+#EXTINF:0,ES: beIN Sport Ñ
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2160.m3u8
-#EXTINF:-1,ES: Canal  Estrenos Hd
+#EXTINF:0,ES: Canal  Estrenos Hd
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2161.m3u8
-#EXTINF:-1,ES: Canal Cocina
+#EXTINF:0,ES: Canal Cocina
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2162.m3u8
-#EXTINF:-1,ES: Caza y Pesca
+#EXTINF:0,ES: Caza y Pesca
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2163.m3u8
-#EXTINF:-1,ES: COMEDY CENTRAL HD
+#EXTINF:0,ES: COMEDY CENTRAL HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2164.m3u8
-#EXTINF:-1,ES: CRIME INVESTIGACION
+#EXTINF:0,ES: CRIME INVESTIGACION
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2165.m3u8
-#EXTINF:-1,ES: CUATRO
+#EXTINF:0,ES: CUATRO
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2166.m3u8
-#EXTINF:-1,ES: Discovery Channel HD
+#EXTINF:0,ES: Discovery Channel HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2167.m3u8
-#EXTINF:-1,ES: DISNEY CHANNELS HD
+#EXTINF:0,ES: DISNEY CHANNELS HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2168.m3u8
-#EXTINF:-1,ES: Disney Junior
+#EXTINF:0,ES: Disney Junior
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2169.m3u8
-#EXTINF:-1,ES: EUROSPORT 1 HD
+#EXTINF:0,ES: EUROSPORT 1 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2170.m3u8
-#EXTINF:-1,ES: FOX
+#EXTINF:0,ES: FOX
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2171.m3u8
-#EXTINF:-1,ES: FOX Life
+#EXTINF:0,ES: FOX Life
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2172.m3u8
-#EXTINF:-1,ES: Historia
+#EXTINF:0,ES: Historia
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2173.m3u8
-#EXTINF:-1,ES: Hollywood HD
+#EXTINF:0,ES: Hollywood HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2174.m3u8
-#EXTINF:-1,ES: La 1 HD
+#EXTINF:0,ES: La 1 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2175.m3u8
-#EXTINF:-1,ES: La 2
+#EXTINF:0,ES: La 2
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2176.m3u8
-#EXTINF:-1,ES: la liga tv HD
+#EXTINF:0,ES: la liga tv HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2177.m3u8
-#EXTINF:-1,ES: La Sexta HD
+#EXTINF:0,ES: La Sexta HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2178.m3u8
-#EXTINF:-1,ES: M  Accion
+#EXTINF:0,ES: M  Accion
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2179.m3u8
-#EXTINF:-1,ES: M  Comedia
+#EXTINF:0,ES: M  Comedia
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2180.m3u8
-#EXTINF:-1,ES: M  Deportes 2 HD
+#EXTINF:0,ES: M  Deportes 2 HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2181.m3u8
-#EXTINF:-1,ES: M  Deportes HD
+#EXTINF:0,ES: M  Deportes HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2182.m3u8
-#EXTINF:-1,ES: M  Futbol HD
+#EXTINF:0,ES: M  Futbol HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2183.m3u8
-#EXTINF:-1,ES: M  Golf HD
+#EXTINF:0,ES: M  Golf HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2184.m3u8
-#EXTINF:-1,ES: M  Series Xtra HD
+#EXTINF:0,ES: M  Series Xtra HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2185.m3u8
-#EXTINF:-1,ES: M  Toros
+#EXTINF:0,ES: M  Toros
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2186.m3u8
-#EXTINF:-1,ES: M  Xtra HD
+#EXTINF:0,ES: M  Xtra HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2187.m3u8
-#EXTINF:-1,ES: MEGA
+#EXTINF:0,ES: MEGA
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2188.m3u8
-#EXTINF:-1,ES: Ml  DCine
+#EXTINF:0,ES: Ml  DCine
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2189.m3u8
-#EXTINF:-1,ES: Movistar F1
+#EXTINF:0,ES: Movistar F1
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2190.m3u8
-#EXTINF:-1,ES: Movistar MotoGP
+#EXTINF:0,ES: Movistar MotoGP
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2191.m3u8
-#EXTINF:-1,ES: Nat. Geo Wild HD
+#EXTINF:0,ES: Nat. Geo Wild HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2192.m3u8
-#EXTINF:-1,ES: Nat. Geographic HD
+#EXTINF:0,ES: Nat. Geographic HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2193.m3u8
-#EXTINF:-1,ES: Nickelodeon HD
+#EXTINF:0,ES: Nickelodeon HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2194.m3u8
-#EXTINF:-1,ES: NONSTOPEOPLE
+#EXTINF:0,ES: NONSTOPEOPLE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2195.m3u8
-#EXTINF:-1,ES: Nova
+#EXTINF:0,ES: Nova
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2196.m3u8
-#EXTINF:-1,ES: Odisea
+#EXTINF:0,ES: Odisea
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2197.m3u8
-#EXTINF:-1,ES: Real Madrid TV
+#EXTINF:0,ES: Real Madrid TV
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2198.m3u8
-#EXTINF:-1,ES: SyFy
+#EXTINF:0,ES: SyFy
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2199.m3u8
-#EXTINF:-1,ES: TELECINCO HD
+#EXTINF:0,ES: TELECINCO HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2200.m3u8
-#EXTINF:-1,ES: Teledeporte
+#EXTINF:0,ES: Teledeporte
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2201.m3u8
-#EXTINF:-1,ES: TMC HD
+#EXTINF:0,ES: TMC HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2202.m3u8
-#EXTINF:-1,ES: TNT HD
+#EXTINF:0,ES: TNT HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2203.m3u8
-#EXTINF:-1,ES: VIAJAR HD
+#EXTINF:0,ES: VIAJAR HD
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2204.m3u8
-#EXTINF:-1,# CANAIS MOBILE #
+#EXTINF:0,# CANAIS MOBILE #
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1351.m3u8
-#EXTINF:-1,RTP 1 MOBILE
+#EXTINF:0,RTP 1 MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1352.m3u8
-#EXTINF:-1,RTP 2 MOBILE
+#EXTINF:0,RTP 2 MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1353.m3u8
-#EXTINF:-1,SIC MOBILE
+#EXTINF:0,SIC MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1354.m3u8
-#EXTINF:-1,TVI MOBILE
+#EXTINF:0,TVI MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1355.m3u8
-#EXTINF:-1,RTP 3 MOBILE
+#EXTINF:0,RTP 3 MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1356.m3u8
-#EXTINF:-1,TVI 24 MOBILE
+#EXTINF:0,TVI 24 MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1358.m3u8
-#EXTINF:-1,SIC NOTICIAS MOBILE
+#EXTINF:0,SIC NOTICIAS MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1357.m3u8
-#EXTINF:-1,CMTV MOBILE
+#EXTINF:0,CMTV MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1359.m3u8
-#EXTINF:-1,PORTO CANAL MOBILE
+#EXTINF:0,PORTO CANAL MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1360.m3u8
-#EXTINF:-1,RTP MADEIRA MOBILE
+#EXTINF:0,RTP MADEIRA MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1366.m3u8
-#EXTINF:-1,RTP AÇORES MOBILE
+#EXTINF:0,RTP AÇORES MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1367.m3u8
-#EXTINF:-1,TVI REALTY MOBILE
+#EXTINF:0,TVI REALTY MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1362.m3u8
-#EXTINF:-1,SIC RADICAL MOBILE
+#EXTINF:0,SIC RADICAL MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1363.m3u8
-#EXTINF:-1,SIC MULHER MOBILE
+#EXTINF:0,SIC MULHER MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1364.m3u8
-#EXTINF:-1,SIC CARAS MOBILE
+#EXTINF:0,SIC CARAS MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1414.m3u8
-#EXTINF:-1,TVI FICCAO MOBILE
+#EXTINF:0,TVI FICCAO MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1361.m3u8
-#EXTINF:-1,CANAL Q MOBILE
+#EXTINF:0,CANAL Q MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1365.m3u8
-#EXTINF:-1,TV RECORD MOBILE
+#EXTINF:0,TV RECORD MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1368.m3u8
-#EXTINF:-1,GLOBO MOBILE
+#EXTINF:0,GLOBO MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1369.m3u8
-#EXTINF:-1,GLOBO PREMIUM MOBILE
+#EXTINF:0,GLOBO PREMIUM MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1370.m3u8
-#EXTINF:-1,ABOLA TV MOBILE
+#EXTINF:0,ABOLA TV MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1371.m3u8
-#EXTINF:-1,SPORTV   MOBILE
+#EXTINF:0,SPORTV   MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1372.m3u8
-#EXTINF:-1,SPORTV 1 MOBILE
+#EXTINF:0,SPORTV 1 MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1373.m3u8
-#EXTINF:-1,SPORTV 2 MOBILE
+#EXTINF:0,SPORTV 2 MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1374.m3u8
-#EXTINF:-1,SPORTV 3 MOBILE
+#EXTINF:0,SPORTV 3 MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1375.m3u8
-#EXTINF:-1,SPORTV 4 MOBILE
+#EXTINF:0,SPORTV 4 MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1376.m3u8
-#EXTINF:-1,SPORTV 5 MOBILE
+#EXTINF:0,SPORTV 5 MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1377.m3u8
-#EXTINF:-1,BENFICA TV 1 MOBILE
+#EXTINF:0,BENFICA TV 1 MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1378.m3u8
-#EXTINF:-1,PFC MOBILE
+#EXTINF:0,PFC MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1380.m3u8
-#EXTINF:-1,SPORTING TV MOBILE
+#EXTINF:0,SPORTING TV MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1379.m3u8
-#EXTINF:-1,EUROSPORT MOBILE
+#EXTINF:0,EUROSPORT MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1381.m3u8
-#EXTINF:-1,EUROSPORT 2 MOBILE
+#EXTINF:0,EUROSPORT 2 MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1382.m3u8
-#EXTINF:-1,MOTORS TV MOBILE
+#EXTINF:0,MOTORS TV MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1385.m3u8
-#EXTINF:-1,MOTORVISION MOBILE
+#EXTINF:0,MOTORVISION MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1384.m3u8
-#EXTINF:-1,KOMBAT SPORT MOBILE
+#EXTINF:0,KOMBAT SPORT MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1386.m3u8
-#EXTINF:-1,CAÇA E PESCA MOBILE
+#EXTINF:0,CAÇA E PESCA MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1387.m3u8
-#EXTINF:-1,TVCINE 1 MOBILE
+#EXTINF:0,TVCINE 1 MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1388.m3u8
-#EXTINF:-1,TVCINE 2 MOBILE
+#EXTINF:0,TVCINE 2 MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1389.m3u8
-#EXTINF:-1,TVCINE 3 MOBILE
+#EXTINF:0,TVCINE 3 MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1390.m3u8
-#EXTINF:-1,TVCINE 4 MOBILE
+#EXTINF:0,TVCINE 4 MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1391.m3u8
-#EXTINF:-1,TVSERIES MOBILE
+#EXTINF:0,TVSERIES MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1392.m3u8
-#EXTINF:-1,HOLLYWOOD MOBILE
+#EXTINF:0,HOLLYWOOD MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1394.m3u8
-#EXTINF:-1,CINEMUNDO MOBILE
+#EXTINF:0,CINEMUNDO MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1395.m3u8
-#EXTINF:-1,FOX MOBILE
+#EXTINF:0,FOX MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1399.m3u8
-#EXTINF:-1,FOX MOVIE MOBILE
+#EXTINF:0,FOX MOVIE MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1400.m3u8
-#EXTINF:-1,FOX LIFE MOBILE
+#EXTINF:0,FOX LIFE MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1401.m3u8
-#EXTINF:-1,FOX CRIME MOBILE
+#EXTINF:0,FOX CRIME MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1402.m3u8
-#EXTINF:-1,FOX COMEDY MOBILE
+#EXTINF:0,FOX COMEDY MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1403.m3u8
-#EXTINF:-1,AXN MOBILE
+#EXTINF:0,AXN MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1396.m3u8
-#EXTINF:-1,AXN WHITE MOBILE
+#EXTINF:0,AXN WHITE MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1397.m3u8
-#EXTINF:-1,AXN BLACK MOBILE
+#EXTINF:0,AXN BLACK MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1398.m3u8
-#EXTINF:-1,NAT GEOGRAFIC MOBILE
+#EXTINF:0,NAT GEOGRAFIC MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1404.m3u8
-#EXTINF:-1,DISCOVERY MOBILE
+#EXTINF:0,DISCOVERY MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1405.m3u8
-#EXTINF:-1,DISCOVERY SHOWCASE MOBILE
+#EXTINF:0,DISCOVERY SHOWCASE MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1406.m3u8
-#EXTINF:-1,CANAL HISTORIA MOBILE
+#EXTINF:0,CANAL HISTORIA MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1407.m3u8
-#EXTINF:-1,TLC MOBILE
+#EXTINF:0,TLC MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1410.m3u8
-#EXTINF:-1,A & E MOBILE
+#EXTINF:0,A & E MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1409.m3u8
-#EXTINF:-1,ODISSEIA MOBILE
+#EXTINF:0,ODISSEIA MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1411.m3u8
-#EXTINF:-1,DISNEY JUNIOR MOBILE
+#EXTINF:0,DISNEY JUNIOR MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1412.m3u8
-#EXTINF:-1,DISNEY CHANNEL MOBILE
+#EXTINF:0,DISNEY CHANNEL MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1413.m3u8
-#EXTINF:-1,SIC K MOBILE
+#EXTINF:0,SIC K MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1418.m3u8
-#EXTINF:-1,PANDA BIGGS MOBILE
+#EXTINF:0,PANDA BIGGS MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1415.m3u8
-#EXTINF:-1,NICKELODEON MOBILE
+#EXTINF:0,NICKELODEON MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1419.m3u8
-#EXTINF:-1,BABY TV MOBILE
+#EXTINF:0,BABY TV MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1408.m3u8
-#EXTINF:-1,JIM JAM MOBILE
+#EXTINF:0,JIM JAM MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1416.m3u8
-#EXTINF:-1,CARTOON NETWORK MOBILE
+#EXTINF:0,CARTOON NETWORK MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1417.m3u8
-#EXTINF:-1,CANAL PANDA MOBILE
+#EXTINF:0,CANAL PANDA MOBILE
 http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1420.m3u8
-#EXTINF:-1,# ADULTOS #
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/457.m3u8
-#EXTINF:-1,PLAYBOY XX
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/123.m3u8
-#EXTINF:-1,PENTHOUSE XX
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/214.m3u8
-#EXTINF:-1,SEXTREME XX
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/512.m3u8
-#EXTINF:-1,HOT HD XX
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/50.m3u8
-#EXTINF:-1,VENUS XX
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/49.m3u8
-#EXTINF:-1,HUSTLER HD XX
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/852.m3u8
-#EXTINF:-1,REDLIGHT HD XX
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/849.m3u8
-#EXTINF:-1,SCT XX
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/791.m3u8
-#EXTINF:-1,SCT HD XX
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/790.m3u8
-#EXTINF:-1,PINK O TV XX
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/792.m3u8
-#EXTINF:-1,TGIRLS TV XX
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/788.m3u8
-#EXTINF:-1,EXOTICA TV XX
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/793.m3u8
-#EXTINF:-1,SESTO SENSO TV XX
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/789.m3u8
-#EXTINF:-1,CENTOXCENTO TV XX
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/794.m3u8
-#EXTINF:-1,XXX VENUS MOBILE
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1421.m3u8
-#EXTINF:-1,XXX PLAYBOY MOBILE
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1422.m3u8
-#EXTINF:-1,XXX HOT MOBILE
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/1423.m3u8
-#EXTINF:-1,xXx: Hot Club 1
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2029.m3u8
-#EXTINF:-1,xXx: Hot Club 2
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2030.m3u8
-#EXTINF:-1,xXx: Hot Club 3
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2031.m3u8
-#EXTINF:-1,xXx: Hot Club 4
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2032.m3u8
-#EXTINF:-1,xXx: Hot Club 5
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2033.m3u8
-#EXTINF:-1,XXX: Hot Club 6
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2034.m3u8
-#EXTINF:-1,XXX: Hot Club 7
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2035.m3u8
-#EXTINF:-1,XXX: Hot Club 8
-http://ip4you.dyndns.tv:9696/live/jsilva/Wl7zLVfOV4/2036.m3u8
