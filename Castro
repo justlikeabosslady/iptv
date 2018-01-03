@@ -9,6 +9,8 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/219.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/153.ts
 #EXTINF:-1,PT: SportTV 5
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/162.ts
+#EXTINF:-1,PT: BTV1
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/12260.ts
 #EXTINF:-1,------PORTUGAL------
 http://mv.ipmdmv.com:8000/live/kika/kika/132596.ts
 #EXTINF:-1,(PT) RTPi
@@ -83,3 +85,11 @@ http://mv.ipmdmv.com:8000/live/kika/kika/1457.ts
 http://mv.ipmdmv.com:8000/live/kika/kika/1458.ts
 #EXTINF:-1,(PT) SPORT TV 5 HD
 http://mv.ipmdmv.com:8000/live/kika/kika/1459.ts
+#EXTINF:-1,24/7: The Simpsons HD
+http://fullpremiumvip.com:8000/live/albert1/albert1/836.ts
+#EXTINF:-1,24/7: Peliculas FULL HD
+http://fullpremiumvip.com:8000/live/albert1/albert1/854.ts
+#EXTINF:-1,24/7: Family Guy HD
+http://fullpremiumvip.com:8000/live/albert1/albert1/847.ts
+#EXTINF:-1,24/7: Futurama HD
+http://fullpremiumvip.com:8000/live/albert1/albert1/846.ts
